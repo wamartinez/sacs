@@ -1,5 +1,11 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES 
 
-El propósito de formar en competencias digitales básicas y generales responde a las demandas del mundo contemporáneo y a las mediaciones digitales que permiten otras maneras de generar conocimiento en una sociedad tecnocientífica.  
+## Clase 1
+
+El proposito de esta clase es evaluar las habilidades de los estudiantes en general. Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
+
+--Vamos a empezar llenando el siguiente formulario
 
 Resolver cuestionario [notes](https://forms.gle/k8ENnTLwQxEMHTau7) 
+
+
