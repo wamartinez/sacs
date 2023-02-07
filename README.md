@@ -5,7 +5,7 @@ Profesor: William Martinez
 
 1. Programa del curso [Aquí](https://github.com/wamartinez/sacs/blob/main/Documents/PROGRAMASOFTWARE.pdf)
 
-2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas. Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
+2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel). Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
 
 - Pero antes por favor descarguen la siguiente tabla excel
 
