@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 ## Clase 1
 
-1. Porgrama del curso [Aquí](https://wamartinez.github.io/ts_sentinel2/Document/Thesis_index_wm.pdf)
+1. Porgrama del curso [Aquí](https://wamartinez.github.io/sasc/Documents/PROGRAMA SOFTWARE.pdf)
 
 2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas. Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
 
