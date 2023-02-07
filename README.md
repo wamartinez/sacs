@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 ## Clase 1
 
-1. Programa del curso [Aquí](https://github.com/wamartinez/sacs/blob/main/Documents/PROGRAMASOFTWARE.pdf)
+1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/Documents/PROGRAMASOFTWARE.pdf)
 
 2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel). Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
 
