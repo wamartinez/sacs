@@ -3,9 +3,13 @@ Profesor: William Martinez
 
 ## Clase 1
 
-El proposito de esta clase es evaluar las habilidades de los estudiantes en herramientas ofimáticas. Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
+1. Porgrama del curso [Aquí](https://wamartinez.github.io/ts_sentinel2/Document/Thesis_index_wm.pdf)
 
---Vamos a empezar diligenciando el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
+2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas. Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
+
+** Pero antes por favor descarguen la siguiente tabla excel
+
+** Ahora Vamos a empezar diligenciando el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
 Gracias!!
 
