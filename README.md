@@ -11,6 +11,11 @@ Profesor: William Martinez
 
 - Ahora Vamos a empezar diligenciando el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
+3. Instalar office 365 en sus equipos [Aquí](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
+
+
+
+
 Gracias!!
 
 
