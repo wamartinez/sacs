@@ -7,7 +7,7 @@ Profesor: William Martinez
 
 2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel). Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
 
-- Pero antes por favor descarguen la siguiente tabla excel
+- Pero antes por favor descarguen el siguiente [documento](https://github.com/wamartinez/sacs/blob/main/Ejercicio/Ejercicio.docx) para diligenciar el formulario siguiente 
 
 - Ahora Vamos a empezar diligenciando el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
