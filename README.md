@@ -7,9 +7,9 @@ Profesor: William Martinez
 
 2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas. Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
 
-** Pero antes por favor descarguen la siguiente tabla excel
+- Pero antes por favor descarguen la siguiente tabla excel
 
-** Ahora Vamos a empezar diligenciando el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
+- Ahora Vamos a empezar diligenciando el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
 Gracias!!
 
