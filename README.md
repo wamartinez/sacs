@@ -17,3 +17,8 @@ Profesor: William Martinez
 Gracias!!
 
 
+## Clase 2
+
+Teórico práctica acerca de busquedas efectivas en gestores de información
+
+[Presentación](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
