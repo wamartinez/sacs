@@ -22,3 +22,5 @@ Gracias!!
 Clase teórico práctica acerca de busquedas efectivas en gestores de información
 
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Documents/Clase2/ClaseSem1_OperadoresBooleanos.pptx)
+
+[Gmail](https://smartkey.xertica.com/cloudkey/a/unal.edu.co/user/login?namespace=unal.edu.co)
