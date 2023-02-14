@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 ## Semana 1
 
-1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/Documents/PROGRAMASOFTWARE_SASC_2023_1.pdf)
+1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/PROGRAMASOFTWARE_SASC_2023_1.pdf)
 
 2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel). Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
 
@@ -19,6 +19,6 @@ Profesor: William Martinez
 Búsquedas efectivas
 
 1. Clase teórico práctica acerca de busquedas efectivas en gestores de información
-[Presentación](https://github.com/wamartinez/sacs/blob/main/Documents/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
+[Presentación](https://github.com/wamartinez/sacs/blob/main/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
 
-2. Lectura en casa [Guía del investigador](https://github.com/wamartinez/sacs/blob/main/Documents/Semana2/ResearchBasics_Guide_2018.pdf)
+2. Lectura en casa [Guía del investigador](https://github.com/wamartinez/sacs/blob/main/Semana2/ResearchBasics_Guide_2018.pdf)
