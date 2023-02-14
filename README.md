@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 ## Semana 1
 
-1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/Documents/PROGRAMASOFTWARE.pdf)
+1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/Documents/PROGRAMASOFTWARE_SASC_2023_1.pdf)
 
 2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel). Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
 
@@ -13,7 +13,10 @@ Profesor: William Martinez
 
 3. Instalar office 365 en sus equipos [Aquí](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
 
-3. Clase teórico práctica acerca de busquedas efectivas en gestores de información
 
+## Semana 2
+
+1. Clase teórico práctica acerca de busquedas efectivas en gestores de información
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Documents/Clase2/ClaseSem1_OperadoresBooleanos.pptx)
 
+2. Lectura en casa de 
