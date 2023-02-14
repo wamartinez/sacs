@@ -16,6 +16,8 @@ Profesor: William Martinez
 
 ## Semana 2
 
+Búsquedas efectivas
+
 1. Clase teórico práctica acerca de busquedas efectivas en gestores de información
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Documents/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
 
