@@ -22,3 +22,5 @@ Búsquedas efectivas
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
 
 2. Lectura en casa [Guía del investigador](https://github.com/wamartinez/sacs/blob/main/Semana2/ResearchBasics_Guide_2018.pdf)
+
+3. Taller viernes 17 de febrero  [Formulario](https://docs.google.com/forms/d/1vJAbxtA5AJqBQ8fwl4vpVrcMPPwv-CBvZUtCAEgM5FQ/edit?usp=drive_web)
