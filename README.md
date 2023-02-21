@@ -24,3 +24,13 @@ Búsquedas efectivas
 2. Lectura en casa [Guía del investigador](https://github.com/wamartinez/sacs/blob/main/Semana2/ResearchBasics_Guide_2018.pdf)
 
 3. Taller viernes 17 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScatqL1cs0sXECi7AgqdnY-RD5pHhHVI4DeSc7CBncSOyb4Ng/viewform?usp=sf_link)
+
+
+
+## Semana 3
+
+Establecer credibilidad en las fuentes de información
+
+1. Clase teórica
+[Presentación](https://github.com/wamartinez/sacs/blob/main/Semana3/StablishingCredibility.pptx)
+
