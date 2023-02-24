@@ -34,3 +34,7 @@ Establecer credibilidad en las fuentes de información
 1. Clase teórica
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana3/StablishingCredibility.pptx)
 
+2. Taller viernes 24 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
+
+
+
