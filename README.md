@@ -36,5 +36,12 @@ Establecer credibilidad en las fuentes de información
 
 2. Taller viernes 24 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
 
+## Semana 4
+
+Gestión de la información bibiliográfica
+
+1. Clase teórica
+[Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblioy.pptx)
+
 
 
