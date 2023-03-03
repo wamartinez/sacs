@@ -44,7 +44,5 @@ Gestión de la información bibiliográfica
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
 Material:
-[Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s)
-
-[Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
+[Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
 
