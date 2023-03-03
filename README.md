@@ -1,7 +1,7 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-## Semana 1
+## Semana 1 (Feb 6 - Feb 10)
 
 1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/PROGRAMASOFTWARE_SASC_2023_1.pdf)
 
@@ -14,7 +14,7 @@ Profesor: William Martinez
 3. Instalar office 365 en sus equipos [Aquí](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
 
 
-## Semana 2
+## Semana 2 (Feb 13 - Feb 17)
 
 Búsquedas efectivas
 
@@ -27,7 +27,7 @@ Búsquedas efectivas
 
 
 
-## Semana 3
+## Semana 3  (Feb 20 - Feb 24)
 
 Establecer credibilidad en las fuentes de información
 
@@ -43,6 +43,7 @@ Gestión de la información bibiliográfica
 1. Clase teórica
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
-Material:  [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s)
-
+Material:  
+[Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s)
+[Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
 
