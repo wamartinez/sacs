@@ -36,14 +36,14 @@ Establecer credibilidad en las fuentes de información
 
 2. Taller viernes 24 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
 
-## Semana 4 (Feb 27 - Mar 03)
+## Semana 4 y 5 (Feb 27 - Mar 10)
 
 Gestión de la información bibiliográfica
 
 1. Clase teórica
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
-Material:  
+Material:
 [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s)
 
 [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
