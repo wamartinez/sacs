@@ -51,7 +51,7 @@ Material:
 
 [Descargar material](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
 
-[Descargar material](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
+[Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
 
 
 
