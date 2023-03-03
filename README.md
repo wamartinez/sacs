@@ -48,6 +48,8 @@ Material:
 
 2. Taller
 [Taller Modulo 4 y 5](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
+[Descargar material](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.pptx)
+
 
 
 
