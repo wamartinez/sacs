@@ -41,9 +41,10 @@ Establecer credibilidad en las fuentes de información
 Gestión de la información bibiliográfica
 
 1. Clase teórica
-[Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
-  [Ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
+* [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
+
+* [Ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
 
 
 2. Taller
