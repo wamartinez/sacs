@@ -44,7 +44,7 @@ Gestión de la información bibiliográfica
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
 Material:
-[Ejemplo de clase] (https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
+[Ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
 
 
 2. Taller
