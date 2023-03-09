@@ -44,15 +44,17 @@ Gestión de la información bibiliográfica
 [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
 Material:
-[Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
+[Ejemplo de clase] (https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
+
 
 2. Taller
 [Taller Modulo 4 y 5](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
 
-[Ejemplo de clase] (https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
-
 [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
 
+3. Tutoriales
+
+[Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
 [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
 
 
