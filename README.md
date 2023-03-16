@@ -64,7 +64,8 @@ Gestión de la información bibiliográfica
 
 Escritura Académica
 
-1. Pregunta de seudoinvestigación para ensayo
+1. Pregunta de pseudoinvestigación para ensayo.
+
 Pueden dejar las presentaciones en el siguiente [Link](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfbJTekfrLRZUAlaBJVpYCDU83XtEPXPoHZv2GKyLmFcJQ6bA/formResponse)
 
 
