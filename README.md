@@ -1,6 +1,8 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
+Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
+
 ## Semana 1 (Feb 6 - Feb 10)
 
 1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/PROGRAMASOFTWARE_SASC_2023_1.pdf)
