@@ -38,7 +38,7 @@ Establecer credibilidad en las fuentes de información
 
 2. Taller viernes 24 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
 
-## Semana 4 y 5 (Feb 27 - Mar 10)
+## Semana 4-6 (Feb 27 - Mar 13)
 
 Gestión de la información bibiliográfica
 
@@ -58,6 +58,16 @@ Gestión de la información bibiliográfica
 
 * [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
 * [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
+
+
+## Semana 6 (Mar 17)
+
+Escritura Académica
+
+1. Pregunta de seudoinvestigación para ensayo
+Pueden dejar las presentaciones en el siguiente [Link](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfbJTekfrLRZUAlaBJVpYCDU83XtEPXPoHZv2GKyLmFcJQ6bA/formResponse)
+
+
 
 
 
