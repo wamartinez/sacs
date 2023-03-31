@@ -68,7 +68,7 @@ Escritura Académica
 
 1. Clase teórica.
 
-* [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Semana6/Cómo_hacer_un_ensayo)
+* [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
 
 2. Clase práctica
 
@@ -77,10 +77,11 @@ Escritura Académica
 
 3. Clase teórica
 
-* [Las comas y el manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Semana7/)
+* [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
+* [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
 
 4. Taller.
 
-* Taller
+* [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.pdf)
 
 
