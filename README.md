@@ -92,3 +92,5 @@ Escritura Académica
 
 
 ## Módulo IV Herramientas ofimáticas II
+
+03 de junio de 2023	Finalización de clases (Resolución 1148 de 2022 Rectoría)
