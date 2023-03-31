@@ -84,7 +84,7 @@ Escritura Académica
 * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
 * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
 
-4. Taller.
+2. Taller.
 
 * [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
