@@ -68,21 +68,17 @@ Escritura Académica
 
 * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Semana6/Cómo_hacer_un_ensayo)
 
-2. Clase práctica.
+2. Clase práctica
 
 * Mapas mentales
+ MINDOMO
 
-3. Clase teórica.
+3. Clase teórica
 
 * [Las comas y el manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Semana7/)
 
 4. Taller.
 
 * Taller
-
-
-
-
-
 
 
