@@ -82,6 +82,6 @@ Escritura Académica
 
 4. Taller.
 
-* [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.pdf)
+* [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 
