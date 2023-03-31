@@ -62,7 +62,7 @@ Gestión de la información bibiliográfica
 
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 
 
-### Semana 6 y 7 (...)
+### Semana 6 , 7 y 8 (...)
 
 Escritura Académica
 
