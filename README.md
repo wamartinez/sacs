@@ -62,7 +62,7 @@ Gestión de la información bibiliográfica
 
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 
 
-### Semana 6 , 7 y 8 (...)
+### Semana 6 (...)
 
 Escritura Académica
 
@@ -70,12 +70,16 @@ Escritura Académica
 
 * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
 
-2. Clase práctica
+### Semana 7 (...)
+
+1. Clase práctica
 
 * Mapas mentales
  MINDOMO
 
-3. Clase teórica
+### Semana 8 (...)
+
+1. Clase teórica
 
 * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
 * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
@@ -83,5 +87,8 @@ Escritura Académica
 4. Taller.
 
 * [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
-ss
 
+## Módulo III: Herramientas ofimáticas I 
+
+
+## Módulo IV Herramientas ofimáticas II
