@@ -3,7 +3,9 @@ Profesor: William Martinez
 
 Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
-## Semana 1 (Feb 6 - Feb 10)
+## Modulo 1: Alfabetización digital Búsqueda efectiva de información   
+
+### Semana 1 (Feb 6 - Feb 10)
 
 1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/PROGRAMASOFTWARE_SASC_2023_1.pdf)
 
@@ -16,7 +18,7 @@ Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calif
 3. Instalar office 365 en sus equipos [Aquí](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
 
 
-## Semana 2 (Feb 13 - Feb 17)
+### Semana 2 (Feb 13 - Feb 17)
 
 Búsquedas efectivas
 
@@ -27,9 +29,7 @@ Búsquedas efectivas
 
 3. Taller viernes 17 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScatqL1cs0sXECi7AgqdnY-RD5pHhHVI4DeSc7CBncSOyb4Ng/viewform?usp=sf_link)
 
-
-
-## Semana 3  (Feb 20 - Feb 24)
+### Semana 3  (Feb 20 - Feb 24)
 
 Establecer credibilidad en las fuentes de información
 
@@ -38,7 +38,7 @@ Establecer credibilidad en las fuentes de información
 
 2. Taller viernes 24 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
 
-## Semana 4-6 (Feb 27 - Mar 13)
+### Semana 4-6 (Feb 27 - Mar 13)
 
 Gestión de la información bibiliográfica
 
@@ -60,7 +60,9 @@ Gestión de la información bibiliográfica
 * [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
 
 
-## Semana 6 y 7 (...)
+## Módulo II Competencias básicas: Competencias lectoras-escritoras 
+
+### Semana 6 y 7 (...)
 
 Escritura Académica
 
