@@ -69,16 +69,3 @@ Enlace para tutoria viernes [17 de Marzo](https://meet.google.com/iwc-vhxt-gpp)
 1. Pregunta de pseudoinvestigación para ensayo.
 
 Pueden dejar las presentaciones en el siguiente [Link](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfbJTekfrLRZUAlaBJVpYCDU83XtEPXPoHZv2GKyLmFcJQ6bA/formResponse) (cerrado mientras la reapertura de clases)
-
-## Semana 7 (Mar 24)
-
-Escritura Académica
-
-Enlace para tutoria viernes [24 de Marzo](https://meet.google.com/iwc-vhxt-gpp)
-
-1. Pregunta de pseudoinvestigación para ensayo.
-
-Pueden dejar las presentaciones en el siguiente [Link](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfbJTekfrLRZUAlaBJVpYCDU83XtEPXPoHZv2GKyLmFcJQ6bA/formResponse)
-
-
-
