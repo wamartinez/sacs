@@ -50,7 +50,7 @@ Gestión de la información bibiliográfica
 
 
 2. Taller
-* [Taller Modulo 4 y 5](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
+* [Taller sesión 4 y 5](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
 
 * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
 
