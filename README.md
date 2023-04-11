@@ -64,7 +64,7 @@ Material de apoyo
 
 ### Semana 6 (...)
 
-Escritura Académica
+Fortalecer al estudiante en la escritura Académica
 
 1. Clase teórica.
    * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
@@ -79,11 +79,14 @@ Escritura Académica
 
 ### Semana 7 (...)
 
-1. Clase teórica.
-* [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
-* [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
+Resaltar la importancia del manejo del lenguaje y los signos de puntuación
 
-Material de apoyo
+1. Clase teórica.
+   * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
+   * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
+
+**Material de apoyo**
+
 
 ### Semana 8 (...)
 
