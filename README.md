@@ -54,7 +54,7 @@ Gestión de la información bibiliográfica
 
 * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
 
-3. Tutoriales
+Material de apoyo
 
 * [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
 * [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
@@ -70,25 +70,29 @@ Escritura Académica
 
 * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
 
-### Semana 7 (...)
-
-1. Clase práctica
+2. Clase práctica.
 
 * Mapas mentales
  MINDOMO
 
-### Semana 8,9 (...)
+Material de apoyo
 
-1. Clase teórica
+### Semana 7 (...)
 
+1. Clase teórica.
 * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
 * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
 
-2. Taller.
+Material de apoyo
+
+### Semana 8 (...)
 
 * [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 ## Módulo III: Herramientas ofimáticas I 
+
+
+
 
 
 ## Módulo IV Herramientas ofimáticas II
