@@ -77,7 +77,7 @@ Escritura Académica
 * Mapas mentales
  MINDOMO
 
-### Semana 8 (...)
+### Semana 8,9 (...)
 
 1. Clase teórica
 
