@@ -74,7 +74,7 @@ Escritura Académica
    Planificar el ensayo mediante el uso de MINDOMO
    * Mapas mentales
 
-Material de apoyo
+**Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
 ### Semana 7 (...)
