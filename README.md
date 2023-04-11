@@ -68,14 +68,18 @@ Escritura Académica
 
 1. Clase teórica.
 
-* [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
+ * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
 
 2. Clase práctica.
 
-* Mapas mentales
- MINDOMO
+Planificar el ensayo mediante el uso de MINDOMO
+
+ * Mapas mentales
+  MINDOMO
 
 Material de apoyo
+
+* Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
 ### Semana 7 (...)
 
@@ -86,6 +90,8 @@ Material de apoyo
 Material de apoyo
 
 ### Semana 8 (...)
+
+El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos
 
 * [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
