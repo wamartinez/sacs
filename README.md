@@ -7,13 +7,17 @@ Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calif
 
 ### Semana 1 (Feb 6 - Feb 10)
 
+Introduccir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
+
+***Actividades**
+
 1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/PROGRAMASOFTWARE_SASC_2023_1.pdf)
 
-2. Vamos a evaluar las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel). Esto permitirá adaptar el curso de acuerdo a sus conocimientos.
+2. Evaluación de las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel).
 
-- Descargar el siguiente [documento](https://github.com/wamartinez/sacs/blob/main/Ejercicio/Ejercicio.docx)
+- Para desarrollar el formulario con el cuestionario debe descargar el siguiente [documento](https://github.com/wamartinez/sacs/blob/main/Ejercicio/Ejercicio.docx)
 
-- LLenar el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
+- Diligenciar el [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
 3. Instalar office 365 en sus equipos [Aquí](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
 
@@ -77,20 +81,16 @@ Fortalecer al estudiante en la escritura Académica
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
-### Semana 7 (...)
+### Semana 7-8 (...)
 
-Resaltar la importancia del manejo del lenguaje y los signos de puntuación
+Resaltar la importancia del manejo del lenguaje y los signos de puntuación.
 
 1. Clase teórica.
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
 
-**Material de apoyo**
-
-
-### Semana 8 (...)
-
-El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos
+2.  Taller
+    El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos.
 
 * [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
