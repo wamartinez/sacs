@@ -98,7 +98,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 
 ### Semana 7-8 (...)
 
-Resaltar la importancia del manejo del lenguaje y los signos de puntuación.
+Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
 
 1. Clase teórica.
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
