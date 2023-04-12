@@ -160,6 +160,7 @@ Curso de nivel básico de excel enfocado en la sistematización del conocimiento
    El estudiante aprenderá lo siguiente:
    * Insertar comentarios e hipervinculos
    * Funciones de búsqueda, lógicas y estadísticas
+   * Concatenar celdas
 
 2. Clase práctica parte 2.
 
@@ -210,18 +211,22 @@ Despliegue de coordenadas geográficos y otra información vectorial en software
 
 2. Clase práctica 2.
 
-   Despliegue de otro tipo de información geográfica como departamentos y municipios:
+   * Despliegue de otro tipo de información geográfica como departamentos y municipios.
+   * Despliegue de puntos gpx de GPS
 
 ### Semana 15 (...)
 
-Despliegue de puntos gpx de GPS
+EL estudiante identificará cómo crear encuestas usando formularios de google
 
 **Actividades**
 
 1. Clase práctica 1.
    
-   * Desplegar información geografíca organizada desde tablas excel. Para esto el estudiante deberá entender párametros como sistemas de referencia, específicamente los usados para Colombia como lo son CTM12 y WGS84.
+   * Elaborar un formulario considerando el despliegue de respuestas, estadísticas y privacidad del mismo.
 
+2. Taller.
+   
+   * Crear un formulario de grupos de 5 estudiantes. La temática es  
 
 
 ### Semana 16 (...)
