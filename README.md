@@ -15,12 +15,11 @@ Introduccir el programa del curso a los estudiantes y evaluar sus capacidades en
 
 2. Evaluación de las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel).
 
-- Para desarrollar el formulario con el cuestionario debe descargar el siguiente [documento](https://github.com/wamartinez/sacs/blob/main/Ejercicio/Ejercicio.docx)
+- Para desarrollar el cuestionario debe descargar el siguiente [documento](https://github.com/wamartinez/sacs/blob/main/Ejercicio/Ejercicio.docx)
 
-- Diligenciar el [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
+- El cuestionario esta en el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
 3. Instalar office 365 en sus equipos [Aquí](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
-
 
 ### Semana 2 (Feb 13 - Feb 17)
 
