@@ -28,9 +28,11 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 **Actividades**
 
 1. Clase teórica - práctica.
+
    Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
 
 2. Taller
+
    El taller busca evaluar los conocimientos obtenidos en la clase teórica - práctica.
    [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScatqL1cs0sXECi7AgqdnY-RD5pHhHVI4DeSc7CBncSOyb4Ng/viewform?usp=sf_link)
    
@@ -43,14 +45,16 @@ Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Se
 Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de información.
 
 1. Clase teórica
+
    Presentar indicadores de calidad académica pueden presentar diversas fuentes [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana3/StablishingCredibility.pptx)
 
 2. Taller
+
    El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
 
 ### Semana 4-5 (Feb 27 - Mar 13)
 
-Gestión de la información bibiliográfica usando Zotero y Mendeley
+Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 1. Clase teórica
    * Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
