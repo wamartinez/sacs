@@ -188,6 +188,11 @@ Curso de nivel intermedio de excel está enfocado a que los estudiantes dominen 
 
    * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
 
+**Material de apoyo**
+
+[Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+[Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
+
 ### Semana 12 y 13 (...)
 
 Evaluar los temas aprendidos durante este modulo
@@ -196,8 +201,9 @@ Evaluar los temas aprendidos durante este modulo
 
 1. Taller.
 
-   Descargue el taller 
-   Suba el taller al siguiente link.
+   * Descargue el taller
+   
+   * Suba el taller al siguiente link.
 
 ## Módulo IV Herramientas ofimáticas II
 
