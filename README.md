@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
-## Modulo 1: Alfabetización digital Búsqueda efectiva de información   
+## Modulo 1: Alfabetización digital y búsqueda efectiva de información 
 
 ### Semana 1 (Feb 6 - Feb 10)
 
@@ -50,21 +50,21 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 ### Semana 4-5 (Feb 27 - Mar 13)
 
-Gestión de la información bibiliográfica
+Gestión de la información bibiliográfica usando Zotero y Mendeley
 
 1. Clase teórica
+   * Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
-* [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
+2. Clase teórica práctica
+   * Presentar los distintos tipos de citaciones [Ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
 
-* [Ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
+3. Taller
+   Este taller tiene como propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
+   * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
+   * Subir [Taller](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
 
-2. Taller
-* [Taller sesión 4 y 5](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
-
-* [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
-
-Material de apoyo
+**Material de apoyo**
 
 * [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
 * [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
