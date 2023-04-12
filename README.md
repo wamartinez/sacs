@@ -46,7 +46,7 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 1. Clase teórica
 
-   Presentar indicadores de calidad académica pueden presentar diversas fuentes [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana3/StablishingCredibility.pptx)
+   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana3/StablishingCredibility.pptx)
 
 2. Taller
 
@@ -57,12 +57,13 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 1. Clase teórica
-   * Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
+   Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
 2. Clase teórica práctica
-   * Presentar los distintos tipos de citaciones [Ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
+   Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
 
 3. Taller
+
    Este taller tiene como propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
    * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
@@ -76,9 +77,11 @@ Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 
 
+Fortalecer al estudiante en la escritura Académica
+
 ### Semana 6 (...)
 
-Fortalecer al estudiante en la escritura Académica
+El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos.
 
 1. Clase teórica.
    * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
@@ -99,10 +102,10 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación.
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
 
-2.  Taller
-    El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos.
+2. Taller
 
-* [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
+   El estudiante deberá elaborar un ensayo entre 2500 y 3000 palabras.
+   * Especifidades del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 ## Módulo III: Herramientas ofimáticas I 
 
