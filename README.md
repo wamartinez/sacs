@@ -153,8 +153,50 @@ Usar software de grabación de video para la exposición del ensayo.
 
 ### Semana 10 (...)
 
+Curso de nivel básico de excel enfocado en la sistematización del conocimiento para el manejo de fórmulas y condicionales; búsqueda de datos y tablas dinámicas. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada
+
+**Actividades**
+
+1. Clase práctica.
+   
+   El estudiante aprenderá lo siguiente:
+   * [OBS][(https://obsproject.com/)
+
+2. Clase práctica.
+
+   El estudiante aprenderá lo siguiente:
+   * [OBS][(https://obsproject.com/)
 
 
+### Semana 11 (...)
+
+Curso de nivel intermedio 1 de excel enfocado en la sistematización del conocimiento para el manejo de fórmulas y condicionales; búsqueda de datos y tablas dinámicas. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada
+
+**Actividades**
+
+1. Clase práctica.
+   
+   El estudiante aprenderá lo siguiente:
+   * [OBS][(https://obsproject.com/)
+
+2. Clase práctica.
+
+   El estudiante aprenderá lo siguiente:
+   * [OBS][(https://obsproject.com/)
+
+### Semana 12 (...)
+
+Interacción con software como QGIS para el despliegue de puntos geográficos.
+
+**Actividades**
+
+1. Clase práctica 1.
+   
+   * Desplegar información geografíca organizada desde tablas excel. Para esto el estudiante deberá entender párametros como sistemas de referencia, específicamente los usados para Colombia como lo son CTM12 y WGS84.
+
+2. Clase práctica 2.
+
+   Despliegue de puntos GPS (gpx) en visor geográfico:
 
 ## Módulo IV Herramientas ofimáticas II
 
