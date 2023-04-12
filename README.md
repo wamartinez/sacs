@@ -118,6 +118,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * Especifidades del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 **Material de apoyo**
+
 [Video de clase](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
 
 ### Semana 8 (...)
@@ -141,7 +142,7 @@ Usar software de grabación de video para la exposición del ensayo.
 1. Clase práctica.
    
    El estudiante aprenderá a manejar software gratuito y de código abierto para grabación de video.
-   * [OBS][(https://obsproject.com/)
+   * Consulte [OBS](https://obsproject.com/)
 
 2. Taller.
 
@@ -170,6 +171,7 @@ Curso de nivel básico de excel enfocado en la sistematización del conocimiento
    * Excel spreadsheet (uso básiso)
 
 **Material de apoyo**
+
 [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 ### Semana 11 (...)
