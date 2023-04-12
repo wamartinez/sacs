@@ -44,6 +44,8 @@ Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Se
 
 Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de información.
 
+**Actividades**
+
 1. Clase teórica
 
    Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana3/StablishingCredibility.pptx)
@@ -55,6 +57,8 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 ### Semana 4-5 (Feb 27 - Mar 13)
 
 Gestión de la información bibiliográfica usando Zotero y Mendeley.
+
+**Actividades**
 
 1. Clase teórica
 
@@ -85,6 +89,8 @@ Fortalecer al estudiante en la escritura Académica
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos.
 
+**Actividades**
+
 1. Clase teórica.
    * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
 
@@ -100,6 +106,8 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 
 Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
 
+**Actividades**
+
 1. Clase teórica.
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
@@ -109,9 +117,14 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    El estudiante deberá elaborar un ensayo entre 2500 y 3000 palabras.
    * Especifidades del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
+**Material de apoyo**
+[Video de clase](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
+
 ### Semana 8 (...)
 
 El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
+
+**Actividades**
 
 1. Clase práctica.
    
@@ -121,25 +134,24 @@ El estudiante identificará herramientas adicionales de Word para la organizaci�
    
    Continuar brindando acompañamiento a los estudiantes en el desarrollo del ensayo cuyas especificaciones se presentaron en la semana 4.
 
-**Material de apoyo**
-[Video de clase](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
-
 ## Módulo III: Herramientas ofimáticas I 
 
-### Semana 6 (...)
+### Semana 9 (...)
 
-El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos.
+Usar software de grabación de video para la exposición del ensayo.
 
-1. Clase teórica.
-   * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
+**Actividades**
 
-2. Clase práctica.
+1. Clase práctica.
+   
+   El estudiante aprenderá a manejar software gratuito y de código abierto para grabación de video.
+   * [OBS][(https://obsproject.com/)
 
-   Planificar el ensayo mediante el uso de MINDOMO
-   * Mapas mentales
+2. Taller.
 
-**Material de apoyo**
-* Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
+   Autograbarse por 5 minutos explicando el desarrollo del ensayo.
+
+### Semana 10 (...)
 
 
 
