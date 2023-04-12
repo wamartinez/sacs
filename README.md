@@ -152,7 +152,7 @@ Usar software de grabación de video para la exposición del ensayo.
 
 ### Semana 10 (...)
 
-Curso de nivel básico de excel enfocado en la sistematización del conocimiento para el manejo de fórmulas y condicionales; búsqueda de datos y tablas dinámicas. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada
+Introducción de excel enfocadose en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
 **Actividades**
 
@@ -176,7 +176,7 @@ Curso de nivel básico de excel enfocado en la sistematización del conocimiento
 
 ### Semana 11 (...)
 
-Curso de nivel intermedio de excel está enfocado a que los estudiantes dominen tablas dinámicas y creen excel colaborativos. 
+En esta semana los estudiante podrán obtener un curso de nivel intermedio de excel enfocadose en el dominio de tablas dinámicas y uso de la libreria dyplr de Rstudio para la obtención de estadísticas agregadas. 
 
 **Actividades**
 
