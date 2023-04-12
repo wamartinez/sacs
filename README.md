@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
-## Modulo 1: Alfabetización digital y búsqueda efectiva de información 
+## Modulo 1: Alfabetización digital: búsqueda efectiva de información 
 
 ### Semana 1 (Feb 6 - Feb 10)
 
