@@ -147,7 +147,13 @@ Usar software de grabación de video para la exposición del ensayo.
 2. Taller.
 
    Autograbarse por 5 minutos explicando el desarrollo del ensayo.
-   * Subir el video al siguiente link
+
+Entrega de taller del modulo 2
+   
+   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente link 
+   * Ensayo
+   * Mapa conceptual
+   * Subir el video
    
 ## Módulo III: Herramientas ofimáticas I
 
