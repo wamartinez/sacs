@@ -9,7 +9,7 @@ Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calif
 
 Introduccir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
 
-***Actividades**
+**Actividades**
 
 1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/PROGRAMASOFTWARE_SASC_2023_1.pdf)
 
