@@ -57,9 +57,11 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 1. Clase teórica
+
    Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
 
 2. Clase teórica práctica
+
    Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
 
 3. Taller
