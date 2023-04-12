@@ -7,7 +7,7 @@ Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calif
 
 ### Semana 1 (Feb 6 - Feb 10)
 
-Introduccir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
+Introducir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
 
 **Actividades**
 
@@ -19,18 +19,24 @@ Introduccir el programa del curso a los estudiantes y evaluar sus capacidades en
 
 - El cuestionario esta en el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
-3. Instalar office 365 en sus equipos [Instructivo](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
+3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
 
 ### Semana 2 (Feb 13 - Feb 17)
 
-Búsquedas efectivas
+Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibilogrpaficos. Esto se hace mediante palabras clave, especificamente mediante operadores booleanos; el resultado de la búsqueda es un listado de articulos, libros o reportes con las palabras claves buscadas.
 
-1. Clase teórico práctica acerca de busquedas efectivas en gestores de información
-[Presentación](https://github.com/wamartinez/sacs/blob/main/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
+**Actividades**
 
-2. Lectura en casa [Guía del investigador](https://github.com/wamartinez/sacs/blob/main/Semana2/ResearchBasics_Guide_2018.pdf)
+1. Clase teórica.
+   Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
 
-3. Taller viernes 17 de febrero  [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScatqL1cs0sXECi7AgqdnY-RD5pHhHVI4DeSc7CBncSOyb4Ng/viewform?usp=sf_link)
+2. Taller
+   El taller busca evaluar la clase teórica.
+   [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScatqL1cs0sXECi7AgqdnY-RD5pHhHVI4DeSc7CBncSOyb4Ng/viewform?usp=sf_link)
+   
+**Material de apoyo**
+
+Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Semana2/ResearchBasics_Guide_2018.pdf)
 
 ### Semana 3  (Feb 20 - Feb 24)
 
