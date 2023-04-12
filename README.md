@@ -111,7 +111,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 ### Semana 8 (...)
 
-El estudiante identificará herramientas adicionales de word para la organización del ensayo y la presentación del mapa mental.
+El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
 
 1. Clase práctica.
    
@@ -119,8 +119,11 @@ El estudiante identificará herramientas adicionales de word para la organizaci�
 
 2. Taller
    
-   Brindar acompañamiento a los estudiantes en el desarrollo del ensayo cuyas especificaciones se presentaron en la semana 4.
-   
+   Continuar brindando acompañamiento a los estudiantes en el desarrollo del ensayo cuyas especificaciones se presentaron en la semana 4.
+
+**Material de apoyo**
+[Video de clase](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
+
 ## Módulo III: Herramientas ofimáticas I 
 
 ### Semana 6 (...)
