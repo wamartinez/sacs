@@ -197,8 +197,8 @@ En esta semana los estudiante podrán obtener un curso de nivel intermedio de ex
 
 **Material de apoyo**
 
-[Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
-[Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
+* [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+* [Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
 
 ### Semana 12 y 13 (...)
 
