@@ -157,32 +157,40 @@ Curso de nivel básico de excel enfocado en la sistematización del conocimiento
 
 **Actividades**
 
-1. Clase práctica.
+1. Clase práctica parte 1.
    
    El estudiante aprenderá lo siguiente:
-   * [OBS][(https://obsproject.com/)
+   * Insertar comentarios e hipervinculos
+   * Funciones de búsqueda, lógicas y estadísticas
 
-2. Clase práctica.
+2. Clase práctica parte 2.
 
    El estudiante aprenderá lo siguiente:
-   * [OBS][(https://obsproject.com/)
-
+   * Insertar formato, filtros y condicionales a las tablas
+   * Crear gráficas
 
 ### Semana 11 (...)
 
-Curso de nivel intermedio 1 de excel enfocado en la sistematización del conocimiento para el manejo de fórmulas y condicionales; búsqueda de datos y tablas dinámicas. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada
+Curso de nivel intermedio de excel está enfocado a que los estudiantes dominen tablas dinámicas y creen excel colaborativos. 
 
 **Actividades**
 
-1. Clase práctica.
+1. Clase práctica parte 1.
    
-   El estudiante aprenderá lo siguiente:
-   * [OBS][(https://obsproject.com/)
+   * Tablas dinámicas
 
-2. Clase práctica.
+2. Clase práctica parte 2.
 
-   El estudiante aprenderá lo siguiente:
-   * [OBS][(https://obsproject.com/)
+   * Excel spreadsheet
+
+### Semana 12 (...)
+
+Evaluar los temas aprendidos durante este modulo
+
+**Actividades**
+
+1. Taller.
+
 
 
 
