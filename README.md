@@ -130,11 +130,7 @@ El estudiante identificará herramientas adicionales de Word para la organizaci�
    
    Agregar imagen, encabezado, pie de página y numerado de hojas
 
-2. Taller
-   
-   Continuar brindando acompañamiento a los estudiantes en el desarrollo del ensayo cuyas especificaciones se presentaron en la semana 4.
-
-## Módulo III: Herramientas ofimáticas I 
+Continuar brindando acompañamiento a los estudiantes en el desarrollo del ensayo cuyas especificaciones se presentaron en la semana 4.
 
 ### Semana 9 (...)
 
@@ -150,6 +146,8 @@ Usar software de grabación de video para la exposición del ensayo.
 2. Taller.
 
    Autograbarse por 5 minutos explicando el desarrollo del ensayo.
+   
+## Módulo III: Herramientas ofimáticas I
 
 ### Semana 10 (...)
 
@@ -168,6 +166,10 @@ Curso de nivel básico de excel enfocado en la sistematización del conocimiento
    El estudiante aprenderá lo siguiente:
    * Insertar formato, filtros y condicionales a las tablas
    * Crear gráficas
+   * Excel spreadsheet (uso básiso)
+
+**Material de apoyo**
+[Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 ### Semana 11 (...)
 
@@ -179,11 +181,11 @@ Curso de nivel intermedio de excel está enfocado a que los estudiantes dominen 
    
    * Tablas dinámicas
 
-2. Clase práctica parte 2.
+2. Clase práctica parte 1.
 
-   * Excel spreadsheet
+   * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
 
-### Semana 12 (...)
+### Semana 12 y 13 (...)
 
 Evaluar los temas aprendidos durante este modulo
 
@@ -191,12 +193,12 @@ Evaluar los temas aprendidos durante este modulo
 
 1. Taller.
 
-
-
+   Descargue el taller 
+   Suba el taller al siguiente link.
 
 ## Módulo IV Herramientas ofimáticas II
 
-### Semana 15 (...)
+### Semana 14 (...)
 
 Despliegue de coordenadas geográficos y otra información vectorial en software geográfico.
 
@@ -210,10 +212,25 @@ Despliegue de coordenadas geográficos y otra información vectorial en software
 
    Despliegue de otro tipo de información geográfica como departamentos y municipios:
 
+### Semana 15 (...)
+
+Despliegue de puntos gpx de GPS
+
+**Actividades**
+
+1. Clase práctica 1.
+   
+   * Desplegar información geografíca organizada desde tablas excel. Para esto el estudiante deberá entender párametros como sistemas de referencia, específicamente los usados para Colombia como lo son CTM12 y WGS84.
+
+
+
 ### Semana 16 (...)
 
+Finalización del curso
 
+**Actividades**
 
-
+* Entrega de notas de los talleres
+* Examen final (teórico - práctico)
 
 03 de junio de 2023	Finalización de clases (Resolución 1148 de 2022 Rectoría)
