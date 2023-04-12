@@ -96,7 +96,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
-### Semana 7-8 (...)
+### Semana 7 (...)
 
 Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
 
@@ -109,8 +109,34 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    El estudiante deberá elaborar un ensayo entre 2500 y 3000 palabras.
    * Especifidades del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
+### Semana 8 (...)
+
+El estudiante identificará herramientas adicionales de word para la organización del ensayo y la presentación del mapa mental.
+
+1. Clase práctica.
+   
+   Agregar imagen, encabezado, pie de página y numerado de hojas
+
+2. Taller
+   
+   Brindar acompañamiento a los estudiantes en el desarrollo del ensayo cuyas especificaciones se presentaron en la semana 4.
+   
 ## Módulo III: Herramientas ofimáticas I 
 
+### Semana 6 (...)
+
+El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos.
+
+1. Clase teórica.
+   * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
+
+2. Clase práctica.
+
+   Planificar el ensayo mediante el uso de MINDOMO
+   * Mapas mentales
+
+**Material de apoyo**
+* Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
 
 
