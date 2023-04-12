@@ -184,9 +184,13 @@ Curso de nivel intermedio 1 de excel enfocado en la sistematización del conocim
    El estudiante aprenderá lo siguiente:
    * [OBS][(https://obsproject.com/)
 
-### Semana 12 (...)
 
-Interacción con software como QGIS para el despliegue de puntos geográficos.
+
+## Módulo IV Herramientas ofimáticas II
+
+### Semana 15 (...)
+
+Despliegue de coordenadas geográficos y otra información vectorial en software geográfico.
 
 **Actividades**
 
@@ -196,8 +200,12 @@ Interacción con software como QGIS para el despliegue de puntos geográficos.
 
 2. Clase práctica 2.
 
-   Despliegue de puntos GPS (gpx) en visor geográfico:
+   Despliegue de otro tipo de información geográfica como departamentos y municipios:
 
-## Módulo IV Herramientas ofimáticas II
+### Semana 16 (...)
+
+
+
+
 
 03 de junio de 2023	Finalización de clases (Resolución 1148 de 2022 Rectoría)
