@@ -101,6 +101,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
+* Documento [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Mindomo_ensayoEjemplo.doc)
 
 ### Semana 7 (...)
 
