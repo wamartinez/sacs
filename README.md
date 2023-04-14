@@ -98,6 +98,8 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 
    Planificar el ensayo mediante el uso de MINDOMO
    * Mapas mentales
+   * Ejemplo clase Mindomo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo1.mom)
+   * Ejemplo clase Pdf [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo1.pdf)
 
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
