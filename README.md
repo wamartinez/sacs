@@ -117,7 +117,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 2. Taller
 
-   El estudiante deberá elaborar un ensayo entre 2500 y 3000 palabras.
+   El estudiante deberá elaborar un ensayo entre 1200 y 1500 palabras.
    * Guía para el desarrollo del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 **Material de apoyo**
