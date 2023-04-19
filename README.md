@@ -106,8 +106,8 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
 **Videos clases**
-[Video de clase martes](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
-[Video de clase viernes](https://drive.google.com/file/d/1f2Po5FkUZc29729AGDhQxK744KL8AX-O/view?usp=share_link)
+   * [Video de clase martes](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
+   * [Video de clase viernes](https://drive.google.com/file/d/1f2Po5FkUZc29729AGDhQxK744KL8AX-O/view?usp=share_link)
 
 ### Semana 7 (18 -21 de Abril)
 
