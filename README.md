@@ -127,36 +127,30 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 **Material de apoyo**
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
 
-### Semana 8 (...)
+### Semana 8 y 9 (...)
 
-El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
-
-**Actividades**
-
-1. Clase práctica.
-   
-   Agregar imagen, encabezado, pie de página y numerado de hojas
-
-Continuar brindando acompañamiento a los estudiantes en el desarrollo del ensayo cuyas especificaciones se presentaron en la semana 4.
-
-### Semana 9 (...)
-
-Usar software de grabación de video para la exposición del ensayo.
+   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
+   * Usar software de grabación de video para la exposición del ensayo.
 
 **Actividades**
 
 1. Clase práctica.
    
-   El estudiante aprenderá a manejar software gratuito y de código abierto para grabación de video.
-   * Consulte [OBS](https://obsproject.com/)
+   * Agregar imagen, encabezado, pie de página y numerado de hojas.
 
-2. Taller.
+2. Clase práctica.
 
+   * Autograbarse por 5 minutos explicando el desarrollo del ensayo.
+
+3. Taller.
    Autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
-Entrega de taller del modulo 2
+**Material de apoyo**
+* Consulte [OBS](https://obsproject.com/)
+
+**Entrega de taller del modulo 2**
    
-   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente link 
+   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente link, fecha de entrega 5 de Mayo del 2023
    * Ensayo
    * Mapa conceptual
    * Subir el video
