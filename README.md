@@ -127,7 +127,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 **Material de apoyo**
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
 
-### Semana 8 y 9 (...)
+### Semana 8 y 9 (24 Abril -5 de Mayo)
 
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
    * Usar software de grabación de video para la exposición del ensayo.
