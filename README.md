@@ -147,7 +147,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 **Entrega de taller del modulo 2**
    
-   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente link, fecha de entrega 5 de Mayo del 2023
+   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/), fecha de entrega 5 de Mayo del 2023
    * Ensayo
    * Mapa conceptual
    * Subir el video
