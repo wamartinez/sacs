@@ -136,14 +136,11 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 1. Clase práctica.
    
-   * Agregar imagen, encabezado, pie de página y numerado de hojas.
+   * Agregar nuevos elementos en Word como imagen, encabezado, pie de página y numerado de hojas.
 
 2. Clase práctica.
 
-   * Autograbarse por 5 minutos explicando el desarrollo del ensayo.
-
-3. Taller.
-   Autograbarse por 5 minutos explicando el desarrollo del ensayo.
+   * Conocer los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
 **Material de apoyo**
 * Consulte [OBS](https://obsproject.com/)
