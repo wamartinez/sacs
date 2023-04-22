@@ -249,4 +249,4 @@ Finalización del curso
 * Entrega de notas de los talleres
 * Examen final (teórico - práctico)
 
-03 de junio de 2023	Finalización de clases (Resolución 1148 de 2022 Rectoría)
+Finalización de clases
