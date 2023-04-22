@@ -4,7 +4,6 @@ Profesor: William Martinez
 Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
 ## Modulo 1: Alfabetización digital: búsqueda efectiva de información 
-
 ### Semana 1 (Feb 6 - Feb 10)
 
 Introducir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
@@ -154,7 +153,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    
 ## Módulo III: Herramientas ofimáticas I
 
-### Semana 10 (...)
+### Semana 10 (1-5 de Mayo)
 
 Introducción de excel enfocadose en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -178,7 +177,7 @@ Introducción de excel enfocadose en la sistematización del conocimiento para e
 
 [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
-### Semana 11 (...)
+### Semana 11 (8-12 de Mayo)
 
 En esta semana los estudiante podrán obtener un curso de nivel intermedio de excel enfocadose en el dominio de tablas dinámicas y uso de la libreria dyplr de Rstudio para la obtención de estadísticas agregadas. 
 
@@ -197,7 +196,7 @@ En esta semana los estudiante podrán obtener un curso de nivel intermedio de ex
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
 
-### Semana 12 y 13 (...)
+### Semana 12 y 13 (15-26 de Mayo)
 
 Evaluar los temas aprendidos durante este modulo
 
@@ -211,7 +210,7 @@ Evaluar los temas aprendidos durante este modulo
 
 ## Módulo IV Herramientas ofimáticas II
 
-### Semana 14 (...)
+### Semana 14 (29 de Mayo al 2 de Junio)
 
 Despliegue de coordenadas geográficos y otra información vectorial en software geográfico.
 
@@ -226,7 +225,7 @@ Despliegue de coordenadas geográficos y otra información vectorial en software
    * Despliegue de otro tipo de información geográfica como departamentos y municipios.
    * Despliegue de puntos gpx de GPS
 
-### Semana 15 (...)
+### Semana 15 (5 al 9 de Junio)
 
 EL estudiante identificará cómo crear encuestas usando formularios de google
 
@@ -241,7 +240,7 @@ EL estudiante identificará cómo crear encuestas usando formularios de google
    * Crear un formulario de grupos de 5 estudiantes. La temática es  
 
 
-### Semana 16 (...)
+### Semana 16 (12-16 de Junio)
 
 Finalización del curso
 
