@@ -135,13 +135,16 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 1. Clase práctica.
    
-   * Agregar nuevos elementos en Word como imagen, encabezado, pie de página y numerado de hojas.
+   * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
+   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplofiguras.pdf)
 
 2. Clase práctica.
 
    * Conocer los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
 **Material de apoyo**
+* Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
+
 * Consulte [OBS](https://obsproject.com/)
 
 **Entrega de taller del modulo 2**
