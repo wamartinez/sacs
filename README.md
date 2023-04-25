@@ -136,7 +136,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 1. Clase práctica.
    
    * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
-   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplofiguras.pdf)
+   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplofiguras.docx)
 
 2. Clase práctica.
 
