@@ -146,6 +146,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
 
 * Consulte [OBS](https://obsproject.com/)
+* Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
 
 **Entrega de taller del modulo 2**
    
