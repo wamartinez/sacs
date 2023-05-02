@@ -18,7 +18,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 - El cuestionario esta en el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
 
-3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Contingencia_Covid_19/Files/INSTRUCTIVO_DE_REGISTRO_DESCARGA_OFFICE_GRATUITA_DOCENTES_Y_ESTUDIANTES_UNAL__2_.pdf)
+3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://github.com/wamartinez/sacs/blob/main/instructivo-de-registro-para-acceder-a-office.pdf)
 
 ### Semana 2 (Feb 13 - Feb 17)
 
