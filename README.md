@@ -165,8 +165,8 @@ Introducción de excel enfocadose en la sistematización del conocimiento para e
 
 Para las siguientes actividades descargue el siguiente material:
 
-* Presentación: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Excel Fundamentals.pptx)
-* Taller clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Excel Training Workbook.xlsx)
+* Presentación: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/ExcelFundamentals.pptx)
+* Taller clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/ExcelTrainingWorkbook.xlsx)
 
 1. Clase práctica parte 1.
    
