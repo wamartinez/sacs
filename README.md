@@ -180,7 +180,6 @@ Para las siguientes actividades descargue el siguiente material:
    El estudiante aprenderá lo siguiente:
    * Insertar formato, filtros y condicionales a las tablas
    * Crear gráficas
-   * Excel spreadsheet (uso básiso)
 
 **Material de apoyo**
 
@@ -197,8 +196,8 @@ En esta semana los estudiante podrán obtener un curso de nivel intermedio de ex
    * Tablas dinámicas
 
 2. Clase práctica parte 1.
-
    * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
+   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/R)
 
 **Material de apoyo**
 
