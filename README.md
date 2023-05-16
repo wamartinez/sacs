@@ -197,7 +197,7 @@ En esta semana los estudiante podrán obtener un curso de nivel intermedio de ex
 
 2. Clase práctica parte 1.
    * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
-   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/R)
+   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/R.rar)
 
 **Material de apoyo**
 
