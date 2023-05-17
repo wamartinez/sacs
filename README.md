@@ -83,9 +83,12 @@ Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas
 
-### Semana 6 (11 -14 de Abril)
+### Semana 6 y 7 (11 -14 de Abril)
 
-El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos.
+El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
+
+El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este ensayo se calificará al final del modulo 3. En esta sección se revisaran antes tanto elementos teóricos como programas de apoyo para su escritura.
+   * Guía para el desarrollo del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 **Actividades**
 
@@ -107,8 +110,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
    * [Video de clase martes](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
    * [Video de clase viernes](https://drive.google.com/file/d/1f2Po5FkUZc29729AGDhQxK744KL8AX-O/view?usp=share_link)
 
-
-### Semana 10 (2 Mayo - 5 Mayo)
+### Semana 8 ()
 
    * Conocer los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -119,9 +121,6 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 * Consulte [OBS](https://obsproject.com/)
 * Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
 
-**Material de apoyo**
-   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
-
 **Entrega de taller **
 * Mapa conceptual del ensayo
 * Video de 5 min del ensayo
@@ -130,7 +129,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 
 Fortalecer al estudiante en en el uso de word para la entrega del ensayo.
 
-### Semana 7 (18 -21 de Abril)
+### Semana 9 (18 -21 de Abril)
 
 Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
 
@@ -140,7 +139,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
 
-### Semana 8 y 9 (24 Abril -28 de Abril)
+### Semana 10 (24 Abril -28 de Abril)
 
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
    * Usar software de grabación de video para la exposición del ensayo.
@@ -153,17 +152,13 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplofiguras.docx)
 
 **Material de apoyo**
-* Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
-
+   * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
+   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
 
 **Entrega de taller del modulo 3**
 
-   El estudiante deberá elaborar un ensayo entre 1000 y 1500 palabras.
-   * Guía para el desarrollo del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
-
    Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
    * Ensayo
-   * Subir el video
    
 ## Módulo IV: Herramientas ofimáticas II
 
