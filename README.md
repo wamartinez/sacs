@@ -79,9 +79,9 @@ Gestión de la información bibiliográfica usando Zotero y Mendeley.
 * [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
 * [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
 
-## Módulo II Competencias básicas: Competencias lectoras-escritoras 
+## Módulo II Competencias básicas: Competencias lectoras-escritoras 1   
 
-Fortalecer al estudiante en la escritura Académica
+Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas
 
 ### Semana 6 (11 -14 de Abril)
 
@@ -107,6 +107,29 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
    * [Video de clase martes](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
    * [Video de clase viernes](https://drive.google.com/file/d/1f2Po5FkUZc29729AGDhQxK744KL8AX-O/view?usp=share_link)
 
+
+### Semana 10 (2 Mayo - 5 Mayo)
+
+   * Conocer los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
+
+1. Clase práctica.
+
+**Material de apoyo**
+
+* Consulte [OBS](https://obsproject.com/)
+* Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
+
+**Material de apoyo**
+   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
+
+**Entrega de taller **
+* Mapa conceptual del ensayo
+* Video de 5 min del ensayo
+
+## Módulo III: Herramientas ofimáticas I
+
+Fortalecer al estudiante en en el uso de word para la entrega del ensayo.
+
 ### Semana 7 (18 -21 de Abril)
 
 Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
@@ -116,20 +139,6 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 1. Clase teórica.
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
-
-2. Taller
-
-
-**Material de apoyo**
-   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
-
-
-* Mapa conceptual
-
-
-## Módulo III: Herramientas ofimáticas I
-
-Fortalecer al estudiante en en el uso de word.
 
 ### Semana 8 y 9 (24 Abril -28 de Abril)
 
@@ -146,16 +155,6 @@ Fortalecer al estudiante en en el uso de word.
 **Material de apoyo**
 * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
 
-### Semana 10 (2 Mayo - 5 Mayo)
-
-   * Conocer los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
-
-1. Clase práctica.
-
-**Material de apoyo**
-
-* Consulte [OBS](https://obsproject.com/)
-* Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
 
 **Entrega de taller del modulo 3**
 
