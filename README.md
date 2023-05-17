@@ -216,12 +216,12 @@ Introducción de R enfocadose en la sistematización del conocimiento para el ma
 
 1. Clase práctica.
    * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
-   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/R/gapminder-FiveYearData.csv)
-   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/R/PracticaR.Rmd)
+   * Descargue el material de la clase en el siguiente [Tabla](https://github.com/wamartinez/sacs/blob/main/Modulo4/R/gapminder-FiveYearData.csv)
+   * Descargue el material de la clase en el siguiente [R](https://github.com/wamartinez/sacs/blob/main/Modulo4/R/PracticaR.Rmd)
 
 **Material de apoyo**
 * [Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
-
+* [Cómo instalar R:](https://sissa.crc-sas.org/wp-content/uploads/2020/10/Instalacion_R.html)
 
 ### Semana 14-15 (30 de mayo a 9 de Junio)
 
