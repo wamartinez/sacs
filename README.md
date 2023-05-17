@@ -28,7 +28,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 
 1. Clase teórica - práctica.
 
-   Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana2/ClaseSem1_OperadoresBooleanos.pptx)
+   Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/ClaseSem1_OperadoresBooleanos.pptx)
 
 2. Taller
 
@@ -37,7 +37,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    
 **Material de apoyo**
 
-Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Semana2/ResearchBasics_Guide_2018.pdf)
+Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Modulo1/ResearchBasics_Guide_2018.pdf)
 
 ### Semana 3  (Feb 20 - Feb 24)
 
@@ -47,7 +47,7 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 1. Clase teórica
 
-   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana3/StablishingCredibility.pptx)
+   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/StablishingCredibility.pptx)
 
 2. Taller
 
@@ -55,23 +55,23 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 ### Semana 4-5 (Feb 27 - Mar 13)
 
-Gestión de la información bibiliográfica usando Zotero y Mendeley.
+Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 **Actividades**
 
 1. Clase teórica
 
-   Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Semana4/Biblio.pptx)
+   Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/Biblio.pptx)
 
 2. Clase teórica práctica
 
-   Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Semana4/EjemploClase.docx)
+   Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
 
 3. Taller
 
    Este taller tiene como propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
-   * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Semana4/Taller_Gestores_Bibliográficos.docx)
+   * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Modulo1/Taller_Gestores_Bibliográficos.docx)
    * Subir [Taller](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
 
 **Material de apoyo**
@@ -137,8 +137,8 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 **Actividades**
 
 1. Clase teórica.
-   * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
-   * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
+   * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
+   * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
 
 ### Semana 9 (24 Abril -28 de Abril)
 
@@ -149,11 +149,11 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 1. Clases prácticas.
    
    * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
-   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplofiguras.docx)
+   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Ejemplofiguras.docx)
 
 **Material de apoyo**
    * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
-   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
+   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
 
 **Entrega de taller del modulo 3**
 
@@ -172,8 +172,8 @@ Introducción de excel enfocadose en la sistematización del conocimiento para e
 
 Para las siguientes actividades descargue el siguiente material:
 
-* Presentación: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/ExcelFundamentals.pptx)
-* Taller clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/ExcelTrainingWorkbook.xlsx)
+* Presentación: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/ExcelFundamentals.pptx)
+* Taller clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/ExcelTrainingWorkbook.xlsx)
 
 1. Clase práctica parte 1.
    
@@ -204,8 +204,9 @@ En esta semana los estudiante podrán continuar aprendiendo nuevos elementos de 
 
 **Material de apoyo**
 
-* [Solución de taller en clase]()
+* [Solución de taller en clase](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/ExcelTrainingWorkbookSolutions.xlsx)
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+
 
 ### Semana 13 (23-26 de Mayo)
 
@@ -215,8 +216,8 @@ Introducción de R enfocadose en la sistematización del conocimiento para el ma
 
 1. Clase práctica.
    * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
-   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/R.rar)
-
+   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/R/gapminder-FiveYearData.csv)
+   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/R/PracticaR.Rmd)
 
 **Material de apoyo**
 * [Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
