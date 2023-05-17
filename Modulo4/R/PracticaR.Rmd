@@ -1,28 +1,37 @@
 ---
-title: "R Notebook"
-author: "William Martinez"
-date: '2022-05-17'
+title: "World population"
+author: "William Martínez"
+date: "17/05/2023"
 output:
   html_document:
-    df_print: paged
+    theme: journal
+    toc: yes
+    toc_depth: 4
+    number_section: yes
+    code_folding: hide
+    toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  word_document:
+    toc: yes
+    toc_depth: '4'
+fig_caption: yes
 ---
 
-# Introduction to R
-
-```{r}
-setwd("C:\\Users\\William\\OneDrive - Universidad Nacional de Colombia\\Documentos\\DOCTORATE\\Courses\\SemestreIV\\SocialSoftware\\Curso\\Modulo4\\R\\lessons")
-## You can double-check that this worked by using the getwd() function. What does this do?
-getwd()
-pop <- read.csv("gapminder-FiveYearData.csv")
-
-```
-## Basic operations
+# Introduction to dataframw with R
 
 Display dataframe
 
 ```{r}
-head(pop)
+setwd("C:\\Users\\William\\OneDrive - Universidad Nacional de Colombia\\Documentos\\DOCTORATE\\Courses\\SemestreIV\\SocialSoftware\\Curso\\Modulo4\\R")
+## You can double-check that this worked by using the getwd() function. What does this do?
+getwd()
+pop <- read.csv("gapminder-FiveYearData.csv")
+knitr::kable(head(pop,5), caption = "Population worldwide")
 ```
+
+## Basic operations
 
 Get basic stats
 
@@ -33,7 +42,7 @@ Select the columns continent and pop
 
 ```{r}
 pop_query = dplyr::select(pop, continent,pop)
-pop_query
+head(pop_query,5)
 ```
 
 
@@ -43,36 +52,34 @@ pop_query
 #install.packages("dplyr")
 library(dplyr)
 pop = tibble(pop)
-pop
+head(pop,5)
 ```
 
 
 ```{r}
-select(pop, continent,pop)
+pop_query_continent = select(pop, continent,pop)
+head(pop_query_continent,5)
 ```
 
 
-```{r}
-respop_asia = pop %>% filter(continent == "Asia")
-respop_asia
-```
 ```{r}
 respop_asia = pop %>% filter(continent == "Asia")
-respop_asia
+head(respop_asia,5)
 ```
+
 
 Find population by country in 2007
 
 ```{r}
 respop_2007 = pop %>% filter(year == 2007)
-respop_2007
+head(respop_2007,5)
 ```
 
 Find the population by country in 2007 related to countries in Asia
 
 ```{r}
 respop_2007_asia = pop %>% filter(year == 2007, continent == "Asia")
-respop_2007_asia
+head(respop_2007_asia,5)
 ```
 
 Challenge: Find the population by country in 2002 related to countries in America
@@ -98,27 +105,27 @@ Find the population in 2007 by continents
 ```{r}
 respop_2007 = pop %>% filter(year == 2007)
 pop_continent_2007 = respop_2007 %>% group_by(continent) %>% summarise(Pop = sum(pop))
-pop_continent_2007
+head(pop_continent_2007,5)
 ```
 Find the number of countries by continent
 
 ```{r}
 pop_continent_ncountries = pop %>% group_by(continent) %>% summarise(Pop = length(unique(country)))
-pop_continent_ncountries
+head(pop_continent_ncountries,5)
 ```
 
 # graphics using ggplot
 
 Find the number of countries by continent
 
-```{r}
+```{r ,warning = FALSE, echo=FALSE, message=FALSE}
 #install.packages(c("ggplot2"))
 library(ggplot2)
 ```
 
-create a histrogram with the life expetancy
+create a histogram with the life expectancy
 
-```{r}
+```{r ,warning = FALSE, echo=FALSE, message=FALSE}
 #install.packages(c("ggplot2"))
 gg_hist <- ggplot(data = pop, aes(x = lifeExp)) + 
   # Customize bar color and number
@@ -134,7 +141,9 @@ gg_hist <- ggplot(data = pop, aes(x = lifeExp)) +
 print(gg_hist)
 ```
 
-```{r}
+Boxplot of the life expectancy by continent
+
+```{r ,warning = FALSE, echo=FALSE, message=FALSE}
 ## Now, let's try boxplots, ggplot style:
 gg_box <- ggplot(data = pop, 
                  aes(x = continent, 
@@ -148,9 +157,9 @@ gg_box <- ggplot(data = pop,
 print(gg_box)
 ```
 
+We can also add a linear model on top of plots rather easily. This connects our visualizations to models that we can build using our data, to better understand the relationships among the features. We can do this using the geom_smooth() function:
 
-
-```{r}
+```{r ,warning = FALSE, echo=FALSE, message=FALSE}
 gg_line <- ggplot(pop, aes(x = gdpPercap, y = lifeExp)) + 
   geom_point() + 
   geom_smooth(method = "lm", lwd = 1, col = "red") + 
