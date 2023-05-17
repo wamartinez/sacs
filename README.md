@@ -83,7 +83,7 @@ Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
 
-### Semana 6 (11 -14 de Abril)
+### Semana 6 (4 -7 de Abril)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -110,7 +110,7 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
    * [Video de clase martes](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
    * [Video de clase viernes](https://drive.google.com/file/d/1f2Po5FkUZc29729AGDhQxK744KL8AX-O/view?usp=share_link)
 
-### Semana 7 ()
+### Semana 7 (11 -14 de Abril)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
