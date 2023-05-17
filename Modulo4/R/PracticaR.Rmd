@@ -1,0 +1,165 @@
+---
+title: "R Notebook"
+author: "William Martinez"
+date: '2022-05-17'
+output:
+  html_document:
+    df_print: paged
+---
+
+# Introduction to R
+
+```{r}
+setwd("C:\\Users\\William\\OneDrive - Universidad Nacional de Colombia\\Documentos\\DOCTORATE\\Courses\\SemestreIV\\SocialSoftware\\Curso\\Modulo4\\R\\lessons")
+## You can double-check that this worked by using the getwd() function. What does this do?
+getwd()
+pop <- read.csv("gapminder-FiveYearData.csv")
+
+```
+## Basic operations
+
+Display dataframe
+
+```{r}
+head(pop)
+```
+
+Get basic stats
+
+```{r}
+summary(pop)
+```
+Select the columns continent and pop
+
+```{r}
+pop_query = dplyr::select(pop, continent,pop)
+pop_query
+```
+
+
+## Subset Data Frames
+
+```{r}
+#install.packages("dplyr")
+library(dplyr)
+pop = tibble(pop)
+pop
+```
+
+
+```{r}
+select(pop, continent,pop)
+```
+
+
+```{r}
+respop_asia = pop %>% filter(continent == "Asia")
+respop_asia
+```
+```{r}
+respop_asia = pop %>% filter(continent == "Asia")
+respop_asia
+```
+
+Find population by country in 2007
+
+```{r}
+respop_2007 = pop %>% filter(year == 2007)
+respop_2007
+```
+
+Find the population by country in 2007 related to countries in Asia
+
+```{r}
+respop_2007_asia = pop %>% filter(year == 2007, continent == "Asia")
+respop_2007_asia
+```
+
+Challenge: Find the population by country in 2002 related to countries in America
+
+Hint = "Americas"
+
+
+```{r}
+
+```
+
+What countries does Europe have?
+
+```{r}
+countries_europe = pop %>% filter(continent == "Europe")
+unique(countries_europe$country)
+```
+
+## Group by dataframes
+
+Find the population in 2007 by continents
+
+```{r}
+respop_2007 = pop %>% filter(year == 2007)
+pop_continent_2007 = respop_2007 %>% group_by(continent) %>% summarise(Pop = sum(pop))
+pop_continent_2007
+```
+Find the number of countries by continent
+
+```{r}
+pop_continent_ncountries = pop %>% group_by(continent) %>% summarise(Pop = length(unique(country)))
+pop_continent_ncountries
+```
+
+# graphics using ggplot
+
+Find the number of countries by continent
+
+```{r}
+#install.packages(c("ggplot2"))
+library(ggplot2)
+```
+
+create a histrogram with the life expetancy
+
+```{r}
+#install.packages(c("ggplot2"))
+gg_hist <- ggplot(data = pop, aes(x = lifeExp)) + 
+  # Customize bar color and number
+  geom_histogram(fill = "blue", color = "black", bins = 10) + 
+  # Add title
+  ggtitle("Life expectancy for the gap dataset") + 
+  # Change x-axis label
+  xlab("Life expectancy (years)") + 
+  # y-axis label
+  ylab("Frequency") + 
+  # Change background theme
+  theme_classic() 
+print(gg_hist)
+```
+
+```{r}
+## Now, let's try boxplots, ggplot style:
+gg_box <- ggplot(data = pop, 
+                 aes(x = continent, 
+                     y = lifeExp, 
+                     fill = continent)) + 
+  geom_boxplot() + 
+  ggtitle("Boxplots for lifeExp by continent") + 
+  xlab("Continent") + 
+  ylab("Life expectancy (years)") +
+  theme_minimal() 
+print(gg_box)
+```
+
+
+
+```{r}
+gg_line <- ggplot(pop, aes(x = gdpPercap, y = lifeExp)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", lwd = 1, col = "red") + 
+  ggtitle("gdpPercap and lifeExp") + 
+  xlab("GDP per capita income (USD)") + 
+  ylab("Life expectancy (years)") + 
+  theme_bw() + 
+  theme(plot.title = element_text(hjust = 0.5, size = 40)) +
+  scale_x_log10()
+print(gg_line)
+```
+
