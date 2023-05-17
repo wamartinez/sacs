@@ -83,7 +83,7 @@ Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
 
-### Semana 6 y 7 (11 -14 de Abril)
+### Semana 6 (11 -14 de Abril)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -110,7 +110,7 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
    * [Video de clase martes](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
    * [Video de clase viernes](https://drive.google.com/file/d/1f2Po5FkUZc29729AGDhQxK744KL8AX-O/view?usp=share_link)
 
-### Semana 8 ()
+### Semana 7 ()
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -130,7 +130,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado. Con e
 
 Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
-### Semana 9 (18 -21 de Abril)
+### Semana 8 (18 -21 de Abril)
 
 Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
 
@@ -140,7 +140,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo2/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo2/ManejoLenguaje.pdf)
 
-### Semana 10 (24 Abril -28 de Abril)
+### Semana 9 (24 Abril -28 de Abril)
 
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
 
@@ -164,7 +164,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 Durante este modulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel y R. 
 
-### Semana 11 (9-12 de Mayo)
+### Semana 10 Y 11 (2 - 12 de Mayo)
 
 Introducción de excel enfocadose en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
