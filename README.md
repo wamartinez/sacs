@@ -79,7 +79,6 @@ Gestión de la información bibiliográfica usando Zotero y Mendeley.
 * [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
 * [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
 
-
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 
 
 Fortalecer al estudiante en la escritura Académica
@@ -120,11 +119,17 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 2. Taller
 
-   El estudiante deberá elaborar un ensayo entre 1000 y 1500 palabras.
-   * Guía para el desarrollo del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 **Material de apoyo**
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo2/Testamento.pdf)
+
+
+* Mapa conceptual
+
+
+## Módulo III: Herramientas ofimáticas I
+
+Fortalecer al estudiante en en el uso de word.
 
 ### Semana 8 y 9 (24 Abril -28 de Abril)
 
@@ -133,31 +138,39 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 **Actividades**
 
-1. Clase práctica.
+1. Clases prácticas.
    
    * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
    * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplofiguras.docx)
 
-2. Clase práctica.
+**Material de apoyo**
+* Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
+
+### Semana 10 (2 Mayo - 5 Mayo)
 
    * Conocer los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
+1. Clase práctica.
+
 **Material de apoyo**
-* Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
 
 * Consulte [OBS](https://obsproject.com/)
 * Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
 
-**Entrega de taller del modulo 2**
-   
-   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/), fecha de entrega 5 de Mayo del 2023
+**Entrega de taller del modulo 3**
+
+   El estudiante deberá elaborar un ensayo entre 1000 y 1500 palabras.
+   * Guía para el desarrollo del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
+
+   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
    * Ensayo
-   * Mapa conceptual
    * Subir el video
    
-## Módulo III: Herramientas ofimáticas I
+## Módulo IV: Herramientas ofimáticas II
 
-### Semana 10 (1-5 de Mayo)
+Durante este modulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel y R. 
+
+### Semana 11 (9-12 de Mayo)
 
 Introducción de excel enfocadose en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -185,9 +198,9 @@ Para las siguientes actividades descargue el siguiente material:
 
 [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
-### Semana 11 (8-12 de Mayo)
+### Semana 12 (16-19 de Mayo)
 
-En esta semana los estudiante podrán obtener un curso de nivel intermedio de excel enfocadose en el dominio de tablas dinámicas y uso de la libreria dyplr de Rstudio para la obtención de estadísticas agregadas. 
+En esta semana los estudiante podrán continuar aprendiendo nuevos elementos de excel enfocadose en el dominio de tablas dinámicas 
 
 **Actividades**
 
@@ -202,9 +215,14 @@ En esta semana los estudiante podrán obtener un curso de nivel intermedio de ex
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+
+### Semana 13 (23-26 de Mayo)
+
+
 * [Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
 
-### Semana 12 y 13 (15-26 de Mayo)
+
+### Semana 14-15 (30 de mayo a 9 de Junio)
 
 Evaluar los temas aprendidos durante este modulo
 
@@ -212,49 +230,16 @@ Evaluar los temas aprendidos durante este modulo
 
 1. Taller.
 
-   * Descargue el taller
+   * Descargue el taller del modulo
    
-   * Suba el taller al siguiente link.
-
-## Módulo IV Herramientas ofimáticas II
-
-### Semana 14 (29 de Mayo al 2 de Junio)
-
-Despliegue de coordenadas geográficos y otra información vectorial en software geográfico.
-
-**Actividades**
-
-1. Clase práctica 1.
-   
-   * Desplegar información geografíca organizada desde tablas excel. Para esto el estudiante deberá entender párametros como sistemas de referencia, específicamente los usados para Colombia como lo son CTM12 y WGS84.
-
-2. Clase práctica 2.
-
-   * Despliegue de otro tipo de información geográfica como departamentos y municipios.
-   * Despliegue de puntos gpx de GPS
-
-### Semana 15 (5 al 9 de Junio)
-
-EL estudiante identificará cómo crear encuestas usando formularios de google
-
-**Actividades**
-
-1. Clase práctica 1.
-   
-   * Elaborar un formulario considerando el despliegue de respuestas, estadísticas y privacidad del mismo.
-
-2. Taller.
-   
-   * Crear un formulario de grupos de 5 estudiantes. La temática es  
-
-
 ### Semana 16 (12-16 de Junio)
 
 Finalización del curso
 
 **Actividades**
 
-* Entrega de notas de los talleres
 * Examen final (teórico - práctico)
+Parcial final día martes 13 de Junio, examen presencial tipo formulario.
 
-Finalización de clases
+* Entrega de nota de parcial y talleres.
+Día viernes 16 de Junio
