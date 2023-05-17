@@ -143,7 +143,6 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 ### Semana 10 (24 Abril -28 de Abril)
 
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
-   * Usar software de grabación de video para la exposición del ensayo.
 
 **Actividades**
 
@@ -203,17 +202,23 @@ En esta semana los estudiante podrán continuar aprendiendo nuevos elementos de 
    
    * Tablas dinámicas
 
-2. Clase práctica parte 1.
-   * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
-   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/R.rar)
-
 **Material de apoyo**
 
+* [Solución de taller en clase]()
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 ### Semana 13 (23-26 de Mayo)
 
+Introducción de R enfocadose en la sistematización del conocimiento para el manejo de tablas, agregaciones y selecciones
 
+**Actividades**
+
+1. Clase práctica.
+   * Uso de RStudio para obtener estadísticas agregadas de tablas desde excel.
+   * Descargue el material de la clase en el siguiente [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/R.rar)
+
+
+**Material de apoyo**
 * [Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
 
 
@@ -225,7 +230,7 @@ Evaluar los temas aprendidos durante este modulo
 
 1. Taller.
 
-   * Descargue el taller del modulo
+   * Descargue el taller del modulo IV
    
 ### Semana 16 (12-16 de Junio)
 
