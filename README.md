@@ -81,14 +81,14 @@ Gestión de la información bibiliográfica usando Zotero y Mendeley.
 
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 1   
 
-Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas
+Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
 
 ### Semana 6 y 7 (11 -14 de Abril)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
 El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este ensayo se calificará al final del modulo 3. En esta sección se revisaran antes tanto elementos teóricos como programas de apoyo para su escritura.
-   * Guía para el desarrollo del [Taller](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
+   * Guía para el desarrollo del [Ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
 
 **Actividades**
 
@@ -112,9 +112,10 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
 
 ### Semana 8 ()
 
-   * Conocer los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
+El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
 1. Clase práctica.
+   Uso de OBS básico para la grabación de tutoriales, presentaciones o ensayos.
 
 **Material de apoyo**
 
@@ -127,7 +128,7 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
 
 ## Módulo III: Herramientas ofimáticas I
 
-Fortalecer al estudiante en en el uso de word para la entrega del ensayo.
+Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
 ### Semana 9 (18 -21 de Abril)
 
