@@ -164,7 +164,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
 Durante este modulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel y R. 
 
-### Semana 10 Y 11 (2 - 12 de Mayo)
+### Semana 10 (2 - 5 de Mayo)
 
 Introducción de excel enfocadose en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -192,7 +192,7 @@ Para las siguientes actividades descargue el siguiente material:
 
 [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
-### Semana 12 (16-19 de Mayo)
+### Semana 11 (9-12 de Mayo)
 
 En esta semana los estudiante podrán continuar aprendiendo nuevos elementos de excel enfocadose en el dominio de tablas dinámicas 
 
@@ -208,7 +208,7 @@ En esta semana los estudiante podrán continuar aprendiendo nuevos elementos de 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 
-### Semana 13 (23-26 de Mayo)
+### Semana 12 y 13 (16-23 de Mayo)
 
 Introducción de R enfocadose en la sistematización del conocimiento para el manejo de tablas, agregaciones y selecciones
 
@@ -223,7 +223,8 @@ Introducción de R enfocadose en la sistematización del conocimiento para el ma
 * [Libreria en R: dplyr](https://www.geeksforgeeks.org/dplyr-package-in-r-programming/)
 * [Cómo instalar R:](https://sissa.crc-sas.org/wp-content/uploads/2020/10/Instalacion_R.html)
 
-### Semana 14-15 (30 de mayo a 9 de Junio)
+
+### Semana 14-15 (26 de mayo a 9 de Junio)
 
 Evaluar los temas aprendidos durante este modulo
 
