@@ -77,7 +77,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 **Material de apoyo**
 
 * [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
-* [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
+* [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Modulo1/PluginWordZotero.docx)
 
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 1   
 
