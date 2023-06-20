@@ -242,7 +242,7 @@ Finalización del curso
 
 **Actividades**
 
-* Examen final (teórico - práctico)
+* [Examen final (teórico - práctico)](https://docs.google.com/forms/d/e/1FAIpQLSeP4p71Mw3MhI70llU9xCNXNjQ7KOUSBMxZpi3Qqws9PQrPIA/viewform)
 Parcial final día martes 13 de Junio, examen presencial tipo formulario.
 
 * Entrega de nota de parcial y talleres.
