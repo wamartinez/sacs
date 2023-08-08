@@ -16,7 +16,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 - Para desarrollar el cuestionario debe descargar el siguiente [documento](https://github.com/wamartinez/sacs/blob/main/Ejercicio/Ejercicio.docx)
 
-- El cuestionario esta en el siguiente [formulario:](https://forms.gle/k8ENnTLwQxEMHTau7)
+- El cuestionario esta en el siguiente [[formulario:](https://forms.gle/k8ENnTLwQxEMHTau7](https://docs.google.com/forms/d/e/1FAIpQLSeMN26Cnv8tskNPsBrPDN24_g6Z_POywbQYSafJpobRoTGXYw/viewform))
 
 3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://github.com/wamartinez/sacs/blob/main/instructivo-de-registro-para-acceder-a-office.pdf)
 
