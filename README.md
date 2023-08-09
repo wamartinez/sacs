@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 Ver notas de talleres [aquí]
 
-## Modulo 1: Alfabetización digital: búsqueda efectiva de información 
+## Módulo 1: Alfabetización digital: búsqueda efectiva de información 
 ### Sesión 1 (Agosto 9)
 
 Introducir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
@@ -28,7 +28,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 
 1. Clase teórica - práctica.
 
-   Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/ClaseSem1_OperadoresBooleanos.pptx)
+   Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Módulo1/ClaseSem1_OperadoresBooleanos.pptx)
 
 2. Taller
 
@@ -37,7 +37,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    
 **Material de apoyo**
 
-Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Modulo1/ResearchBasics_Guide_2018.pdf)
+Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Módulo1/ResearchBasics_Guide_2018.pdf)
 
 ### Sesión 3 (Agosto 23)
 
@@ -47,7 +47,7 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 1. Clase teórica
 
-   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/StablishingCredibility.pptx)
+   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Módulo1/StablishingCredibility.pptx)
 
 2. Taller
 
@@ -61,17 +61,17 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 1. Clase teórica
 
-   Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/Biblio.pptx)
+   Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Módulo1/Biblio.pptx)
 
 2. Clase teórica práctica
 
-   Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
+   Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Módulo1/EjemploClase.docx)
 
 ### Sesión 5 (Sep 11 - Sep 13)
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
-   * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Modulo1/Taller_Gestores_Bibliográficos.docx)
+   * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Módulo1/Taller_Gestores_Bibliográficos.docx)
    * Subir [Taller](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
 
 **Material de apoyo**
@@ -87,28 +87,24 @@ Fortalecer al estudiante en la escritura Académica mediante el uso de herramien
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
-El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este ensayo se calificará al final del modulo 3. En esta sección se revisaran antes tanto elementos teóricos como programas de apoyo para su escritura.
-   * Guía para el desarrollo del [Ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
+El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este ensayo se calificará al final del Módulo 3. En esta sección se revisaran antes tanto elementos teóricos como programas de apoyo para su escritura.
+   * Guía para el desarrollo del [Ensayo](https://github.com/wamartinez/sacs/blob/main/Módulo2/Taller.doc)
 
 **Actividades**
 
 1. Clase teórica.
-   * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
+   * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Módulo2/Como_hacer_un_ensayo.pptx)
 
 2. Clase práctica.
 
    Planificar el ensayo mediante el uso de MINDOMO
    * Mapas mentales
-   * Ejemplo de mapa mental Mindomo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo1.mom)
-   * Ejemplo de mapa mental Pdf [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo1.pdf)
-   * Ensayo de ejemplo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Mindomo_ensayoEjemplo.docx)
+   * Ejemplo de mapa mental Mindomo [Link](https://github.com/wamartinez/sacs/blob/main/Módulo2/Ejemplo1.mom)
+   * Ejemplo de mapa mental Pdf [Link](https://github.com/wamartinez/sacs/blob/main/Módulo2/Ejemplo1.pdf)
+   * Ensayo de ejemplo [Link](https://github.com/wamartinez/sacs/blob/main/Módulo2/Mindomo_ensayoEjemplo.docx)
    
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
-
-**Videos clases**
-   * [Video de clase martes](https://drive.google.com/file/d/1I3SFcgUOnmg8huN6dXAro2_YpCMKe8Uu/view?usp=share_link)
-   * [Video de clase viernes](https://drive.google.com/file/d/1f2Po5FkUZc29729AGDhQxK744KL8AX-O/view?usp=share_link)
 
 ### Sesión 7 (25 -27 de Sep)
 
@@ -137,8 +133,8 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 **Actividades**
 
 1. Clase teórica.
-   * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
-   * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
+   * [Las comas](https://github.com/wamartinez/sacs/blob/main/Módulo3/LaComa.pdf) 
+   * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Módulo3/ManejoLenguaje.pdf)
 
 ### Sesión 9 (9 -11 de Octubre)
 
@@ -149,11 +145,12 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 1. Clase práctica.
    
    * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
-   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Ejemplofiguras.docx)
+   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Módulo3/Ejemplofiguras.docx)
 
 **Material de apoyo**
+
    * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
-   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
+   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Módulo3/Testamento.pdf)
    
    
 ### Sesión 10 (18 de Octubre)
@@ -164,54 +161,54 @@ Aprender a trabajar con documentos de Google.
    * Colaborar con documentos de Google.
    * Hacer funcional documento de Google mediante la creación de tablas de contenido, agregar encabezados y pies de página e insertar enlaces y marcadores.
 
-**Entrega de taller del modulo 3**
+**Entrega de taller del Módulo 3**
 
-   Este modulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
+   Este Módulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
    * Ensayo
    
 ## Módulo IV: Herramientas ofimáticas II
 
-Durante este modulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel y R. 
+Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel. 
 
 ### Sesión 11 (8 de Noviembre)
 
-Introducción de excel enfocadose en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
+Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
 **Actividades**
 
 Para las siguientes actividades descargue el siguiente material:
 
-* Presentación: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/ExcelFundamentals.pptx)
-* Taller clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/ExcelTrainingWorkbook.xlsx)
+* Presentación: [Link](https://github.com/wamartinez/sacs/blob/main/Módulo4/Excel/ExcelFundamentals.pptx)
+* Taller clase: [Link](https://github.com/wamartinez/sacs/blob/main/Módulo4/Excel/ExcelTrainingWorkbook.xlsx)
 
 El estudiante aprenderá lo siguiente:
 
-   * Insertar comentarios e hipervinculos
+   * Insertar comentarios e hipervínculos
    * Funciones de búsqueda, lógicas y estadísticas
    * Concatenar celdas
 
 **Material de apoyo**
 
-[Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+[Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 ### Sesión 12 (15 de Noviembre)
 
-Continuar con el aprendizaje de excel en los siguientes aspectos:
+Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
    * Insertar formato, filtros y condicionales a las tablas
    * Crear gráficas
 
 **Material de apoyo**
 
-* [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+* [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 ### Sesión 13 (20-22 de Noviembre)
 
-En esta semana los estudiantes podrán continuar aprendiendo nuevos elementos de excel enfocadose en el dominio de tablas dinámicas 
+En esta semana los estudiantes podrán continuar aprendiendo nuevos elementos de Excel enfocadose en el dominio de tablas dinámicas 
 
 **Material de apoyo**
 
-* [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+* [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 
 ### Sesión 14 (27-29 de Noviembre)
