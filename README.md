@@ -20,6 +20,9 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://github.com/wamartinez/sacs/blob/main/instructivo-de-registro-para-acceder-a-office.pdf)
 
+**Video de la clase**
+[Video](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc)
+
 ### Sesión 2 (Agosto 14 - Agosto 16)
 
 Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibliográficos. Esto se hace mediante palabras clave y operadores booleanos. En este sentido Las bases de datos sobre las cuales los estudiantes realizarán sus busquedas son: Scielo, Redalyc, Scopus y google académico.
