@@ -44,7 +44,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 
    - Leer la [guía del investigador](https://github.com/wamartinez/sacs/blob/main/Módulo1/ResearchBasics_Guide_2018.pdf)
 
-   - [Videos](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
+   - **Video de la clase** [Videos](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
 
 ### Sesión 3 (Agosto 23)
 
