@@ -1,5 +1,6 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
+Tutoria viernes 11 am, solicitar el link
 
 Ver notas de talleres [aquí]
 
