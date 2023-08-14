@@ -33,7 +33,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 
    - [Sistema nacional de bibliotécas](https://bibliotecas.unal.edu.co/)
      
-   - Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Módulo1/ClaseSem1_OperadoresBooleanos.pptx)
+   - Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/ClaseSem1_OperadoresBooleanos.pptx)
 
 2. Taller
 
