@@ -1,6 +1,9 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
-Tutoria viernes 11 am, solicitar el link
+
+Clases de 11 a 1 pm, los lunes y miercoles cada semana en el siguiente [link](https://meet.google.com/jai-qzch-fyu)
+
+Tutoria viernes 2-3 pm, solicitar el [link](https://meet.google.com/dug-wmsz-ihn)
 
 Ver notas de talleres [aquí]
 
