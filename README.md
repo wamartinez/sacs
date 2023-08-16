@@ -24,7 +24,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://github.com/wamartinez/sacs/blob/main/instructivo-de-registro-para-acceder-a-office.pdf)
 
-   **Video de la clase**
+**Video de la clase**
 
    -[Video Miercoles](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc)
 
