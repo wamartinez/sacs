@@ -62,7 +62,7 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 1. Clase teórica
 
-   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Módulo1/StablishingCredibility.pptx)
+   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/StablishingCredibility.pptx)
 
 2. Taller
 
