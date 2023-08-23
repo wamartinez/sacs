@@ -5,7 +5,7 @@ Clases de 11 a 1 pm, los lunes y miercoles cada semana en el siguiente [link](ht
 
 Tutoria viernes 2-3 pm, solicitar el [link](https://meet.google.com/dug-wmsz-ihn)
 
-Ver notas de talleres [aquí]
+Ver notas de talleres [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
 ## Módulo 1: Alfabetización digital: búsqueda efectiva de información 
 ### Sesión 1 (Agosto 9)
