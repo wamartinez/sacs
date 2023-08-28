@@ -82,6 +82,9 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
    Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/Biblio.pptx)
 
+**Video de la clase**
+   -[Video](https://drive.google.com/drive/u/0/folders/1aIVlugw8oNJPh-AEr3aG4AEH-zW47HRR)
+
 2. Clase teórica práctica
 
    Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
