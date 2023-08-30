@@ -72,7 +72,7 @@ El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formul
 
    -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link)
 
-### Sesión 4 (Sep 4 - Sep 6)
+### Sesión 4 (Ago 28 - Sep 6)
 
 Gestión de la información bibliográfica usando Zotero y Mendeley.
 
