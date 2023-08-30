@@ -84,7 +84,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 **Video de la clase**
 
-   -[Video](https://drive.google.com/drive/u/0/folders/1aIVlugw8oNJPh-AEr3aG4AEH-zW47HRR)
+   -[Videos](https://drive.google.com/drive/u/0/folders/1aIVlugw8oNJPh-AEr3aG4AEH-zW47HRR)
 
 2. Clase teórica práctica
 
