@@ -102,6 +102,11 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 * [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
 * [Plugin zotero en word](https://github.com/wamartinez/sacs/blob/main/Semana4/PluginWordZotero.docx)
 
+**Video de la clase**
+
+   -[Videos](https://drive.google.com/drive/u/0/folders/10oN3xubX46dD8Bf0oIjJCyXz6P0aXby5)
+
+
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 1   
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
