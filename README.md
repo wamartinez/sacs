@@ -90,7 +90,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
    Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
 
-### Sesión 5 (Sep 11 - Sep 13)
+### Sesión 5 (Sep 11 -Sep 13)
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
@@ -111,7 +111,7 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
 
-### Sesión 6 (Sep 25 - Sep 27)
+### Sesión 6 (Sep 25)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -135,7 +135,7 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
-### Sesión 7 (25 -27 de Sep)
+### Sesión 7 (Sep 27)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
