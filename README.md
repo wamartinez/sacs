@@ -111,7 +111,7 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
 
-### Sesión 6 (Sep 25)
+### Sesión 6 (Sep 25- Sep 27)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -135,7 +135,7 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
-### Sesión 7 (Sep 27)
+### Sesión 7 (Oct 2 - Oct 4)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -155,7 +155,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado. Con e
 
 Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
-### Sesión 8 (2 -4 de Octubre)
+### Sesión 8 (Oct 9 - Oct 11)
 
 Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
 
@@ -165,7 +165,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
 
-### Sesión 9 (9 -11 de Octubre)
+### Sesión 9 (Oct 18)
 
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
 
@@ -182,7 +182,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
    
    
-### Sesión 10 (18 de Octubre)
+### Sesión 10 (Oct 23 - Oct 25)
 
 Aprender a trabajar con documentos de Google.
    
@@ -202,7 +202,7 @@ Aprender a trabajar con documentos de Google.
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel. 
 
-### Sesión 11 (8 de Noviembre)
+### Sesión 11 (Oct 30 - 8 de Noviembre)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
