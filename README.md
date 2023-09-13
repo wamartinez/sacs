@@ -190,6 +190,9 @@ Aprender a trabajar con documentos de Google.
    * Colaborar con documentos de Google.
    * Hacer funcional documento de Google mediante la creación de tablas de contenido, agregar encabezados y pies de página e insertar enlaces y marcadores.
 
+   Material:
+   * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
+
 **Entrega de taller del Módulo 3**
 
    Este Módulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
