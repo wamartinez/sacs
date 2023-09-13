@@ -111,7 +111,7 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
 
-### Sesión 6 (Sep 18 - Sep 20)
+### Sesión 6 (Sep 25 - Sep 27)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -121,6 +121,7 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
 **Actividades**
 
 1. Clase teórica.
+   * [Características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
    * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
 
 2. Clase práctica.
