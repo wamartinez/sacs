@@ -135,6 +135,9 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
 
+**Video de la clase**
+* [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
+
 ### Sesión 7 (Oct 2 - Oct 4)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
