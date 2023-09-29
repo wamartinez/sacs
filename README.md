@@ -128,8 +128,8 @@ El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este e
 
    Planificar el ensayo mediante el uso de MINDOMO
    * Mapas mentales
-   * Ejemplo de mapa mental Mindomo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo1.mom)
-   * Ejemplo de mapa mental Pdf [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo1.pdf)
+   * Ejemplo de mapa mental Mindomo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo2.mom)
+   * Ejemplo de mapa mental Pdf [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo2.pdf)
    * Ensayo de ejemplo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Mindomo_ensayoEjemplo.docx)
    
 **Material de apoyo**
