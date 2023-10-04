@@ -115,7 +115,8 @@ Fortalecer al estudiante en la escritura Académica mediante el uso de herramien
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
-   * Guía para el desarrollo del [Ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)
+   * Guía para el desarrollo del taller del [Modulo II](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)
+   * Subir taller [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
 
 **Actividades**
 
@@ -149,13 +150,10 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado. Con e
 * Consulte [OBS](https://obsproject.com/)
 * Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
 
-**Entrega de taller**
-* Mapa conceptual del ensayo y video de 5 min del ensayo  [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
+**Video de la clase**
 
-**Entrega de taller del Módulo 3**
+   -[Videos](https://drive.google.com/drive/folders/1Ptm33awWQgyI1CcBX7iOKtd7KwihCbut?usp=drive_link)
 
-   Este Módulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
-   * Ensayo
 
 ## Módulo III: Herramientas ofimáticas I
 
