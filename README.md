@@ -149,9 +149,8 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado. Con e
 * Consulte [OBS](https://obsproject.com/)
 * Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
 
-**Entrega de taller **
+**Entrega de taller**
 * Mapa conceptual del ensayo y video de 5 min del ensayo  [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
-* 
 
 **Entrega de taller del Módulo 3**
 
