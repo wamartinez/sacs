@@ -115,8 +115,7 @@ Fortalecer al estudiante en la escritura Académica mediante el uso de herramien
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
-El estudiante deberá ir preparando un ensayo entre 1000 y 1500 palabras. Este ensayo se calificará al final del Módulo 3. En esta sección se revisaran antes tanto elementos teóricos como programas de apoyo para su escritura.
-   * Guía para el desarrollo del [Ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller.doc)
+   * Guía para el desarrollo del [Ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)
 
 **Actividades**
 
@@ -151,12 +150,19 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado. Con e
 * Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
 
 **Entrega de taller **
-* Mapa conceptual del ensayo
-* Video de 5 min del ensayo
+* Mapa conceptual del ensayo y video de 5 min del ensayo  [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
+* 
+
+**Entrega de taller del Módulo 3**
+
+   Este Módulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
+   * Ensayo
 
 ## Módulo III: Herramientas ofimáticas I
 
 Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
+
+El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras.
 
 ### Sesión 8 (Oct 9 - Oct 11)
 
