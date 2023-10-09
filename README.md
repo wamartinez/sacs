@@ -170,6 +170,8 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 1. Clase teórica.
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
+  
+2. Instalación de google drive
 
 ### Sesión 9 (Oct 18)
 
