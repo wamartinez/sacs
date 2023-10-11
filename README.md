@@ -160,6 +160,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado. Con e
 Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
 El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras.
+   * Taller[link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.pdf).
 
 ### Sesión 8 (Oct 9 - Oct 11)
 
@@ -204,10 +205,6 @@ Aprender a trabajar con documentos de Google.
    Material:
    * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
 
-**Entrega de taller del Módulo 3**
-
-   Este Módulo comprende los siguientes entregables los cuales deben ser subidos al siguiente [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
-   * Ensayo
    
 ## Módulo IV: Herramientas ofimáticas II
 
