@@ -173,6 +173,9 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
   
 2. Instalación de google drive
 
+   -[Videos](https://drive.google.com/drive/folders/1j_eYYBPdiBH3Ja6Vxnp0_RsPnm-QN23p?usp=drive_link)
+
+
 ### Sesión 9 (Oct 18)
 
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
