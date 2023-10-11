@@ -111,12 +111,12 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 
 Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
 
+   * Guía para el desarrollo del taller del [Modulo II](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)
+   * Subir taller [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
+
 ### Sesión 6 (Sep 13- Sep 27)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
-
-   * Guía para el desarrollo del taller del [Modulo II](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)
-   * Subir taller [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
 
 **Actividades**
 
