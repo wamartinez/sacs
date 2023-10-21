@@ -193,7 +193,8 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
    * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
-   
+   * [Videos](https://drive.google.com/drive/folders/1hMwABALi3URLK79u5T5NzaXOp4TQ_Mne?usp=share_link)
+
    
 ### Sesión 10 (Oct 23 - Oct 25)
 
