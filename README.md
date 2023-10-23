@@ -202,9 +202,10 @@ Aprender a trabajar con documentos de Google.
    
    * Componer documentos de Google.
    * Colaborar con documentos de Google.
-   * Hacer funcional documento de Google mediante la creación de tablas de contenido, agregar encabezados y pies de página e insertar enlaces y marcadores.
+   * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
 
    Material:
+   * Base de datos [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
    * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
 
    
