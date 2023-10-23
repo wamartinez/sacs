@@ -205,8 +205,9 @@ Aprender a trabajar con documentos de Google.
    * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
 
    Material:
-   * Base de datos [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
+   * Base de datos ejercicio precio de la gasolina [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
    * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
+   * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
    
 ## Módulo IV: Herramientas ofimáticas II
