@@ -161,7 +161,8 @@ Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
 El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras.
 
-   * Taller [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
+   * Guía para el desarrollo del taller del [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
+   * Subir taller [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).* 
 
 ### Sesión 8 (Oct 9 - Oct 11)
 
