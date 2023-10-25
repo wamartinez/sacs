@@ -254,6 +254,7 @@ En esta semana los estudiantes podrán continuar aprendiendo nuevos elementos de
 Actividades Lunes:
    * Tablas dinámicas
    * Grabación e implementación de Macros útiles.
+
 Actividades Miercoles:
    * Desarrollo de Taller Modulo 4.
 
