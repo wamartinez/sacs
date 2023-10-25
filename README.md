@@ -214,7 +214,7 @@ Aprender a trabajar con documentos de Google.
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel. 
 
-### Sesión 11 (Oct 30 - 1 de Noviembre)
+### Sesión 11 (Oct 25 - 1 de Noviembre)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
