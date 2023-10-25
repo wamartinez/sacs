@@ -215,7 +215,7 @@ Aprender a trabajar con documentos de Google.
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel. 
 
-### Sesión 11 (Oct 30 - 8 de Noviembre)
+### Sesión 11 (Oct 30 - 1 de Noviembre)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -236,42 +236,47 @@ El estudiante aprenderá lo siguiente:
 
 [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
-### Sesión 12 (15 de Noviembre)
+### Sesión 12 (8 de Noviembre)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
    * Insertar formato, filtros y condicionales a las tablas
-   * Crear gráficas
+   * Crear gráficas en Excel
+   * Crear gráficas en hoja de cálculo de Google
 
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
-### Sesión 13 (20-22 de Noviembre)
+### Sesión 13 (15 de Noviembre)
 
 En esta semana los estudiantes podrán continuar aprendiendo nuevos elementos de Excel enfocadose en el dominio de tablas dinámicas 
 
+Actividades Lunes:
+   * Tablas dinámicas
+   * Grabación e implementación de Macros útiles.
+Actividades Miercoles:
+   * Desarrollo de Taller Modulo 4.
+
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
+### Sesión 14 (20-22 de Noviembre)
 
-### Sesión 14 (27-29 de Noviembre)
+Desarrollo de Taller Modulo 4.
 
-Aprender a trabajar con hojas de cálculo de Google.
-   
-   * Uso básico de formulas, funciones y gráficas.
+### Sesión 15 (27-29 de Noviembre)
 
-### Sesión 15 (4-6 de Diciembre)
+Lunes 27 de Noviembre:
+Entrega del Taller Modulo 4.
 
-Introducir al estudiante en Macros para office.
+Miercoles 29 de Noviembre:
+Publicación de notas de talleres.
 
-* Grabación e implementación de Macros útiles.
+### Sesión 16 (4 de Diciembre)
 
-### Sesión 16 (8 de Diciembre)
+Actividad Lunes:
+   Examen final (teórico - práctico). El examen se enviará en el horario de clase y los estudiantes deberán subir las respuestas antes de las 2 de la tarde (Hora colombia). Solo se considerarán los examenes subidos antes de este horario.
 
-Examen final (teórico - práctico)
-Parcial final día viernes 8 de Diciembre.
-
-* Entrega de nota de parcial y talleres.
-Día viernes 8 de Diciembre
+Publicación de resultados finales: 4 de Diciembre
