@@ -186,9 +186,11 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 **Actividades**
 
 1. Clase práctica.
-   
+
+   * Componer documentos de Google.
    * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
    * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Ejemplofiguras.docx)
+   * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
 
 **Material de apoyo**
 
@@ -197,17 +199,14 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * [Videos](https://drive.google.com/drive/folders/1hMwABALi3URLK79u5T5NzaXOp4TQ_Mne?usp=share_link)
 
    
-### Sesión 10 (Oct 23 - Oct 25)
+### Sesión 10 (Oct 23 )
 
 Aprender a trabajar con documentos de Google.
    
-   * Componer documentos de Google.
-   * Colaborar con documentos de Google.
    * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
 
    Material:
    * Base de datos ejercicio precio de la gasolina [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
-   * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
    
