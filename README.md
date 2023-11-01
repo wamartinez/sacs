@@ -237,7 +237,7 @@ El estudiante aprenderá lo siguiente:
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
 **Ejercicio**
-* Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/gapminder-FiveYearData.csv)
+* Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
 
 ### Sesión 12 (8 de Noviembre)
 
