@@ -236,6 +236,8 @@ El estudiante aprenderá lo siguiente:
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
+**Ejercicio**
+* Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/gapminder-FiveYearData.csv)
 
 ### Sesión 12 (8 de Noviembre)
 
