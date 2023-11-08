@@ -242,6 +242,7 @@ El estudiante aprenderá lo siguiente:
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
+   * Tablas dinámicas
    * Insertar formato y filtros condicionales
    * Crear gráficas en Excel
 
@@ -250,16 +251,15 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 **Ejercicio**
-* Ejemplo clase descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
-* Ejemplo clase descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
+* Taller P1 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
+* Taller P1 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
 
 
 ### Sesión 13 (15 de Noviembre)
 
-En esta semana los estudiantes podrán continuar aprendiendo nuevos elementos de Excel enfocadose en el dominio de tablas dinámicas 
+En esta semana los estudiantes podrán continuar aprendiendo nuevos elementos de Excel enfocadose en el dominio básico de macros 
 
 Actividades Lunes:
-   * Tablas dinámicas
    * Grabación e implementación de Macros útiles.
 
 Actividades Miercoles:
@@ -271,7 +271,7 @@ Actividades Miercoles:
 
 ### Sesión 14 (20-22 de Noviembre)
 
-Desarrollo de Taller Modulo 4.
+Desarrollo de Taller P2 Modulo 4.
 
 ### Sesión 15 (27-29 de Noviembre)
 
