@@ -230,26 +230,29 @@ El estudiante aprenderá lo siguiente:
    * Insertar comentarios e hipervínculos
    * Funciones de búsqueda, lógicas y estadísticas
    * Concatenar celdas
+   * Crear gráficas en hoja de cálculo de Google
 
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
-**Ejercicio**
-* Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
 
 ### Sesión 12 (8 de Noviembre)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
-   * Insertar formato, filtros y condicionales a las tablas
+   * Insertar formato y filtros condicionales
    * Crear gráficas en Excel
-   * Crear gráficas en hoja de cálculo de Google
 
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+
+**Ejercicio**
+* Ejemplo clase descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
+* Ejemplo clase descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
+
 
 ### Sesión 13 (15 de Noviembre)
 
