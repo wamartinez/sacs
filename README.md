@@ -256,16 +256,16 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
 * Taller P1 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
 
-
 ### Sesión 13 (15 de Noviembre)
 
-En esta semana los estudiantes podrán continuar aprendiendo nuevos elementos de Excel enfocadose en el dominio básico de macros 
-
-Actividades Lunes:
-   * Grabación e implementación de Macros útiles.
+En esta semana los estudiantes podrán empezarán la segunda parte del taller del modulo IV.
 
 Actividades Miercoles:
    * Desarrollo de Taller Modulo 4.
+
+**Ejercicio**
+* Taller P2 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerM_IV.xlsx)
+* Taller P2 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP2.doc)
 
 **Material de apoyo**
 
@@ -273,15 +273,19 @@ Actividades Miercoles:
 
 ### Sesión 14 (20-22 de Noviembre)
 
-Desarrollo de Taller P2 Modulo 4.
+En esta semana los estudiantes continuan desarrolloando el taller del modulo IV. 
 
 ### Sesión 15 (27-29 de Noviembre)
 
-Lunes 27 de Noviembre:
-Entrega del Taller Modulo 4.
+En esta semana los estudiantes tienen una clase adicional para aprender macros simples. Se entregarán los talleres por parte de los estudiantes y evaluarán así mismo por el profesor.
 
-Miercoles 29 de Noviembre:
-Publicación de notas de talleres.
+Actividades Lunes:
+   * Grabación e implementación de Macros útiles.
+
+Entregables
+   * Lunes 27 de Noviembre: Entrega del Taller Modulo 4. Subir taller [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).
+
+   *  Miercoles 29 de Noviembre: Publicación de notas de talleres.
 
 ### Sesión 16 (4 de Diciembre)
 
