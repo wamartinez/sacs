@@ -283,7 +283,7 @@ Actividades Lunes:
    * Grabación e implementación de Macros útiles.
 
 Entregables
-   * Lunes 27 de Noviembre: Entrega del Taller Modulo 4. Subir taller [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).
+   * Lunes 27 de Noviembre: Entrega del Taller Modulo 4. Subir al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
    *  Miercoles 29 de Noviembre: Publicación de notas de talleres.
 
