@@ -271,6 +271,8 @@ Actividades Miercoles:
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
+* [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
+
 ### Sesión 14 (20-22 de Noviembre)
 
 En esta semana los estudiantes continuan desarrolloando el taller del modulo IV. 
