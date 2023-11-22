@@ -277,7 +277,7 @@ Actividades Miercoles:
 
 En esta semana los estudiantes continuan desarrolloando el taller del modulo IV. 
 
-### Sesión 15 (27-29 de Noviembre)
+### Sesión 15 (27 de Noviembre)
 
 En esta semana los estudiantes tienen una clase adicional para aprender macros simples. Se entregarán los talleres por parte de los estudiantes y evaluarán así mismo por el profesor.
 
