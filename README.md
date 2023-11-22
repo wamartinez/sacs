@@ -287,11 +287,4 @@ Actividades Lunes:
 Entregables
    * Lunes 27 de Noviembre: Entrega del Taller Modulo 4. Subir al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
-   *  Miercoles 29 de Noviembre: Publicación de notas de talleres.
-
-### Sesión 16 (4 de Diciembre)
-
-Actividad Lunes:
-   Examen final (teórico - práctico). El examen se enviará en el horario de clase y los estudiantes deberán subir las respuestas antes de las 2 de la tarde (Hora colombia). Solo se considerarán los examenes subidos antes de este horario.
-
-Publicación de resultados finales: 4 de Diciembre
+Publicación de resultados finales: 27 de Noviembre
