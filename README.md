@@ -283,8 +283,12 @@ En esta semana los estudiantes tienen una clase adicional para aprender macros s
 
 Actividades Lunes:
    * Grabación e implementación de Macros útiles.
+   * 
+**Material de apoyo**
+
+* [Macros simples](https://drive.google.com/drive/folders/1ewJzm2RWThzFnfMDDQZW-R1OJlmeviZd?usp=sharing)
 
 Entregables
-   * Lunes 27 de Noviembre: Entrega del Taller Modulo 4. Subir al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
+   * Lunes 27 de Noviembre: Fecha máxima de entrega del Taller Modulo 4. Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
 Publicación de resultados finales: 27 de Noviembre
