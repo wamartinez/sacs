@@ -290,6 +290,6 @@ Actividades Lunes:
 
 Entregables
    * Lunes 27 de Noviembre: Fecha máxima de entrega del Taller Modulo 4. Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
-   * Soluciones Taller P2 MIV: [Link](https://docs.google.com/spreadsheets/d/1fBAIXoJgmMaRqZJRGSm8Gz4X94tjGh9L/edit?pli=1#gid=1076240149)
+   * Soluciones Taller P2 MIV: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerM_IV_Respuestas.xlsx)
 
 Publicación de resultados finales: 27 de Noviembre
