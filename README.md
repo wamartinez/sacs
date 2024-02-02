@@ -285,6 +285,5 @@ Tema libre
 
 Entregables
    * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
-   * Soluciones Taller P2 MIV: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerM_IV_Respuestas.xlsx)
 
 Publicación de resultados finales: 28 de Mayo
