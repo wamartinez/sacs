@@ -22,7 +22,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 **Video de la clase**
 
-   -[Video Miercoles](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc)
+   -[Video de apoyo](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc)
 
 ### Sesión 2 (12 a 16 de febrero)
 
