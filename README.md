@@ -45,10 +45,10 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 
    - Leer [La guía del investigador](https://github.com/wamartinez/sacs/blob/main/Modulo1/ResearchBasics_Guide_2018.pdf)
 
-**Video de la clase** 
+**Videos de apoyo** 
 
-   - [Video Lunes](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
-   - [Video Miercoles](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
+   - [Video 1](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
+   - [Video 2](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
 
 ### Sesión 3 (19 al 24 de febrero)
 
@@ -64,7 +64,7 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
 
-**Video de la clase**
+**Video de apoyo**
 
    -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link)
 
@@ -78,7 +78,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
    Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/Biblio.pptx)
 
-**Video de la clase**
+**Video de apoyo**
 
    -[Videos](https://drive.google.com/drive/u/0/folders/1aIVlugw8oNJPh-AEr3aG4AEH-zW47HRR)
 
@@ -140,11 +140,12 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado. Con e
 
 1. Clase práctica.
    Uso de OBS básico para la grabación de tutoriales, presentaciones o ensayos.
+   Uso de shotcut para la edición básica de videos.
 
 **Material de apoyo**
 
 * Consulte [OBS](https://obsproject.com/)
-* Tutorial [OBS](https://www.youtube.com/watch?v=tj6f9jtbugw)
+* Tutoriales [Shotcut](https://shotcut.org/)
 
 **Video de la clase**
 
@@ -157,7 +158,7 @@ Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
 El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras.
 
-   * Guía para el desarrollo del taller, presentar hasta el día 6 de Noviembre del 2023 [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
+   * Guía para el desarrollo del taller [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
    * Subir taller [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).* 
 
 ### Sesión 8 (1 al 5 de abril)
@@ -170,8 +171,11 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
    * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
   
-2. Instalación de google drive
+2. El uso de Google Drive y OneDrive
 
+   * Tutoriales de [OneDrive](https://support.microsoft.com/en-us/office/onedrive-video-training-1f608184-b7e6-43ca-8753-2ff679203132)
+
+**Material de apoyo**
    -[Videos](https://drive.google.com/drive/folders/1j_eYYBPdiBH3Ja6Vxnp0_RsPnm-QN23p?usp=drive_link)
 
 
