@@ -136,7 +136,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 
 ### Sesión 7 (18 al 22 Marzo)
 
-El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
+El estudiante conocerá los elementos básicos de OBS para el autograbado y Shotcut para la edición. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
 1. Clase práctica.
    Uso de OBS básico para la grabación de tutoriales, presentaciones o ensayos.
@@ -206,7 +206,7 @@ Aprender a trabajar con documentos de Google.
    * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
 
    Material:
-   * Base de datos ejercicio precio de la gasolina [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
+   * Base de datos ejercicio precio de la gasolina en Colombia [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
    
@@ -275,18 +275,13 @@ Actividades Miercoles:
 
 ### Sesión 14 (14 al 17 de mayo)
 
-En esta semana los estudiantes continuan desarrolloando el taller del modulo IV. 
+En esta semana los estudiantes continuan desarrollando el taller del modulo IV con acompañamiento del profesor. 
 
 ### Sesión 15 (20 al 24 de mayo)
 
-En esta semana los estudiantes tienen una clase adicional para aprender macros simples. Se entregarán los talleres por parte de los estudiantes y evaluarán así mismo por el profesor.
-
-Actividades Lunes:
-   * Grabación e implementación de Macros útiles.
+Tema libre
 
 **Material de apoyo**
-
-* [Macros simples](https://drive.google.com/drive/folders/1ewJzm2RWThzFnfMDDQZW-R1OJlmeviZd?usp=sharing)
 
 Entregables
    * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
