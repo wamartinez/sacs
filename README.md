@@ -3,8 +3,6 @@ Profesor: William Martinez
 
 Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Aula TIC: B
 
-Ver notas de talleres actualizadas al 27 de noviembre del 2023, 2:00 pm [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
-
 ## Módulo 1: Alfabetización digital: búsqueda efectiva de información 
 ### Sesión 1 (5 a 9 de Febrero)
 
