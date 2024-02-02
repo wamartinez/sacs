@@ -1,14 +1,12 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-Clases de 11 a 1 pm, los lunes y miercoles cada semana en el siguiente [link](https://meet.google.com/jai-qzch-fyu)
-
-Tutoria viernes 2-3 pm, solicitar el [link](https://meet.google.com/dug-wmsz-ihn)
+Clases de 9 a 11 am, los martes y jueves cada semana en el siguiente [link](https://meet.google.com/jai-qzch-fyu)
 
 Ver notas de talleres actualizadas al 27 de noviembre del 2023, 2:00 pm [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
 ## Módulo 1: Alfabetización digital: búsqueda efectiva de información 
-### Sesión 1 (Agosto 9)
+### Sesión 1 (5 a 9 de Febrero)
 
 Introducir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
 
@@ -28,7 +26,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
    -[Video Miercoles](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc)
 
-### Sesión 2 (Agosto 14 - Agosto 16)
+### Sesión 2 (12 a 16 de febrero)
 
 Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibliográficos. Esto se hace mediante palabras clave y operadores booleanos. En este sentido Las bases de datos sobre las cuales los estudiantes realizarán sus busquedas son: Scielo, Redalyc, Scopus y google académico.
 
@@ -54,7 +52,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    - [Video Lunes](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
    - [Video Miercoles](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
 
-### Sesión 3 (Agosto 23)
+### Sesión 3 (26 a 29 de febrero)
 
 Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de información.
 
@@ -72,7 +70,7 @@ El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formul
 
    -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link)
 
-### Sesión 4 (Ago 28 - Sep 6)
+### Sesión 4 (4 al 8 de Marzo)
 
 Gestión de la información bibliográfica usando Zotero y Mendeley.
 
@@ -90,7 +88,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
    Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
 
-### Sesión 5 (Sep 11)
+### Sesión 5 (11 al 15 de Marzo)
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
@@ -114,7 +112,7 @@ Fortalecer al estudiante en la escritura Académica mediante el uso de herramien
    * Guía para el desarrollo del taller del [Modulo II](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)
    * Subir taller [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
 
-### Sesión 6 (Sep 13- Sep 27)
+### Sesión 6 (18 al 22 Marzo)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -138,7 +136,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Video de la clase**
 * [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
 
-### Sesión 7 (Oct 2 - Oct 4)
+### Sesión 7 (25 al 29 Marzo)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -164,7 +162,7 @@ El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras.
    * Guía para el desarrollo del taller, presentar hasta el día 6 de Noviembre del 2023 [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
    * Subir taller [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).* 
 
-### Sesión 8 (Oct 9 - Oct 11)
+### Sesión 8 (1 al 5 de abril)
 
 Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
 
@@ -179,7 +177,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    -[Videos](https://drive.google.com/drive/folders/1j_eYYBPdiBH3Ja6Vxnp0_RsPnm-QN23p?usp=drive_link)
 
 
-### Sesión 9 (Oct 18)
+### Sesión 9 (8 al 12 de abril)
 
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
 
@@ -199,7 +197,7 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
    * [Videos](https://drive.google.com/drive/folders/1hMwABALi3URLK79u5T5NzaXOp4TQ_Mne?usp=share_link)
 
    
-### Sesión 10 (Oct 23 )
+### Sesión 10 (15 al 19 de abril)
 
 Aprender a trabajar con documentos de Google.
    
@@ -214,7 +212,7 @@ Aprender a trabajar con documentos de Google.
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel. 
 
-### Sesión 11 (Oct 25 - 1 de Noviembre)
+### Sesión 11 (22 al 26 de abril)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -238,7 +236,7 @@ El estudiante aprenderá lo siguiente:
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
 
-### Sesión 12 (8 de Noviembre)
+### Sesión 12 (29 de abril al 3 de Mayo)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
@@ -256,7 +254,7 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
 * Taller P1 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
 
-### Sesión 13 (15 de Noviembre)
+### Sesión 13 (6 al 10 de mayo)
 
 En esta semana los estudiantes podrán empezarán la segunda parte del taller del modulo IV.
 
@@ -273,11 +271,11 @@ Actividades Miercoles:
 
 * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
 
-### Sesión 14 (20-22 de Noviembre)
+### Sesión 14 (13 al 17 de mayo)
 
 En esta semana los estudiantes continuan desarrolloando el taller del modulo IV. 
 
-### Sesión 15 (27 de Noviembre)
+### Sesión 15 (20 al 24 de mayo)
 
 En esta semana los estudiantes tienen una clase adicional para aprender macros simples. Se entregarán los talleres por parte de los estudiantes y evaluarán así mismo por el profesor.
 
@@ -289,7 +287,7 @@ Actividades Lunes:
 * [Macros simples](https://drive.google.com/drive/folders/1ewJzm2RWThzFnfMDDQZW-R1OJlmeviZd?usp=sharing)
 
 Entregables
-   * Lunes 27 de Noviembre: Fecha máxima de entrega del Taller Modulo 4. Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
+   * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
    * Soluciones Taller P2 MIV: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerM_IV_Respuestas.xlsx)
 
-Publicación de resultados finales: 27 de Noviembre
+Publicación de resultados finales: 28 de Mayo
