@@ -1,7 +1,7 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-Clases de 9 a 11 am, los martes y jueves cada semana en el siguiente [link](https://meet.google.com/jai-qzch-fyu)
+Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Aula TIC: B
 
 Ver notas de talleres actualizadas al 27 de noviembre del 2023, 2:00 pm [aquí](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
@@ -52,7 +52,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    - [Video Lunes](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
    - [Video Miercoles](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
 
-### Sesión 3 (26 a 29 de febrero)
+### Sesión 3 (19 al 24 de febrero)
 
 Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de información.
 
@@ -70,7 +70,7 @@ El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formul
 
    -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link)
 
-### Sesión 4 (4 al 8 de Marzo)
+### Sesión 4 (26 al 29 de febrero)
 
 Gestión de la información bibliográfica usando Zotero y Mendeley.
 
@@ -88,7 +88,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
    Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
 
-### Sesión 5 (11 al 15 de Marzo)
+### Sesión 5 (4 al 8 de Marzo)
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
@@ -112,7 +112,7 @@ Fortalecer al estudiante en la escritura Académica mediante el uso de herramien
    * Guía para el desarrollo del taller del [Modulo II](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)
    * Subir taller [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).
 
-### Sesión 6 (18 al 22 Marzo)
+### Sesión 6 (11 al 15 Marzo)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -136,7 +136,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Video de la clase**
 * [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
 
-### Sesión 7 (25 al 29 Marzo)
+### Sesión 7 (18 al 22 Marzo)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -271,7 +271,7 @@ Actividades Miercoles:
 
 * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
 
-### Sesión 14 (13 al 17 de mayo)
+### Sesión 14 (14 al 17 de mayo)
 
 En esta semana los estudiantes continuan desarrolloando el taller del modulo IV. 
 
