@@ -10,7 +10,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 **Actividades**
 
-1. Ver programa del curso [aquí](https://github.com/wamartinez/sacs/blob/main/230422_Programa_SACS_S2.pdf)
+1. Ver programa del curso.
 
 2. Evaluación de las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel).
 
