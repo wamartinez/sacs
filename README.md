@@ -1,7 +1,7 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-Lista del curso: [documento](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
+Lista del curso: [Lista](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
 
 Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Aula TIC: B
 
