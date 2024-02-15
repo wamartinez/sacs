@@ -35,6 +35,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 1. Clase teórica - práctica.
 
    - [Sistema nacional de bibliotécas](https://bibliotecas.unal.edu.co/)
+   - [Link Scopus ](https://www.scopus.com/search/form.uri?display=basic#basic)
      
    - Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/ClaseSem1_OperadoresBooleanos.pptx)
 
