@@ -87,8 +87,9 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 2. Clase teórica práctica
 
-   Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
-   Zotero Word [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/PluginWordZotero.docx)
+   -Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
+   
+   -Zotero Word [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/PluginWordZotero.docx)
 
 ### Sesión 5 (4 al 8 de Marzo)
 
