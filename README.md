@@ -79,7 +79,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 1. Clase teórica
 
-   Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/Biblio.pptx)
+   * Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/Biblio.pptx)
 
 **Video de apoyo**
 
@@ -87,9 +87,11 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 2. Clase teórica práctica
 
-   -Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
-   
-   -Zotero [Word zotero](https://github.com/wamartinez/sacs/blob/main/Modulo1/PluginWordZotero.docx)
+   * Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
+   * [Características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
+
+**Material de apoyo** 
+   - Plugin Zotero en Word [Word zotero](https://github.com/wamartinez/sacs/blob/main/Modulo1/PluginWordZotero.docx)
 
 ### Sesión 5 (4 al 8 de Marzo)
 
@@ -122,7 +124,6 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Actividades**
 
 1. Clase teórica.
-   * [Características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
    * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
 
 2. Clase práctica.
