@@ -97,7 +97,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
-   * [Descargar material taller](https://github.com/wamartinez/sacs/blob/main/Modulo1/Taller_Gestores_Bibliográficos.docx)
+   * [Descargar material taller](https://docs.google.com/document/d/1mVvuirLftEJXU4PkX_R0tkeFvpz9RBs7/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
    * Subir [Taller](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
 
 **Material de apoyo**
