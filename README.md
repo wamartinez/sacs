@@ -124,7 +124,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Actividades**
 
 1. Clase teórica.
-   * [Cómo hacer un ensayo](https://github.com/wamartinez/sacs/blob/main/Modulo2/Como_hacer_un_ensayo.pptx)
+   * [Cómo hacer un ensayo](https://docs.google.com/presentation/d/1P3m6hHn440XASZ6q04vSEgpq9IchNWdo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 2. Clase práctica.
 
