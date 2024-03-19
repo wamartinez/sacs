@@ -5,7 +5,7 @@ Lista del curso: [Lista](https://github.com/wamartinez/sacs/blob/main/Calificaci
 
 Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Aula TIC: B
 
-## Módulo 1: Alfabetización digital: búsqueda efectiva de información 
+## Módulo I: Alfabetización digital: búsqueda efectiva de información 
 ### Sesión 1 (5 a 9 de Febrero)
 
 Introducir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
@@ -110,7 +110,7 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
    -[Videos](https://drive.google.com/drive/u/0/folders/10oN3xubX46dD8Bf0oIjJCyXz6P0aXby5)
 
 
-## Módulo II Competencias básicas: Competencias lectoras-escritoras 1   
+## Módulo II Herramientas ofimáticas I: Competencias lectoras-escritoras en word 
 
 Fortalecer al estudiante en la escritura académica mediante el uso de herramientas de video y de mapas mentales
 Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
@@ -194,7 +194,7 @@ Aprender a trabajar con documentos de Google.
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
    
-## Módulo IV: Herramientas ofimáticas I: Excel
+## Módulo III: Herramientas ofimáticas I: Excel
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel.
 
@@ -271,10 +271,7 @@ Actividades Miercoles:
 ### Sesión 14 (14 al 17 de mayo)
 
 
-
 ### Sesión 15 (20 al 24 de mayo)
-
-
 
 
 Publicación de resultados finales: 28 de Mayo
