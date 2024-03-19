@@ -112,10 +112,14 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 
 ## Módulo II Competencias básicas: Competencias lectoras-escritoras 1   
 
-Fortalecer al estudiante en la escritura Académica mediante el uso de herramientas de video y de mapas mentales
+Fortalecer al estudiante en la escritura académica mediante el uso de herramientas de video y de mapas mentales
+Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
-   <!--* Guía para el desarrollo del taller del [Modulo II](https://github.com/wamartinez/sacs/blob/main/Modulo2/Taller2.doc)-->
-    <!--* %* Subir taller [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/).-->
+El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras. Este ensayo viene con dos anexos, uno el video de min y otro el mapa mental
+
+   * Guía para el desarrollo del taller [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
+   * Subir ensayo [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).
+   * Subir Anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/). 
 
 ### Sesión 6 (11 al 15 Marzo)
 
@@ -158,40 +162,15 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
    -[Videos](https://drive.google.com/drive/folders/1Ptm33awWQgyI1CcBX7iOKtd7KwihCbut?usp=drive_link)
 
 
-## Módulo III: Herramientas ofimáticas I
-
-Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
-
-El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras.
-
-   * Guía para el desarrollo del taller [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
-   * Subir taller [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).* 
-
 ### Sesión 8 (1 al 5 de abril)
 
-Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Además, presentar un acompañamiento a los estudiantes para la escritura efectiva de sus ensayos
-
-**Actividades**
-
 1. Clase teórica.
-   * [Las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
-   * [Manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
-  
-2. El uso de Google Drive y OneDrive
 
-   * Tutoriales de [OneDrive](https://support.microsoft.com/en-us/office/onedrive-video-training-1f608184-b7e6-43ca-8753-2ff679203132)
+   * [El uso de las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
+   * [El manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
+   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.   
 
-**Material de apoyo**
-   -[Videos](https://drive.google.com/drive/folders/1j_eYYBPdiBH3Ja6Vxnp0_RsPnm-QN23p?usp=drive_link)
-
-
-### Sesión 9 (8 al 12 de abril)
-
-   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
-
-**Actividades**
-
-1. Clase práctica.
+2. Clase práctica.
 
    * Componer documentos de Google.
    * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
@@ -202,10 +181,9 @@ Resaltar la importancia del manejo del lenguaje y los signos de puntuación. Ade
 
    * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
-   * [Videos](https://drive.google.com/drive/folders/1hMwABALi3URLK79u5T5NzaXOp4TQ_Mne?usp=share_link)
 
    
-### Sesión 10 (15 al 19 de abril)
+### Sesión 9 (8 al 12 de abril)
 
 Aprender a trabajar con documentos de Google.
    
@@ -216,11 +194,14 @@ Aprender a trabajar con documentos de Google.
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
    
-## Módulo IV: Herramientas ofimáticas II
+## Módulo IV: Herramientas ofimáticas I: Excel
 
-Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel. 
+Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel.
 
-### Sesión 11 (22 al 26 de abril)
+Entregable final
+   * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
+
+### Sesión 10 (15 al 19 de abril)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -244,7 +225,7 @@ El estudiante aprenderá lo siguiente:
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
 
-### Sesión 12 (29 de abril al 3 de Mayo)
+### Sesión 11 (22 al 26 de abril)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
@@ -262,11 +243,12 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
 * Taller P1 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
 
-### Sesión 13 (6 al 10 de mayo)
+### Sesión 12 (29 de abril al 3 de Mayo)
 
-En esta semana los estudiantes podrán empezarán la segunda parte del taller del modulo IV.
+En esta semana los estudiantes desarrollan el taller del modulo III.
 
 Actividades Miercoles:
+
    * Desarrollo de Taller Modulo 4.
 
 **Ejercicio**
@@ -279,17 +261,20 @@ Actividades Miercoles:
 
 * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
 
+
+## Módulo IV: Herramientas ofimáticas II: Mapas
+
+
+### Sesión 13 (6 al 10 de mayo)
+
+
 ### Sesión 14 (14 al 17 de mayo)
 
-En esta semana los estudiantes continuan desarrollando el taller del modulo IV con acompañamiento del profesor. 
+
 
 ### Sesión 15 (20 al 24 de mayo)
 
-Tema libre
 
-**Material de apoyo**
 
-Entregables
-   * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
 Publicación de resultados finales: 28 de Mayo
