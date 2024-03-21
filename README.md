@@ -158,6 +158,9 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 * Tutoriales [Shotcut](https://shotcut.org/)
 * Descargar [VLC](https://www.videolan.org/vlc/download-windows.es.html)
 
+* Material Videos (https://drive.google.com/drive/folders/1arLvnAeZYVHs0NskGsD-0uFVhXe1pMiv?usp=sharing)
+
+
 **Video y tutorial de la clase**
 
    -[Videos](https://drive.google.com/drive/folders/1Ptm33awWQgyI1CcBX7iOKtd7KwihCbut?usp=drive_link)
