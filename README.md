@@ -115,11 +115,11 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 Fortalecer al estudiante en la escritura académica mediante el uso de herramientas de video y de mapas mentales
 Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
-El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras. Este ensayo viene con dos anexos, uno el video de min y otro el mapa mental
+El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras. Este ensayo viene con dos anexos, uno el video de min y otro el mapa mental.
+Fecha de entrega: 11 de abril del 2024
 
-   * Guía para el desarrollo del taller [link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Taller3.doc).
-   * Subir ensayo [link](https://docs.google.com/forms/d/e/1FAIpQLSdVMxMpaBWN7eBzprpBRVAwcBRpJvG1NaWPok1gOQPv4T7jEQ/viewform).
-   * Subir Anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/). 
+   * Guía para el desarrollo del taller [link](https://docs.google.com/document/d/1qLz46Q-7yC57yRrUw9k1dZuCjz5r43g6/edit?usp=drive_link&ouid=106849738369876125671&rtpof=true&sd=true).
+   * Subir ensayo y anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/edit?pli=1).
 
 ### Sesión 6 (11 al 15 Marzo)
 
@@ -157,8 +157,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 * Consulte [OBS](https://obsproject.com/)
 * Tutoriales [Shotcut](https://shotcut.org/)
 * Descargar [VLC](https://www.videolan.org/vlc/download-windows.es.html)
-
-* Material Videos (https://drive.google.com/drive/folders/1arLvnAeZYVHs0NskGsD-0uFVhXe1pMiv?usp=sharing)
+* Material [Videos](https://drive.google.com/drive/folders/1arLvnAeZYVHs0NskGsD-0uFVhXe1pMiv?usp=sharing)
 
 
 **Video y tutorial de la clase**
