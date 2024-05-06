@@ -265,17 +265,26 @@ Actividad Práctica
 
 ## Módulo IV: Herramientas ofimáticas II: Visualización de datos geoespaciales.
 
-El estudiante comprenderá de manera basica la espacializacion de un dato vectorial tipo punto, linea y poligon
+El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de QGIS.
 
 ### Sesión 13 (6 al 10 de mayo)
 
-Familiriacion de QGIS para el cargue de información geiogrrpafica tipo vector.
+Los estudiantes se introducirán al entorno de QGIS, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá..
+
+EL taller a dsarrollar es el siguiente:
+
+
+**Material de apoyo**
+
 
 ### Sesión 14 (14 al 17 de mayo)
 
+1. El estudiante usará avenza maps para cargar un sitio de interes de la universdiad y posteriormente cargarlo dentro del entorno de QGIS.
+
+EL taller a dsarrollar es el siguiente:
 
 
-Agregar simbologia
-
+**Material de apoyo**
+[Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
 Publicación de resultados finales: 28 de Mayo
