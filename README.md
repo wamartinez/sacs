@@ -168,10 +168,9 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 
 1. Clase teórica.
 
-   * [El uso de las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf) 
-   * [El manejo del lenguaje](https://github.com/wamartinez/sacs/blob/main/Modulo3/ManejoLenguaje.pdf)
-   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.   
-
+   * [El uso de las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf)
+   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
+     
 2. Clase práctica.
 
    * Componer documentos de Google.
@@ -183,19 +182,8 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 
    * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
+   * [Ejemplo figuras](https://docs.google.com/document/d/1JL_a6xcVXaWhm4IBzKS7Z3dm5b1qGVHP/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-   
-### Sesión 9 (8 al 12 de abril)
-
-Aprender a trabajar con documentos de Google.
-   
-   * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
-
-   Material:
-   * Base de datos ejercicio precio de la gasolina en Colombia [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
-   * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
-
-   
 ## Módulo III: Herramientas ofimáticas I: Excel
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel.
@@ -203,7 +191,8 @@ Durante este Módulo el estudiante conocerá elementos básicos para el procesam
 Entregable final
    * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
-### Sesión 10 (15 al 19 de abril)
+
+### Sesión 9 (8 al 12 de abril)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -226,8 +215,7 @@ El estudiante aprenderá lo siguiente:
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
-
-### Sesión 11 (22 al 26 de abril)
+### Sesión 10 (15 al 19 de abril)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
@@ -245,13 +233,19 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
 * Taller P1 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
 
-### Sesión 12 (29 de abril al 3 de Mayo)
+### Sesión 11 (22 al 26 de abril)
 
-En esta semana los estudiantes desarrollan el taller del modulo III.
+Aprender a trabajar con documentos de Google.
+   
+   * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
 
-Actividades Miercoles:
+   Material:
+   * Base de datos ejercicio precio de la gasolina en Colombia [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
+   * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
-   * Desarrollo de Taller Modulo 4.
+Actividades Práctica
+
+   * Desarrollo de Taller Modulo 3.
 
 **Ejercicio**
 * Taller P2 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerM_IV.xlsx)
@@ -266,14 +260,12 @@ Actividades Miercoles:
 
 ## Módulo IV: Herramientas ofimáticas II: Mapas
 
+### Sesión 12 (29 de abril al 3 de Mayo)
+### 
 
 ### Sesión 13 (6 al 10 de mayo)
 
-
 ### Sesión 14 (14 al 17 de mayo)
-
-
-### Sesión 15 (20 al 24 de mayo)
 
 
 Publicación de resultados finales: 28 de Mayo
