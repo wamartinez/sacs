@@ -149,6 +149,8 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 
 1. Clase práctica.
    Uso de OBS básico para la grabación de tutoriales, presentaciones o ensayos.
+
+2. Clase práctica.
    Uso de shotcut para la edición básica de videos.
 
 **Material de apoyo**
@@ -169,28 +171,27 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 1. Clase teórica.
 
    * [El uso de las comas](https://drive.google.com/file/d/1qnXh23uPXqBBjbuLgMuWHOhjMo2iAB1G/view?usp=sharing)
-   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
+   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo.
      
 2. Clase práctica.
 
    * Componer documentos de Google.
    * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
-   * Ejemplo clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo3/Ejemplofiguras.docx)
-   * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
+
 
 **Material de apoyo**
 
    * Normas APA [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
    * [Ejemplo figuras](https://docs.google.com/document/d/1JL_a6xcVXaWhm4IBzKS7Z3dm5b1qGVHP/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
-
+   * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
+     
 ## Módulo III: Herramientas ofimáticas I: Excel
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel.
 
 Entregable final
    * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
-
 
 ### Sesión 9 (8 al 12 de abril)
 
@@ -238,14 +239,16 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 Aprender a trabajar con documentos de Google.
    
    * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
-
-   Material:
    * Base de datos ejercicio precio de la gasolina en Colombia [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
-   * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
-Actividades Práctica
+Actividad Práctica
 
    * Desarrollo de Taller Modulo 3.
+
+**Material de apoyo**
+   
+   * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
+
 
 ### Sesión 12 (29 de abril al 3 de Mayo)
 
@@ -259,7 +262,6 @@ Actividades Práctica
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
-
 
 ## Módulo IV: Herramientas ofimáticas II: Mapas
 
