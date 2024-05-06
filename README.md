@@ -263,13 +263,19 @@ Actividad Práctica
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
 
-## Módulo IV: Herramientas ofimáticas II: Mapas
+## Módulo IV: Herramientas ofimáticas II: Visualización de datos geoespaciales.
 
+El estudiante comprenderá de manera basica la espacializacion de un dato vectorial tipo punto, linea y poligon
 
 ### Sesión 13 (6 al 10 de mayo)
 
+Familiriacion de QGIS para el cargue de información geiogrrpafica tipo vector.
 
 ### Sesión 14 (14 al 17 de mayo)
+
+
+
+Agregar simbologia
 
 
 Publicación de resultados finales: 28 de Mayo
