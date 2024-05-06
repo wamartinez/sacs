@@ -133,9 +133,9 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 
    Planificar el ensayo mediante el uso de MINDOMO
    * Mapas mentales
-   * Ejemplo de mapa mental Mindomo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo2.mom)
-   * Ejemplo de mapa mental Pdf [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Ejemplo2.pdf)
-   * Ensayo de ejemplo [Link](https://github.com/wamartinez/sacs/blob/main/Modulo2/Mindomo_ensayoEjemplo.docx)
+   * Ejemplo de mapa mental Mindomo [Link](https://drive.google.com/file/d/1ybuc-g6qrHNlLvNeCBHbyC1IN0SlmpkD/view?usp=sharing)
+   * Ejemplo de mapa mental Pdf [Link](https://drive.google.com/file/d/1ybyIVXvFEPAAcZJswG7m2iyIsnMVUQw9/view?usp=sharing)
+   * Ensayo de ejemplo [Link](https://docs.google.com/document/d/1HU6QLIO-vW14hcoEuypIjwdoT4LI8uwB/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
    
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
@@ -168,7 +168,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 
 1. Clase teórica.
 
-   * [El uso de las comas](https://github.com/wamartinez/sacs/blob/main/Modulo3/LaComa.pdf)
+   * [El uso de las comas](https://drive.google.com/file/d/1qnXh23uPXqBBjbuLgMuWHOhjMo2iAB1G/view?usp=sharing)
    * El estudiante identificará herramientas adicionales de Word para la organización del ensayo y la presentación del mapa mental.
      
 2. Clase práctica.
@@ -200,8 +200,8 @@ Introducción a Excel con enfoque en la sistematización del conocimiento para e
 
 Para las siguientes actividades descargue el siguiente material:
 
-* Presentación: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/ExcelFundamentals.pptx)
-* Taller clase: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/ExcelTrainingWorkbook.xlsx)
+* Presentación: [Link](https://docs.google.com/presentation/d/1KbC2jp-HIQ0TvQ9cW74ZWMpdyjDPdPjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+* Taller clase: [Link](https://docs.google.com/spreadsheets/d/1KIapE6EzTfBPW9r-XSbGn9hKtfd8yLgL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 El estudiante aprenderá lo siguiente:
 
@@ -230,8 +230,8 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
 
 **Ejercicio**
-* Taller P1 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/gapminder-FiveYearData.csv)
-* Taller P1 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP1.doc)
+* Taller P1 descargue Tabla: [Link](https://drive.google.com/file/d/1mKgWe0__SVAU2Mq_43mfkU04hZ3zqjur/view?usp=sharing)
+* Taller P1 descargue Documento guía: [Link](https://docs.google.com/document/d/1rQF7Ad9YD71gC_fFQpnzyayAy2AMPj-h/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 ### Sesión 11 (22 al 26 de abril)
 
@@ -247,23 +247,25 @@ Actividades Práctica
 
    * Desarrollo de Taller Modulo 3.
 
+### Sesión 12 (29 de abril al 3 de Mayo)
+
+   Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana..
+
 **Ejercicio**
-* Taller P2 descargue Tabla: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerM_IV.xlsx)
-* Taller P2 descargue Documento guía: [Link](https://github.com/wamartinez/sacs/blob/main/Modulo4/Excel/TallerP2.doc)
+* Taller P2 descargue Tabla: [Link](https://docs.google.com/spreadsheets/d/11VGqhYTt7Y2drGl1kl3kTCNbwjcp7zq5/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+* Taller P2 descargue Documento guía: [Link](https://docs.google.com/document/d/11Tr4Em_QVAfqIrUS-cihJ_YoZHFQGFOb/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
-
 * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
 
 
 ## Módulo IV: Herramientas ofimáticas II: Mapas
 
-### Sesión 12 (29 de abril al 3 de Mayo)
-### 
 
 ### Sesión 13 (6 al 10 de mayo)
+
 
 ### Sesión 14 (14 al 17 de mayo)
 
