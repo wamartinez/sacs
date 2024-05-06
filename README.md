@@ -16,11 +16,11 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 2. Evaluación de las habilidades de los estudiantes en herramientas ofimáticas (Word y Excel).
 
-- Para desarrollar el cuestionario debe descargar el siguiente [documento](https://github.com/wamartinez/sacs/blob/main/Ejercicio/Ejercicio.docx)
+- Para desarrollar el cuestionario debe descargar el siguiente [documento](https://docs.google.com/document/d/102Z6aXOgJXKEP7-PMg8dAkq8HNNv-D8Y/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-- El cuestionario esta en el siguiente [formulario:](https://forms.gle/asJ1x5uWfPa54SVp6)
+- El cuestionario esta en el siguiente [formulario:](https://docs.google.com/forms/d/e/1FAIpQLSeMN26Cnv8tskNPsBrPDN24_g6Z_POywbQYSafJpobRoTGXYw/viewform?usp=sharing)
 
-3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://github.com/wamartinez/sacs/blob/main/instructivo-de-registro-para-acceder-a-office.pdf)
+3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://drive.google.com/file/d/1Lh9AFXaxTk81FJFtmuviI-fQAk__O_aB/view?usp=sharing)
 
 **Video de la clase**
 
@@ -37,7 +37,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    - [Sistema nacional de bibliotécas](https://bibliotecas.unal.edu.co/)
    - [Link Scopus ](https://www.scopus.com/search/form.uri?display=basic#basic)
      
-   - Busquedas efectivas en gestores de información [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/ClaseSem1_OperadoresBooleanos.pptx)
+   - Busquedas efectivas en gestores de información [Presentación](https://docs.google.com/presentation/d/1AZIP3G35uZ_JvJ4FritEfwKkenrwDXxU/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 2. Taller
 
@@ -87,11 +87,11 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 2. Clase teórica práctica
 
-   * Presentar los distintos tipos de citaciones [ejemplo de clase](https://github.com/wamartinez/sacs/blob/main/Modulo1/EjemploClase.docx)
+   * Presentar los distintos tipos de citaciones [ejemplo de clase](https://docs.google.com/document/d/1GjaEDqmkPKkJC-2UlL1O2zU38H3QAjmG/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
    * [Características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
 
 **Material de apoyo** 
-   - Plugin Zotero en Word [Word zotero](https://github.com/wamartinez/sacs/blob/main/Modulo1/PluginWordZotero.docx)
+   - Plugin Zotero en Word [Word zotero](https://docs.google.com/document/d/15ViI0wxh_S9RFKND0WMenkEeiW99oJxo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 ### Sesión 5 (4 al 8 de Marzo)
 
