@@ -269,12 +269,19 @@ El estudiante adquirirá una comprensión básica del concepto de espacializaci�
 
 ### Sesión 13 (6 al 10 de mayo)
 
+1. Clase teórica.
+
 Los estudiantes se introducirán al entorno de QGIS, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá..
+
+[Presentación](https://docs.google.com/presentation/d/1N08ebHw4bWr4yS_UOyOD8F_bnY633vW8/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+
+2. Clase práctica.
 
 EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/document/d/1N1rwY2uvj12oBybldSDTubqDJwpRBCjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 **Material de apoyo**
-[Presentación](https://docs.google.com/presentation/d/1N08ebHw4bWr4yS_UOyOD8F_bnY633vW8/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+
+[Simbología en QGIS](https://www.youtube.com/watch?v=efBxuN-H0Ts)
 
 ### Sesión 14 (14 al 17 de mayo)
 
