@@ -271,15 +271,14 @@ El estudiante adquirirá una comprensión básica del concepto de espacializaci�
 
 Los estudiantes se introducirán al entorno de QGIS, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá..
 
-EL taller a dsarrollar es el siguiente:
-
+EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/document/d/1N1rwY2uvj12oBybldSDTubqDJwpRBCjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 **Material de apoyo**
-
+[Presentación](https://docs.google.com/presentation/d/1N08ebHw4bWr4yS_UOyOD8F_bnY633vW8/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 ### Sesión 14 (14 al 17 de mayo)
 
-1. El estudiante usará avenza maps para cargar un sitio de interes de la universdiad y posteriormente cargarlo dentro del entorno de QGIS.
+1. El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad y posteriormente cargarlo dentro del entorno de QGIS.
 
 EL taller a dsarrollar es el siguiente:
 
