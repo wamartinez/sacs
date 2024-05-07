@@ -287,8 +287,7 @@ EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/docume
 
 1. El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad y posteriormente cargarlo dentro del entorno de QGIS.
 
-EL taller a dsarrollar es el siguiente:
-
+EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/document/d/1OQrx7feLqPe42-B-eSQceTbyjOBwHD6E/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
