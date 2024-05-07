@@ -1,7 +1,7 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-Calificaciones al 1ro abril 2024: [Calificaciones](https://github.com/wamartinez/sacs/blob/main/Calificaciones.pdf)
+Calificaciones al 1ro abril 2024: [Calificaciones](https://drive.google.com/file/d/1-1rKwddquQSMN094bAY6k0g1augFFBxh/view?usp=sharing)
 
 Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Aula TIC: B
 
