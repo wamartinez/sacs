@@ -292,4 +292,4 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
-Publicación de resultados finales: 28 de Mayo
+Publicación de resultados finales: 30 de Agosto
