@@ -193,7 +193,7 @@ Durante este Módulo el estudiante conocerá elementos básicos para el procesam
 Entregable final
    * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
-### Sesión 9 (8 al 12 de abril)
+### Sesión 9 (23 al 25 de Julio)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -216,7 +216,7 @@ El estudiante aprenderá lo siguiente:
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
-### Sesión 10 (15 al 19 de abril)
+### Sesión 10 (30 de Julio al 1 de agosto)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
@@ -234,7 +234,7 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://drive.google.com/file/d/1mKgWe0__SVAU2Mq_43mfkU04hZ3zqjur/view?usp=sharing)
 * Taller P1 descargue Documento guía: [Link](https://docs.google.com/document/d/1rQF7Ad9YD71gC_fFQpnzyayAy2AMPj-h/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-### Sesión 11 (22 al 26 de abril)
+### Sesión 11 (6 al 8 de agosto)
 
 Aprender a trabajar con documentos de Google.
    
@@ -250,7 +250,7 @@ Actividad Práctica
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
 
-### Sesión 12 (29 de abril al 3 de Mayo)
+### Sesión 12 (13 al 15 de agosto)
 
    Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana..
 
@@ -267,7 +267,7 @@ Actividad Práctica
 
 El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de QGIS.
 
-### Sesión 13 (6 al 10 de mayo)
+### Sesión 13 (20 al 22 de agosto)
 
 1. Clase teórica.
 
@@ -283,7 +283,7 @@ EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/docume
 
 [Simbología en QGIS](https://www.youtube.com/watch?v=efBxuN-H0Ts)
 
-### Sesión 14 (14 al 17 de mayo)
+### Sesión 14 (27 al 29 de agosto)
 
 1. El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad y posteriormente cargarlo dentro del entorno de QGIS.
 
