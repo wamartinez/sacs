@@ -252,7 +252,7 @@ Actividad Práctica
 
 ### Sesión 12 (13 al 22 de agosto)
 
-   Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana..
+   Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. El taller será desarrollado en grupos de dos estudiantes y debe ser entregado durante la clase del día 5 de agosto.
 
 **Ejercicio**
 * Taller P2 descargue Tabla: [Link](https://docs.google.com/spreadsheets/d/11VGqhYTt7Y2drGl1kl3kTCNbwjcp7zq5/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
