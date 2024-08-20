@@ -265,7 +265,7 @@ Actividad Práctica
 
 ## Módulo IV: Herramientas ofimáticas II: Visualización de datos geoespaciales.
 
-El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de QGIS.
+El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de Google earth y QGIS.
 
 ### Sesión 13 (20 de agosto al 22 de agosto)
 
@@ -274,6 +274,8 @@ El estudiante adquirirá una comprensión básica del concepto de espacializaci�
 Los estudiantes se introducirán al entorno de QGIS, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá..
 
 [Presentación](https://docs.google.com/presentation/d/1N08ebHw4bWr4yS_UOyOD8F_bnY633vW8/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+
+[Video del curso](https://drive.google.com/file/d/1PgDyV-tRCX1PGh6rNUo3StSjKdxFmxQI/view?usp=sharing)
 
 2. Clase práctica.
 
