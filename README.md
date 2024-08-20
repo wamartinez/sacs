@@ -250,7 +250,7 @@ Actividad Práctica
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
 
-### Sesión 12 (13 al 22 de agosto)
+### Sesión 12 (13 al 15 de agosto)
 
    Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. El taller será desarrollado en grupos de dos estudiantes y debe ser entregado durante la clase del día 5 de agosto.
 
@@ -267,7 +267,7 @@ Actividad Práctica
 
 El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de QGIS.
 
-### Sesión 13 (27 de agosto al 5 de septiembre)
+### Sesión 13 (20 de agosto al 22 de agosto)
 
 1. Clase teórica.
 
@@ -283,7 +283,7 @@ EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/docume
 
 [Simbología en QGIS](https://www.youtube.com/watch?v=efBxuN-H0Ts)
 
-### Sesión 14 (10 al 19 de septiembre)
+### Sesión 14 (27 al 30 de agosto)
 
 1. El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad y posteriormente cargarlo dentro del entorno de QGIS.
 
@@ -291,5 +291,11 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
+
+### Sesión 15 (3 al 12 de septiembre)
+
+Sesión de acompañamiento y refuerzo para el desarrollo de los talleres
+
+### Sesión Final
 
 Publicación de resultados finales: 20 de Septiembre
