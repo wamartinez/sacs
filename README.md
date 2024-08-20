@@ -275,7 +275,7 @@ Los estudiantes se introducirán al entorno de QGIS, donde comprenderán el proc
 
 [Presentación](https://docs.google.com/presentation/d/1N08ebHw4bWr4yS_UOyOD8F_bnY633vW8/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-[Video del curso](https://drive.google.com/file/d/1PgDyV-tRCX1PGh6rNUo3StSjKdxFmxQI/view?usp=sharing)
+[Video de la clase](https://drive.google.com/file/d/1PgDyV-tRCX1PGh6rNUo3StSjKdxFmxQI/view?usp=sharing)
 
 2. Clase práctica.
 
