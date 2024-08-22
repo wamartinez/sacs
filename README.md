@@ -281,8 +281,10 @@ Los estudiantes se introducirán al entorno de QGIS, donde comprenderán el proc
 
 EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/document/d/1N1rwY2uvj12oBybldSDTubqDJwpRBCjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
+
 **Material de apoyo**
 
+[Raster](https://drive.google.com/drive/folders/1LheY0wauUDMeeJcwqed0K6623eprV_fd?usp=drive_link)
 [Simbología en QGIS](https://www.youtube.com/watch?v=efBxuN-H0Ts)
 
 ### Sesión 14 (27 al 30 de agosto)
