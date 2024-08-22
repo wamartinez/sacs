@@ -267,7 +267,7 @@ Actividad Práctica
 
 El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de Google earth y QGIS.
 
-### Sesión 13 (20 de agosto al 22 de agosto)
+### Sesión 13 y 14 (20 de agosto al 29 de agosto)
 
 1. Clase teórica.
 
@@ -285,9 +285,10 @@ EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/docume
 **Material de apoyo**
 
 [Raster](https://drive.google.com/drive/folders/1LheY0wauUDMeeJcwqed0K6623eprV_fd?usp=drive_link)
+
 [Simbología en QGIS](https://www.youtube.com/watch?v=efBxuN-H0Ts)
 
-### Sesión 14 (27 al 30 de agosto)
+### Sesión 15 (3 al 5 de septiembre)
 
 1. El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad y posteriormente cargarlo dentro del entorno de QGIS.
 
@@ -296,7 +297,7 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
-### Sesión 15 (3 al 12 de septiembre)
+### Sesión 16 (10 al 12 de septiembre)
 
 Sesión de acompañamiento y refuerzo para el desarrollo de los talleres
 
