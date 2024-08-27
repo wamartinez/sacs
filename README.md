@@ -286,6 +286,8 @@ EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/docume
 
 [Raster](https://drive.google.com/drive/folders/1LheY0wauUDMeeJcwqed0K6623eprV_fd?usp=drive_link)
 
+[Raster](https://drive.google.com/drive/folders/1N8RNwgmYXXRVariFGMlJKwVUmNvf0ffY?usp=sharing)
+
 [Simbología en QGIS](https://www.youtube.com/watch?v=efBxuN-H0Ts)
 
 ### Sesión 15 (3 al 5 de septiembre)
