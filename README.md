@@ -267,6 +267,8 @@ Actividad Práctica
 
 El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de Google earth y QGIS.
 
+Los talleres una vez resueltos deben ser subidos en el siguiente [Link](https://docs.google.com/forms/d/e/1FAIpQLSetwAd0no_kGCFrunG73jL7sIOUCVlcxyO0GcyocsS1izWyqQ/viewform?usp=sf_link)
+
 ### Sesión 13 y 14 (20 de agosto al 29 de agosto)
 
 1. Clase teórica.
