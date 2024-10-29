@@ -46,7 +46,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    
 **Material de apoyo**
 
-   - Leer [La guía del investigador](https://github.com/wamartinez/sacs/blob/main/Modulo1/ResearchBasics_Guide_2018.pdf)
+   - Leer [La guía del investigador](https://drive.google.com/file/d/1rJOf5Bqw08z6w6xHTLHzgpx848XnDPJ1/view?usp=sharing)
 
 **Videos de apoyo** 
 
@@ -61,7 +61,7 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 1. Clase teórica
 
-   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/StablishingCredibility.pptx)
+   Presentar qué indicadores pueden facilitar la busqueda de información con alta calidad académica [Presentación](https://docs.google.com/presentation/d/1yQGx9lEw9i8nOUsO_ENvBLBRDqIy7fSb/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 2. Taller
 
