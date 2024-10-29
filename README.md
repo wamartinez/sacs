@@ -267,11 +267,19 @@ Actividad Práctica
 
 El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de Google earth y QGIS.
 
+### Sesión 13 (10 al 14 de febrero)
+
+En desarollo...
+
+### Sesión 14 (17 al 21 de febrero)
+
+En desarollo...
+
+<!-- 
 Los talleres una vez resueltos deben ser subidos en el siguiente [Link](https://docs.google.com/forms/d/e/1FAIpQLSetwAd0no_kGCFrunG73jL7sIOUCVlcxyO0GcyocsS1izWyqQ/viewform?usp=sf_link)
 
-### Sesión 13 y 14 (10 al 21 de febrero)
 
-<!-- Este es un comentario en HTML -->
+
 
 1. Clase teórica.
 
@@ -303,10 +311,9 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
-### Sesión 16 (10 al 12 de septiembre)
+-->
 
-Sesión de acompañamiento y refuerzo para el desarrollo de los talleres
 
 ### Sesión Final
 
-Publicación de resultados finales: 20 de Septiembre
+Examen final 24 de ferbrero del 2024. Publicación de resultados finales: 28 de Febrero
