@@ -143,7 +143,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Video de la clase**
 * [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
 
-### Sesión 7 (16 al 20 Diciembre)
+### Sesión 7 (9 al 13 Diciembre)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado y Shotcut para la edición. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -166,7 +166,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
    -[Videos](https://drive.google.com/drive/folders/1Ptm33awWQgyI1CcBX7iOKtd7KwihCbut?usp=drive_link)
    -[Tutorial shotcut](https://shotcutvideo.com/manual-basico/)
 
-### Sesión 8 (6 al 10 de Enero 2025)
+### Sesión 8 (17 de diciembre 2025)
 
 1. Clase teórica.
 
