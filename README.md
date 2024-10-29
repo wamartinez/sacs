@@ -1,7 +1,9 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-Calificaciones : [Calificaciones]()
+[Programa del curso](https://drive.google.com/file/d/1_wocxfCkRXPH32V4Pl56c1bIlOExD3Us/view?usp=sharing)
+
+[Calificaciones]()
 
 Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Edificio 212 de ciencias humanas, salón 216 
 
