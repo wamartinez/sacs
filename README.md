@@ -314,6 +314,6 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 -->
 
 
-### Sesión Final
+### Sesión Final (25 febrero)
 
-Examen final 24 de ferbrero del 2024. Publicación de resultados finales: 28 de Febrero
+Examen final 25 de ferbrero del 2024. Publicación de resultados finales: 25 de Febrero
