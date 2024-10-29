@@ -1,12 +1,12 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-//Calificaciones al 20 de agosto del 2024: [Calificaciones](https://drive.google.com/file/d/1-1rKwddquQSMN094bAY6k0g1augFFBxh/view?usp=sharing)
+Calificaciones : [Calificaciones]()
 
-Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Aula TIC: B
+Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Edificio 212 de ciencias humanas, salón 216 
 
 ## Módulo I: Alfabetización digital: búsqueda efectiva de información 
-### Sesión 1 (5 a 9 de Febrero)
+### Sesión 1 (28 a 1 de Noviembre)
 
 Introducir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
 
@@ -26,7 +26,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
    -[Video de apoyo](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc)
 
-### Sesión 2 (12 a 16 de febrero)
+### Sesión 2 (4 a 8 de Noviembre)
 
 Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibliográficos. Esto se hace mediante palabras clave y operadores booleanos. En este sentido Las bases de datos sobre las cuales los estudiantes realizarán sus busquedas son: Scielo, Redalyc, Scopus y google académico.
 
@@ -53,7 +53,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    - [Video 1](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
    - [Video 2](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
 
-### Sesión 3 (19 al 24 de febrero)
+### Sesión 3 (11 al 15 de Noviembre)
 
 Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de información.
 
@@ -71,7 +71,7 @@ El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formul
 
    -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link)
 
-### Sesión 4 (26 al 29 de febrero)
+### Sesión 4 (18 al 22 de noviembre)
 
 Gestión de la información bibliográfica usando Zotero y Mendeley.
 
@@ -79,7 +79,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 1. Clase teórica
 
-   * Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://github.com/wamartinez/sacs/blob/main/Modulo1/Biblio.pptx)
+   * Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://docs.google.com/presentation/d/11oy-TXfPvC725tZjPzoAvC-QnAAXWRiK/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 **Video de apoyo**
 
@@ -93,7 +93,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 **Material de apoyo** 
    - Plugin Zotero en Word [Word zotero](https://docs.google.com/document/d/15ViI0wxh_S9RFKND0WMenkEeiW99oJxo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-### Sesión 5 (4 al 8 de Marzo)
+### Sesión 5 (25 al 29 de noviembre)
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
@@ -115,12 +115,12 @@ Fortalecer al estudiante en la escritura académica mediante el uso de herramien
 Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 
 El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras. Este ensayo viene con dos anexos, uno el video de min y otro el mapa mental.
-Fecha de entrega: 11 de abril del 2024
+Fecha de entrega: 22 de diciembre del 2024
 
    * Guía para el desarrollo del taller [link](https://docs.google.com/document/d/1qLz46Q-7yC57yRrUw9k1dZuCjz5r43g6/edit?usp=drive_link&ouid=106849738369876125671&rtpof=true&sd=true).
    * Subir ensayo y anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/edit?pli=1).
 
-### Sesión 6 (11 al 15 Marzo)
+### Sesión 6 (2 al 6 Diciembre)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -143,7 +143,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Video de la clase**
 * [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
 
-### Sesión 7 (18 al 22 Marzo)
+### Sesión 7 (16 al 20 Diciembre)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado y Shotcut para la edición. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -166,7 +166,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
    -[Videos](https://drive.google.com/drive/folders/1Ptm33awWQgyI1CcBX7iOKtd7KwihCbut?usp=drive_link)
    -[Tutorial shotcut](https://shotcutvideo.com/manual-basico/)
 
-### Sesión 8 (1 al 5 de abril)
+### Sesión 8 (6 al 10 de Enero 2025)
 
 1. Clase teórica.
 
@@ -193,7 +193,7 @@ Durante este Módulo el estudiante conocerá elementos básicos para el procesam
 Entregable final
    * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
-### Sesión 9 (23 al 25 de Julio)
+### Sesión 9 (13 al 17 de Enero)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -216,7 +216,7 @@ El estudiante aprenderá lo siguiente:
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
-### Sesión 10 (30 de Julio al 1 de agosto)
+### Sesión 10 (20 de Julio al 24 de enero)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
@@ -234,7 +234,7 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://drive.google.com/file/d/1mKgWe0__SVAU2Mq_43mfkU04hZ3zqjur/view?usp=sharing)
 * Taller P1 descargue Documento guía: [Link](https://docs.google.com/document/d/1rQF7Ad9YD71gC_fFQpnzyayAy2AMPj-h/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-### Sesión 11 (6 al 8 de agosto)
+### Sesión 11 (27 al 31 de enero)
 
 Aprender a trabajar con documentos de Google.
    
@@ -250,7 +250,7 @@ Actividad Práctica
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
 
-### Sesión 12 (13 al 15 de agosto)
+### Sesión 12 (3 al 7 de febrero)
 
    Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. El taller será desarrollado en grupos de dos estudiantes y debe ser entregado durante la clase del día 5 de agosto.
 
@@ -269,7 +269,9 @@ El estudiante adquirirá una comprensión básica del concepto de espacializaci�
 
 Los talleres una vez resueltos deben ser subidos en el siguiente [Link](https://docs.google.com/forms/d/e/1FAIpQLSetwAd0no_kGCFrunG73jL7sIOUCVlcxyO0GcyocsS1izWyqQ/viewform?usp=sf_link)
 
-### Sesión 13 y 14 (20 de agosto al 29 de agosto)
+### Sesión 13 y 14 (10 al 21 de febrero)
+
+<!-- Este es un comentario en HTML -->
 
 1. Clase teórica.
 
