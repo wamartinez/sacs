@@ -24,13 +24,13 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://drive.google.com/file/d/1Lh9AFXaxTk81FJFtmuviI-fQAk__O_aB/view?usp=sharing)
 
-**Taller One Drive**
+4. Taller One Drive
 
-Ejercicio 1: Crear una carpeta compartida para un proyecto de equipo y configurar permisos.
+- Ejercicio 1: Crear una carpeta compartida para un proyecto de equipo y configurar permisos.
 
-Ejercicio 2: Subir un archivo, compartirlo y colaborar en su edición en tiempo real.
+- Ejercicio 2: Subir un archivo, compartirlo y colaborar en su edición en tiempo real.
 
-Ejercicio 3: Configurar sincronización de OneDrive en un equipo local o en celular.
+- Ejercicio 3: Configurar sincronización de OneDrive en un equipo local o en celular.
 
 
 <!--    -[Video de apoyo](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc) -->
@@ -274,51 +274,49 @@ Actividad Práctica
 
 ## Módulo IV: Herramientas ofimáticas II: Visualización de datos geoespaciales.
 
-El estudiante adquirirá una comprensión básica del concepto de espacialización de datos vectoriales, incluyendo puntos, líneas y polígonos, así como el procedimiento para cambiar su simbología dentro del entorno de Google earth y QGIS.
+El estudiante adquirirá una comprensión básica del concepto de espacialización de coordenadas, así como el procedimiento de cargar fotografías y atributos a dicha ubicación.
+
+<!-- 
+
+Los talleres una vez resueltos deben ser subidos en el siguiente [Link](https://docs.google.com/forms/d/e/1FAIpQLSetwAd0no_kGCFrunG73jL7sIOUCVlcxyO0GcyocsS1izWyqQ/viewform?usp=sf_link)
+-->
+
 
 ### Sesión 13 (18 y 20 de Febrero)
 
-En desarollo...
-
-### Sesión 14 (25 y 27 de Febrero)
-
-En desarollo...
-
-<!-- 
-Los talleres una vez resueltos deben ser subidos en el siguiente [Link](https://docs.google.com/forms/d/e/1FAIpQLSetwAd0no_kGCFrunG73jL7sIOUCVlcxyO0GcyocsS1izWyqQ/viewform?usp=sf_link)
-
+**Actividades**
 
 1. Clase teórica.
 
-Los estudiantes se introducirán al entorno de QGIS, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá..
-
-[Presentación](https://docs.google.com/presentation/d/1N08ebHw4bWr4yS_UOyOD8F_bnY633vW8/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
-
-[Video de la clase](https://drive.google.com/file/d/1PgDyV-tRCX1PGh6rNUo3StSjKdxFmxQI/view?usp=sharing)
+Los estudiantes se introducirán al entorno de Google earth pro, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá..
 
 2. Clase práctica.
 
+<!-- 
 EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/document/d/1N1rwY2uvj12oBybldSDTubqDJwpRBCjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+-->
 
 
 **Material de apoyo**
-
-[Raster](https://drive.google.com/drive/folders/1LheY0wauUDMeeJcwqed0K6623eprV_fd?usp=drive_link)
 
 [Shapefile](https://drive.google.com/drive/folders/1N8RNwgmYXXRVariFGMlJKwVUmNvf0ffY?usp=sharing)
 
-[Simbología en QGIS](https://www.youtube.com/watch?v=efBxuN-H0Ts)
+### Sesión 14 (25 y 27 de Febrero)
 
-### Sesión 15 (3 al 5 de septiembre)
+1. Clase teórica práctica
 
-1. El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad y posteriormente cargarlo dentro del entorno de QGIS.
+Explicar a los estudiantes el funcionamiento de avenza maps
 
+2. Clase práctica
+
+El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad.
+
+<!-- 
 EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/document/d/1OQrx7feLqPe42-B-eSQceTbyjOBwHD6E/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+-->
 
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
-
--->
 
 
 ### Sesión Final (4 Y 6 de Febrero)
