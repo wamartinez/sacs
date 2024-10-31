@@ -24,9 +24,13 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://drive.google.com/file/d/1Lh9AFXaxTk81FJFtmuviI-fQAk__O_aB/view?usp=sharing)
 
-**Video de la clase**
+**Taller One Drive**
 
-   -[Video de apoyo](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc)
+Ejercicio 1: Crear una carpeta compartida para un proyecto de equipo y configurar permisos.
+Ejercicio 2: Subir un archivo, compartirlo y colaborar en su edición en tiempo real.
+Ejercicio 3: Configurar sincronización de OneDrive en un equipo local o en celular.
+
+<!--    -[Video de apoyo](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc) -->
 
 ### Sesión 2 (5 y 7 de Noviembre)
 
