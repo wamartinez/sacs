@@ -3,7 +3,7 @@ Profesor: William Martinez
 
 [Programa del curso](https://drive.google.com/file/d/1_wocxfCkRXPH32V4Pl56c1bIlOExD3Us/view?usp=sharing)
 
-[Calificaciones]()
+[Calificaciones](https://drive.google.com/file/d/1bY7XVFHIeAW3bDyjXXoa3l5dHZ89Qpk8/view?usp=sharing)
 
 Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Edificio 212 de ciencias humanas, salón 216 
 
