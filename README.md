@@ -319,6 +319,6 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
 
-### Sesión Final (4 Y 6 de Febrero)
+### Sesión Final (4 y 6 de Marzo)
 
-Examen final 4 de febrero del 2024. Publicación de resultados finales: 6 de Febrero
+Examen final 4 de marzo del 2024. Publicación de resultados finales: 6 de Marzo
