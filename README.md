@@ -7,6 +7,10 @@ Profesor: William Martinez
 
 Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Edificio 212 de ciencias humanas, salón 216 
 
+Tutorias:
+[Viernes,4:00 – 4:45pm](https://tel.meet/vjd-owas-tfc?pin=3917607933850)
+
+
 ## Módulo I: Alfabetización digital: búsqueda efectiva de información 
 ### Sesión 1 (28 de octubre y 1 de Noviembre)
 
