@@ -27,8 +27,11 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 **Taller One Drive**
 
 Ejercicio 1: Crear una carpeta compartida para un proyecto de equipo y configurar permisos.
+
 Ejercicio 2: Subir un archivo, compartirlo y colaborar en su edición en tiempo real.
+
 Ejercicio 3: Configurar sincronización de OneDrive en un equipo local o en celular.
+
 
 <!--    -[Video de apoyo](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc) -->
 
