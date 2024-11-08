@@ -25,9 +25,10 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 
 - El cuestionario esta en el siguiente [formulario:](https://docs.google.com/forms/d/e/1FAIpQLSeMN26Cnv8tskNPsBrPDN24_g6Z_POywbQYSafJpobRoTGXYw/viewform?usp=sharing)
 
-3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://drive.google.com/file/d/1Lh9AFXaxTk81FJFtmuviI-fQAk__O_aB/view?usp=sharing)
+3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://drive.google.com/file/d/1Lh9AFXaxTk81FJFtmuviI-fQAk__O_aB/view?usp=sharing) o revise el [tutorial](https://www.youtube.com/watch?v=ARtoXM9iwAA) de instalación de la División de bibiliotecas de la UNAL
 
-4. Taller One Drive
+
+5. Taller One Drive
 
 - Ejercicio 1: Crear una carpeta compartida para un proyecto de equipo y configurar permisos.
 
