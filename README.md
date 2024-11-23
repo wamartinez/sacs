@@ -101,7 +101,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 2. Clase teórica práctica
 
    * Presentar los distintos tipos de citaciones [ejemplo de clase](https://docs.google.com/document/d/1GjaEDqmkPKkJC-2UlL1O2zU38H3QAjmG/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
-   * [Características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
+
 
 **Material de apoyo** 
    - Plugin Zotero en Word [Word zotero](https://docs.google.com/document/d/15ViI0wxh_S9RFKND0WMenkEeiW99oJxo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
@@ -140,9 +140,10 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Actividades**
 
 1. Clase teórica.
+   * [Características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
    * [Cómo hacer un ensayo](https://docs.google.com/presentation/d/1P3m6hHn440XASZ6q04vSEgpq9IchNWdo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-2. Clase práctica.
+3. Clase práctica.
 
    Planificar el ensayo mediante el uso de MINDOMO
    * Mapas mentales
