@@ -136,7 +136,7 @@ Fecha de entrega: 19 de diciembre del 2024
 **Material de apoyo**
    * Normas APA 7ma edición [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
    * Normas Chicago Autor-fecha [Link](https://drive.google.com/file/d/1_NhG9NYhECoCerKKRx5t9b51tm0i2zpp/view?usp=sharing)
-   * 
+
 ### Sesión 6 (3 y 5 Diciembre)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
