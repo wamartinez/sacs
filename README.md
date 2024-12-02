@@ -193,8 +193,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
      
 2. Clase práctica.
 
-   * Componer documentos de Google.
-   * Agregar nuevos elementos en Word como imagen, tablas, encabezado, pie de página y numerado de hojas.
+   * Se usará este espacio para atender preguntas de estudiantes frente a la entrega del ensayo.
 
 
 **Material de apoyo**
