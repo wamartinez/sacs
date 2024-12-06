@@ -10,6 +10,7 @@ Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Edificio 212 de cien
 Tutorias:
 [Viernes,4:00 – 4:45pm](https://meet.google.com/vjd-owas-tfc)
 
+
 ## Módulo I: Alfabetización digital: búsqueda efectiva de información 
 ### Sesión 1 (28 de octubre y 1 de Noviembre)
 
@@ -157,9 +158,14 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
    
 **Material de apoyo**
 * Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
-
+   * [Ejemplo figuras](https://docs.google.com/document/d/1JL_a6xcVXaWhm4IBzKS7Z3dm5b1qGVHP/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+   * [El uso de las comas](https://drive.google.com/file/d/1qnXh23uPXqBBjbuLgMuWHOhjMo2iAB1G/view?usp=sharing)
+   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
+   
+<!--    
 **Video de la clase**
 * [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
+-->
 
 ### Sesión 7 (10 y 12 Diciembre)
 
@@ -184,24 +190,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
    -[Videos](https://drive.google.com/drive/folders/1Ptm33awWQgyI1CcBX7iOKtd7KwihCbut?usp=drive_link)
    -[Tutorial shotcut](https://shotcutvideo.com/manual-basico/)
 
-### Sesión 8 (17 y 19 de Diciembre)
 
-1. Clase teórica.
-
-   * [El uso de las comas](https://drive.google.com/file/d/1qnXh23uPXqBBjbuLgMuWHOhjMo2iAB1G/view?usp=sharing)
-   * El estudiante identificará herramientas adicionales de Word para la organización del ensayo.
-     
-2. Clase práctica.
-
-   * Se usará este espacio para atender preguntas de estudiantes frente a la entrega del ensayo.
-
-
-**Material de apoyo**
-
-   * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
-   * [Ejemplo figuras](https://docs.google.com/document/d/1JL_a6xcVXaWhm4IBzKS7Z3dm5b1qGVHP/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
-   * Tutorial de instalación de Google drive de escritorio [Link](https://www.youtube.com/watch?v=XBKMpOZUKp4)
-     
 ## Módulo III: Herramientas ofimáticas I: Excel
 
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel.
@@ -209,7 +198,7 @@ Durante este Módulo el estudiante conocerá elementos básicos para el procesam
 Entregable final
    * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
-### Sesión 9 (21 y 23 de Enero)
+### Sesión 8 (17 y 19 de Diciembre)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -232,7 +221,7 @@ El estudiante aprenderá lo siguiente:
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
-### Sesión 10 (28 y 30 de Enero)
+### Sesión 9 (21 y 23 de Enero)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
@@ -250,7 +239,7 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://drive.google.com/file/d/1mKgWe0__SVAU2Mq_43mfkU04hZ3zqjur/view?usp=sharing)
 * Taller P1 descargue Documento guía: [Link](https://docs.google.com/document/d/1rQF7Ad9YD71gC_fFQpnzyayAy2AMPj-h/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-### Sesión 11 (4 y 6 de Febrero)
+### Sesión 10 (28 y 30 de Enero)
 
 Aprender a trabajar con documentos de Google.
    
@@ -265,10 +254,9 @@ Actividad Práctica
    
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
+### Sesión 11 (4 y 6 de Febrero)
 
-### Sesión 12 (11 y 14 de Febrero)
-
-   Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. El taller será desarrollado en grupos de dos estudiantes y debe ser entregado durante la clase del día 5 de agosto.
+   Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana.
 
 **Ejercicio**
 * Taller P2 descargue Tabla: [Link](https://docs.google.com/spreadsheets/d/11VGqhYTt7Y2drGl1kl3kTCNbwjcp7zq5/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
@@ -283,40 +271,36 @@ Actividad Práctica
 
 El estudiante adquirirá una comprensión básica del concepto de espacialización de coordenadas, así como el procedimiento de cargar fotografías y atributos a dicha ubicación.
 
-<!-- 
 
-Los talleres una vez resueltos deben ser subidos en el siguiente [Link](https://docs.google.com/forms/d/e/1FAIpQLSetwAd0no_kGCFrunG73jL7sIOUCVlcxyO0GcyocsS1izWyqQ/viewform?usp=sf_link)
--->
-
-
-### Sesión 13 (18 y 20 de Febrero)
+### Sesión 12 (11 y 14 de Febrero)
 
 **Actividades**
 
-1. Clase teórica.
+1. Clase teórica-práctica.
 
-Los estudiantes se introducirán al entorno de Google earth pro, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá..
+Los estudiantes se introducirán al entorno de Google earth pro, donde comprenderán el proceso de carga de una capa vectorial y la modificación de su simbología. También serán presentadas dos fuentes básicas de información geoespacial: [Colombia en mapas](https://www.colombiaenmapas.gov.co/) y el [IDECA](https://www.ideca.gov.co/recursos/glosario/datos-abiertos) de Bogotá.
 
-2. Clase práctica.
+Además se busca que el estudiante aprenda a medir distancia y áreas relevantes. Así mismo agregará marcadores y conocerá el proceso de guardarlos como archivos KML.
 
-<!-- 
-EL taller a desarrollar es el siguiente: [Taller](https://docs.google.com/document/d/1N1rwY2uvj12oBybldSDTubqDJwpRBCjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
--->
 
+2. Clase teórica-práctica.
+
+El estudiante usará QGIS para cargar datos previamente dibujados en Google Earth pro. Esta actividad busca hacerse usando datos en formato kml y de archivo plano excel.
 
 **Material de apoyo**
 
 [Shapefile](https://drive.google.com/drive/folders/1N8RNwgmYXXRVariFGMlJKwVUmNvf0ffY?usp=sharing)
 
-### Sesión 14 (25 y 27 de Febrero)
+### Sesión 13 (18 y 20 de Febrero)
 
 1. Clase teórica práctica
 
-Explicar a los estudiantes el funcionamiento de avenza maps
+ *Los estudiantes generarán la delimitación de la universidad Nacional y de los principales departamentos.
+
 
 2. Clase práctica
 
-El estudiante usará google earth pro y avenza maps para cargar un sitio de interes de la universidad.
+Explicar a los estudiantes el funcionamiento de avenza maps. Levantar las coordenadas de las cestas de basura de la universidad. Se pedirá que cada estudiante cargue por lo menos 20 cestas.
 
 <!-- 
 EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/document/d/1OQrx7feLqPe42-B-eSQceTbyjOBwHD6E/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
@@ -324,6 +308,17 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
+
+
+### Sesión 14 (25 y 27 de Febrero)
+
+1. Clase teórica práctica
+
+  * Cargar capas vectoriales en QGIS. Se cargarán las coordenadas de las cestas. Se explicará el geoproceso en QGIS para realizar una integración de la información recopilada.
+
+  * Crear mapa de densidad de cestas de la universidad Nacional.
+  
+  * Crear un mapa simple de densidad de cestas de la universidad Nacional 
 
 
 ### Sesión Final (4 y 6 de Marzo)
