@@ -295,7 +295,7 @@ El estudiante usará QGIS para cargar datos previamente dibujados en Google Eart
 
 1. Clase teórica práctica
 
- *Los estudiantes generarán la delimitación de la universidad Nacional y de los principales departamentos.
+ * Los estudiantes generarán la delimitación de la universidad Nacional y de los principales departamentos.
 
 
 2. Clase práctica
