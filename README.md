@@ -196,7 +196,7 @@ El estudiante conocerá los elementos básicos de OBS para el autograbado y Shot
 Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel.
 
 Entregable final
-   * Subir archivos Excel al siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
+   * Subir los documentos en word respondiento los dos talleres de este modulo. El link para subir los documentos es el siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
 ### Sesión 8 (17 y 19 de Diciembre)
 
