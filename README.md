@@ -309,7 +309,7 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
-[Tutorial](https://drive.google.com/drive/folders/1N8RNwgmYXXRVariFGMlJKwVUmNvf0ffY?usp=sharing](https://drive.google.com/drive/folders/1NwliH19zGTR05bAhwCt5-cw_g9KawDuX?usp=sharing)
+[Tutorial](https://drive.google.com/drive/folders/1NwliH19zGTR05bAhwCt5-cw_g9KawDuX?usp=sharing)
 
 ### Sesión 14 (25 y 27 de Febrero)
 
