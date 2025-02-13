@@ -291,6 +291,9 @@ El estudiante usará QGIS para cargar datos previamente dibujados en Google Eart
 
 [Shapefile](https://drive.google.com/drive/folders/1N8RNwgmYXXRVariFGMlJKwVUmNvf0ffY?usp=sharing)
 
+[XYZ Tile] Copiar el siguiente link en Qgis:
+https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
+
 ### Sesión 13 (18 y 20 de Febrero)
 
 1. Clase teórica práctica
