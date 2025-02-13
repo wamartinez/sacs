@@ -282,28 +282,29 @@ Los estudiantes se introducirán al entorno de Google earth pro, donde comprende
 
 Además se busca que el estudiante aprenda a medir distancia y áreas relevantes. Así mismo agregará marcadores y conocerá el proceso de guardarlos como archivos KML.
 
-
 2. Clase teórica-práctica.
 
 El estudiante usará QGIS para cargar datos previamente dibujados en Google Earth pro. Esta actividad busca hacerse usando datos en formato kml y de archivo plano excel.
+
+[Ejercicio en clase](https://docs.google.com/document/d/1N1rwY2uvj12oBybldSDTubqDJwpRBCjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+
 
 **Material de apoyo**
 
 [Shapefile](https://drive.google.com/drive/folders/1N8RNwgmYXXRVariFGMlJKwVUmNvf0ffY?usp=sharing)
 
-[XYZ Tile] Copiar el siguiente link en Qgis:
+[Tutorial instalación QGIS y Google Earth Pro](https://drive.google.com/file/d/15j5mWVVddzRlxwlJ5KUpGEoIO4bpbDR2/view?usp=sharing)
+
+[Explora XYZ Tile] Copiar el siguiente link en Qgis:
 https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
 
 ### Sesión 13 (18 y 20 de Febrero)
 
+ Explicar a los estudiantes el funcionamiento de avenza maps. Levantar las coordenadas de las cestas de basura de la universidad (o cualquier otra temática). Se pedirá que cada estudiante cargue por lo menos 20 cestas.
+
 1. Clase teórica práctica
 
- * Los estudiantes generarán la delimitación de la universidad Nacional y de los principales departamentos.
-
-
-2. Clase práctica
-
-Explicar a los estudiantes el funcionamiento de avenza maps. Levantar las coordenadas de las cestas de basura de la universidad. Se pedirá que cada estudiante cargue por lo menos 20 cestas.
+* Los estudiantes recolectarán puntos en la universidad Nacional de una temática de interés.
 
 <!-- 
 EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/document/d/1OQrx7feLqPe42-B-eSQceTbyjOBwHD6E/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
@@ -312,7 +313,8 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 **Material de apoyo**
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
-[Tutorial](https://drive.google.com/drive/folders/1NwliH19zGTR05bAhwCt5-cw_g9KawDuX?usp=sharing)
+[Tutorial avenza](https://drive.google.com/drive/folders/1NwliH19zGTR05bAhwCt5-cw_g9KawDuX?usp=sharing)
+
 
 ### Sesión 14 (25 y 27 de Febrero)
 
