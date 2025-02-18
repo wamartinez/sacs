@@ -315,6 +315,8 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 
 [Tutorial avenza](https://drive.google.com/drive/folders/1NwliH19zGTR05bAhwCt5-cw_g9KawDuX?usp=sharing)
 
+[Kml](https://drive.google.com/file/d/1Y6BYE9tR_iP51qNKKQxPQmXzjcfGPY2y/view?usp=sharing)
+
 
 ### Sesión 14 (25 y 27 de Febrero)
 
