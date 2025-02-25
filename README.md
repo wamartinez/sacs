@@ -322,11 +322,15 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 
 1. Clase teórica práctica
 
-  * Cargar capas vectoriales en QGIS. Se cargarán las coordenadas de las cestas. Se explicará el geoproceso en QGIS para realizar una integración de la información recopilada.
+  * Cargar capas vectoriales en QGIS. Se cargarán las coordenadas de aptitud de papa para Colombia. Se explicará el geoproceso en QGIS para realizar una integración de la información recopilada.
 
-  * Crear mapa de densidad de cestas de la universidad Nacional.
+  * Crear mapa de densidad de Aptitud de papa.
   
-  * Crear un mapa simple de densidad de cestas de la universidad Nacional 
+  * Buscar replicar el mismo ejercicio con los datos trabajados en campo 
+
+
+**Material de apoyo**
+[Taller de apoyo]([https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1](https://docs.google.com/document/d/1aXKl1sQuYDdWzmqJsw6qk6weoV_Xhewf/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true))
 
 
 ### Sesión Final (4 y 6 de Marzo)
