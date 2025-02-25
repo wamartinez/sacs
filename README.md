@@ -330,7 +330,7 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 
 
 **Material de apoyo**
-[Taller de apoyo]([https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1](https://docs.google.com/document/d/1aXKl1sQuYDdWzmqJsw6qk6weoV_Xhewf/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true))
+[Taller de apoyo](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1](https://docs.google.com/document/d/1aXKl1sQuYDdWzmqJsw6qk6weoV_Xhewf/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 
 ### Sesión Final (4 y 6 de Marzo)
