@@ -336,6 +336,7 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 ### Sesión Final (4 y 6 de Marzo)
 
 Examen final 4 de marzo del 2024. Publicación de resultados finales: 6 de Marzo
+
 Acceda al examen final:
 [Examen](https://docs.google.com/forms/d/e/1FAIpQLSeP4p71Mw3MhI70llU9xCNXNjQ7KOUSBMxZpi3Qqws9PQrPIA/viewform)
 
