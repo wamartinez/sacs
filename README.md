@@ -12,7 +12,7 @@ Tutorias:
 
 
 ## Módulo I: Alfabetización digital: búsqueda efectiva de información 
-### Sesión 1 (28 de octubre y 1 de Noviembre)
+### Sesión 1 (2 de abril y 4 de abril)
 
 Introducir el programa del curso a los estudiantes y evaluar sus capacidades en el uso de herramientas ofimáticas:
 
@@ -38,9 +38,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 - Ejercicio 3: Configurar sincronización de OneDrive en un equipo local o en celular.
 
 
-<!--    -[Video de apoyo](https://drive.google.com/drive/u/0/folders/1bs6IO6Xxta1CGJTVTj95NkRU4XnFrrZc) -->
-
-### Sesión 2 (5 y 7 de Noviembre)
+### Sesión 2 (9 y 11 de Abril)
 
 Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibliográficos. Esto se hace mediante palabras clave y operadores booleanos. En este sentido Las bases de datos sobre las cuales los estudiantes realizarán sus busquedas son: Scielo, Redalyc, Scopus y google académico.
 
@@ -67,7 +65,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    - [Video 1](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
    - [Video 2](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
 
-### Sesión 3 (12 y 14 de Noviembre)
+### Sesión 3 (23 y 25 de Abril)
 
 Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de información.
 
@@ -85,7 +83,7 @@ El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formul
 
    -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link)
 
-### Sesión 4 (19 y 21 de noviembre)
+### Sesión 4 (30 de abril y 2 de mayo)
 
 Gestión de la información bibliográfica usando Zotero y Mendeley.
 
@@ -107,7 +105,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 **Material de apoyo** 
    - Plugin Zotero en Word [Word zotero](https://docs.google.com/document/d/15ViI0wxh_S9RFKND0WMenkEeiW99oJxo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-### Sesión 5 (26 y 28 de noviembre)
+### Sesión 5 (7 y 9 de Mayo)
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
@@ -138,7 +136,7 @@ Fecha de entrega: 21 de enero del 2025
    * Normas APA 7ma edición [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
    * Normas Chicago Autor-fecha [Link](https://drive.google.com/file/d/1_NhG9NYhECoCerKKRx5t9b51tm0i2zpp/view?usp=sharing)
 
-### Sesión 6 (3 y 5 Diciembre)
+### Sesión 6 (14 y 16 Mayo)
 
 El estudiante identificará los componentes de un ensayo, los usos y funciones de los conectores lógicos, así como aprender cómo estructurarlos mediante el uso de software de apoyo.
 
@@ -167,7 +165,7 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 * [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
 -->
 
-### Sesión 7 (10 y 12 Diciembre)
+### Sesión 7 (21 y 23 Mayo)
 
 El estudiante conocerá los elementos básicos de OBS para el autograbado y Shotcut para la edición. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
 
@@ -198,7 +196,7 @@ Durante este Módulo el estudiante conocerá elementos básicos para el procesam
 Entregable final
    * Subir los documentos en word respondiento los dos talleres de este modulo. El link para subir los documentos es el siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
-### Sesión 8 (17 y 19 de Diciembre)
+### Sesión 8 (28 y 30 de Mayo)
 
 Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
 
@@ -221,7 +219,7 @@ El estudiante aprenderá lo siguiente:
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 * [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
 
-### Sesión 9 (21 y 23 de Enero)
+### Sesión 9 (4 y 6 de Junio)
 
 Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
@@ -239,7 +237,7 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 * Taller P1 descargue Tabla: [Link](https://drive.google.com/file/d/1mKgWe0__SVAU2Mq_43mfkU04hZ3zqjur/view?usp=sharing)
 * Taller P1 descargue Documento guía: [Link](https://docs.google.com/document/d/1rQF7Ad9YD71gC_fFQpnzyayAy2AMPj-h/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-### Sesión 10 (28 y 30 de Enero)
+### Sesión 10 (11 y 13 de Junio)
 
 Aprender a trabajar con documentos de Google.
    
@@ -254,7 +252,7 @@ Actividad Práctica
    
    * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
 
-### Sesión 11 (4 y 6 de Febrero)
+### Sesión 11 (18 y 20 de Junio)
 
    Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana.
 
@@ -272,7 +270,7 @@ Actividad Práctica
 El estudiante adquirirá una comprensión básica del concepto de espacialización de coordenadas, así como el procedimiento de cargar fotografías y atributos a dicha ubicación.
 
 
-### Sesión 12 (11 y 14 de Febrero)
+### Sesión 12 (25 y 27 de Junio)
 
 **Actividades**
 
@@ -298,9 +296,9 @@ El estudiante usará QGIS para cargar datos previamente dibujados en Google Eart
 [Explora XYZ Tile] Copiar el siguiente link en Qgis:
 https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
 
-### Sesión 13 (18 y 20 de Febrero)
+### Sesión 13 (2 y 4 de Julio)
 
- Explicar a los estudiantes el funcionamiento de avenza maps. Levantar las coordenadas de las cestas de basura de la universidad (o cualquier otra temática). Se pedirá que cada estudiante cargue por lo menos 20 cestas.
+Explicar a los estudiantes el funcionamiento de avenza maps. Levantar las coordenadas de las cestas de basura de la universidad (o cualquier otra temática). Se pedirá que cada estudiante cargue por lo menos 20 cestas.
 
 1. Clase teórica práctica
 
@@ -318,7 +316,7 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 [Kml](https://drive.google.com/file/d/1Y6BYE9tR_iP51qNKKQxPQmXzjcfGPY2y/view?usp=sharing)
 
 
-### Sesión 14 (25 y 27 de Febrero)
+### Sesión 14 (9 y 11 de Julio)
 
 1. Clase teórica práctica
 
@@ -333,11 +331,7 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 [Taller de apoyo](https://docs.google.com/document/d/1aXKl1sQuYDdWzmqJsw6qk6weoV_Xhewf/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 
-### Sesión Final (4 y 6 de Marzo)
+### Sesión Final (16 y 18 de Julio)
 
-Examen final 4 de marzo del 2024. Publicación de resultados finales: 6 de Marzo
-
-Acceda al examen final:
-[Examen](https://docs.google.com/forms/d/e/1FAIpQLSeP4p71Mw3MhI70llU9xCNXNjQ7KOUSBMxZpi3Qqws9PQrPIA/viewform)
-
+Examen final 16 de Julio del 2025. Publicación de resultados finales: 18 de Julio
 
