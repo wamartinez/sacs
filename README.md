@@ -1,15 +1,11 @@
 # SOFTWARE APLICADO A LAS CIENCIAS SOCIALES
 Profesor: William Martinez
 
-[Programa del curso](https://drive.google.com/file/d/1_wocxfCkRXPH32V4Pl56c1bIlOExD3Us/view?usp=sharing)
+[Programa del curso](https://drive.google.com/file/d/1cYd2DiH5pN-vaInPKQYsuie5boOcCmAZ/view?usp=sharing)
 
-[Calificaciones](https://drive.google.com/file/d/1bY7XVFHIeAW3bDyjXXoa3l5dHZ89Qpk8/view?usp=sharing)
+[Calificaciones](https://drive.google.com/file/d/14DxIMURtYmusAX0GEVAumLP41o3Kkqw_/view?usp=sharing)
 
-Clases de 9:00 a 11:00 am, los martes y jueves cada semana. Edificio 212 de ciencias humanas, salón 216 
-
-Tutorias:
-[Viernes,4:00 – 4:45pm](https://meet.google.com/vjd-owas-tfc)
-
+Clases de 7:00 a 9:00 am, los miercoles y viernes cada semana. Aula TIC A
 
 ## Módulo I: Alfabetización digital: búsqueda efectiva de información 
 ### Sesión 1 (2 de abril y 4 de abril)
