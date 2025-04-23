@@ -48,8 +48,10 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    - Busquedas efectivas en gestores de información [Presentación](https://docs.google.com/presentation/d/1AZIP3G35uZ_JvJ4FritEfwKkenrwDXxU/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 2. Taller
-
-   El taller busca evaluar los conocimientos obtenidos en la clase teórica - práctica.
+   - Experiencia con [bibliometrix](https://www.bibliometrix.org/home/index.php/component/sppagebuilder/page/20#)
+     Para esto use R studio, consulte su instalación en este video
+     Tras la instalación, 
+   - Evaluación de conocimientos obtenidos
    [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScatqL1cs0sXECi7AgqdnY-RD5pHhHVI4DeSc7CBncSOyb4Ng/viewform?usp=sf_link)
    
 **Material de apoyo**
@@ -58,8 +60,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
 
 **Videos de apoyo** 
 
-   - [Video 1](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
-   - [Video 2](https://drive.google.com/drive/u/0/folders/1ZtCEzyF-YReu7tp43Ta9fbpv73m21vLH)
+   - [Video 1](https://www.youtube.com/watch?v=bYQk9gk5hyI)
 
 ### Sesión 3 (23 y 25 de Abril)
 
