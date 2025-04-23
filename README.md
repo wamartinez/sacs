@@ -25,7 +25,7 @@ Introducir el programa del curso a los estudiantes y evaluar sus capacidades en 
 3. Enseñar la instalación de office 365 en los equipos personales de los estudiantes [Instructivo](https://drive.google.com/file/d/1Lh9AFXaxTk81FJFtmuviI-fQAk__O_aB/view?usp=sharing) o revise el [tutorial](https://www.youtube.com/watch?v=ARtoXM9iwAA) de instalación de la División de bibiliotecas de la UNAL
 
 
-5. Taller One Drive
+5. Taller One Drive para la casa
 
 - Ejercicio 1: Crear una carpeta compartida para un proyecto de equipo y configurar permisos.
 
@@ -48,9 +48,7 @@ Enseñar a los estudiantes cómo elaborar búsquedas efectivas en gestores bibli
    - Busquedas efectivas en gestores de información [Presentación](https://docs.google.com/presentation/d/1AZIP3G35uZ_JvJ4FritEfwKkenrwDXxU/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 2. Taller
-   - Experiencia con [bibliometrix](https://www.bibliometrix.org/home/index.php/component/sppagebuilder/page/20#)
-     Para esto use R studio, consulte su instalación en este video
-     Tras la instalación, 
+   - Experiencia con [Bibliometrix](https://docs.google.com/document/d/1PYmaCNelCYzUFkET3CcoDSWbl4lxCgZW/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
    - Evaluación de conocimientos obtenidos
    [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScatqL1cs0sXECi7AgqdnY-RD5pHhHVI4DeSc7CBncSOyb4Ng/viewform?usp=sf_link)
    
