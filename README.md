@@ -98,7 +98,9 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
 
 **Material de apoyo** 
+   - Instalación [Zotero](https://www.zotero.org/support/) 
    - Plugin Zotero en Word [Word zotero](https://docs.google.com/document/d/15ViI0wxh_S9RFKND0WMenkEeiW99oJxo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+   - Instalar [ZotFile](https://cdc.sociales.unc.edu.ar/almacenamiento-y-gestion-de-archivos-en-zotero-via-zotfile)
 
 ### Sesión 5 (7 y 9 de Mayo)
 
