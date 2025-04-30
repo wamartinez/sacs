@@ -126,7 +126,7 @@ Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
 El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras. Este ensayo viene con dos anexos, uno el video de min y otro el mapa mental.
 Fecha de entrega: 21 de enero del 2025
 
-   * Guía para el desarrollo del taller [link](https://docs.google.com/document/d/1qLz46Q-7yC57yRrUw9k1dZuCjz5r43g6/edit?usp=drive_link&ouid=106849738369876125671&rtpof=true&sd=true).
+   * Guía para el desarrollo del taller [link] <!--  (https://docs.google.com/document/d/1qLz46Q-7yC57yRrUw9k1dZuCjz5r43g6/edit?usp=drive_link&ouid=106849738369876125671&rtpof=true&sd=true).  -->
    * Subir ensayo y anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/edit?pli=1).
 
 **Material de apoyo**
