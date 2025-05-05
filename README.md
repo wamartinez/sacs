@@ -86,13 +86,9 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
    * Explicar qué se entiende por citación y sus estructura en un documento científico [Presentación](https://docs.google.com/presentation/d/11oy-TXfPvC725tZjPzoAvC-QnAAXWRiK/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-**Video de apoyo**
-
-   -[Videos](https://drive.google.com/drive/u/0/folders/1aIVlugw8oNJPh-AEr3aG4AEH-zW47HRR)
-
 2. Clase teórica práctica
 
-   * Presentar los distintos tipos de citaciones [ejemplo de clase](https://docs.google.com/document/d/1GjaEDqmkPKkJC-2UlL1O2zU38H3QAjmG/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+   * Presentar el funcionamiento de Zotero y Mendeley [ejemplo de clase](https://docs.google.com/document/d/1GjaEDqmkPKkJC-2UlL1O2zU38H3QAjmG/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 **Material de apoyo** 
    - Instalación [Zotero](https://www.zotero.org/support/) 
