@@ -206,7 +206,7 @@ Aprender a trabajar en R para obtener estadísticas básicas de datos previament
 
 Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. Si los estudiantes deseean entregar elementos en R deben también ser entregados en Excel.
 
-    * Subir los documentos en word respondiento los dos talleres de este modulo. El link para subir los documentos es el siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
+* Subir los documentos en word respondiento los dos talleres de este modulo. El link para subir los documentos es el siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
 **Ejercicio**
 * Taller P2 descargue Tabla: [Link](https://docs.google.com/spreadsheets/d/11VGqhYTt7Y2drGl1kl3kTCNbwjcp7zq5/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
@@ -215,7 +215,7 @@ Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en g
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
-  <!--  * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)-->
+
 
 
 ## Módulo IV: Herramientas ofimáticas II: Visualización de datos geoespaciales.
