@@ -103,20 +103,17 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
    - Video [Clase primera parte](https://drive.google.com/file/d/1Ag_JCywpVPuJyjgwbD6Qx7g26BUzYkx7/view?usp=sharing)
    - Video [Clase segunda parte](https://drive.google.com/file/d/1jpjR0i49-00377D69aXzMDNJ26n66_0W/view?usp=sharing)
 
+**Material de externo** 
+   - [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s)
+   - [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
+
+
 ### Sesión 5 (7 y 9 de Mayo)
 
 Implementar un taller con el propósito que el estudiante aplique y acondicione su equipo de trabajo con el gestor bibliográfico seleccionado (Mendeley o Zotero) y facilite el uso adecuado de las referencias que generará en el transcurso del semestre.
 
    * [Descargar material taller](https://docs.google.com/document/d/1mVvuirLftEJXU4PkX_R0tkeFvpz9RBs7/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
    * Subir [Taller](https://docs.google.com/forms/d/1DOplQ86JX_xKReDqvgU_4Sl1l5VTBm7B0GwzL22rlq4/edit)
-
-**Material de apoyo**
-
-* [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s), [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo),
-
-**Video de la clase**
-
-   -[Videos](https://drive.google.com/drive/u/0/folders/10oN3xubX46dD8Bf0oIjJCyXz6P0aXby5)
 
 
 ## Módulo II Herramientas ofimáticas I: Competencias lectoras-escritoras en word 
