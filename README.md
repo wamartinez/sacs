@@ -74,9 +74,7 @@ Enseñar a los estudiantes cómo establecer credibilidad en las fuentes de infor
 
 El taller busca evaluar los conocimientos obtenidos en la clase teórica [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScUrvRmdEGpGy20ME7hDbm5hnX_q7RcBeojHfYgphqIodupBg/viewform)
 
-**Video de apoyo**
-
-   -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link)
+  <!--  -[Video](https://drive.google.com/drive/folders/1OMcae7giUgQMy6FLqvMz8kdDinwLgTQG?usp=drive_link) -->
 
 ### Sesión 4 (30 de abril y 2 de mayo)
 
@@ -118,18 +116,7 @@ Implementar un taller con el propósito que el estudiante aplique y acondicione 
 
 ## Módulo II Herramientas ofimáticas I: Competencias lectoras-escritoras en word 
 
-Fortalecer al estudiante en la escritura académica mediante el uso de herramientas de video y de mapas mentales
-Fortalecer al estudiante en en el uso de word para la elaboración del ensayo.
-
-El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras. Este ensayo viene con dos anexos, uno el video de min y otro el mapa mental.
-Fecha de entrega: 21 de enero del 2025
-
-   * Guía para el desarrollo del taller [link] <!--  (https://docs.google.com/document/d/1qLz46Q-7yC57yRrUw9k1dZuCjz5r43g6/edit?usp=drive_link&ouid=106849738369876125671&rtpof=true&sd=true).  -->
-   * Subir ensayo y anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/edit?pli=1).
-
-**Material de apoyo**
-   * Normas APA 7ma edición [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
-   * Normas Chicago Autor-fecha [Link](https://drive.google.com/file/d/1_NhG9NYhECoCerKKRx5t9b51tm0i2zpp/view?usp=sharing)
+Continuar con el fortalecimiento del estudiante en su escritura académica, esto en la elaboración de un ensayo.
 
 ### Sesión 6 (14 y 16 Mayo)
 
@@ -138,58 +125,35 @@ El estudiante identificará los componentes de un ensayo, los usos y funciones d
 **Actividades**
 
 1. Clase teórica.
-   * [Características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
-   * [Cómo hacer un ensayo](https://docs.google.com/presentation/d/1P3m6hHn440XASZ6q04vSEgpq9IchNWdo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+   * Revisar las [características de un resumen científico](https://docs.google.com/presentation/d/1glVAXGtwc37hKrdI3fB5Bp1AQnlGk0bL/edit?pli=1#slide=id.p6)
+   * Revisar [cómo hacer un ensayo](https://docs.google.com/presentation/d/1P3m6hHn440XASZ6q04vSEgpq9IchNWdo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-3. Clase práctica.
+2. Clase práctica sobre la planificación del ensayo.
+   *  El uso de [conectores](https://drive.google.com/file/d/1DagvY-SpBJNKYeQSTb6BokQHfkTrXrN7/view?usp=sharing)
+   *  Uso de OBS básico para la grabación de tutoriales, presentaciones o ensayos.
+   *  Mapa conceptual de un ensayo, para esto usar el ejemplo de mapa mental Pdf [Link](https://drive.google.com/file/d/1ybyIVXvFEPAAcZJswG7m2iyIsnMVUQw9/view?usp=sharing), basado en el ensayo [Link](https://docs.google.com/document/d/1HU6QLIO-vW14hcoEuypIjwdoT4LI8uwB/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+   * Incorporación de referencias cruzadas y otro elementos en word [Ejemplo](https://docs.google.com/document/d/1JL_a6xcVXaWhm4IBzKS7Z3dm5b1qGVHP/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-   Planificar el ensayo mediante el uso de MINDOMO
-   * Mapas mentales
-   * Ejemplo de mapa mental Mindomo [Link](https://drive.google.com/file/d/1ybuc-g6qrHNlLvNeCBHbyC1IN0SlmpkD/view?usp=sharing)
-   * Ejemplo de mapa mental Pdf [Link](https://drive.google.com/file/d/1ybyIVXvFEPAAcZJswG7m2iyIsnMVUQw9/view?usp=sharing)
-   * Ensayo de ejemplo [Link](https://docs.google.com/document/d/1HU6QLIO-vW14hcoEuypIjwdoT4LI8uwB/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
-   
 **Material de apoyo**
-* Cómo planificar un ensayo usando MINDOMO [Link](https://www.mindomo.com/blog/how-to-make-an-outline-for-an-essay/)
-   * [Ejemplo figuras](https://docs.google.com/document/d/1JL_a6xcVXaWhm4IBzKS7Z3dm5b1qGVHP/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+
    * [El uso de las comas](https://drive.google.com/file/d/1qnXh23uPXqBBjbuLgMuWHOhjMo2iAB1G/view?usp=sharing)
    * [Ejemplo del testamento](https://github.com/wamartinez/sacs/blob/main/Modulo3/Testamento.pdf)
-   
-<!--    
-**Video de la clase**
-* [Videos](https://drive.google.com/drive/folders/13FQvAc2o9wkcAv9c2PanQ7i6OPRxmNim?usp=drive_link)
--->
+   * Consulte [OBS](https://obsproject.com/)
+
 
 ### Sesión 7 (21 y 23 Mayo)
 
-El estudiante conocerá los elementos básicos de OBS para el autograbado y Shotcut para la edición. Con esto los estudiantes deberán autograbarse por 5 minutos explicando el desarrollo del ensayo.
+El estudiante deberá preparar un ensayo entre 1000 y 1500 palabras. Este ensayo viene con dos anexos, uno el video de min y otro el mapa mental.
+Fecha de entrega: 30 de Mayo del 2025
 
-1. Clase práctica.
-   Uso de OBS básico para la grabación de tutoriales, presentaciones o ensayos.
-
-2. Clase práctica.
-   Uso de shotcut para la edición básica de videos.
+   * Guía para el desarrollo del taller [link](https://docs.google.com/document/d/1qLz46Q-7yC57yRrUw9k1dZuCjz5r43g6/edit?usp=drive_link&ouid=106849738369876125671&rtpof=true&sd=true).
+   * Subir ensayo y anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/edit?pli=1).
 
 **Material de apoyo**
+   * Normas APA 7ma edición [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
+   * Normas Chicago Autor-fecha [Link](https://drive.google.com/file/d/1_NhG9NYhECoCerKKRx5t9b51tm0i2zpp/view?usp=sharing)
 
-* Consulte [OBS](https://obsproject.com/)
-* Tutoriales [Shotcut](https://shotcut.org/)
-* Descargar [VLC](https://www.videolan.org/vlc/download-windows.es.html)
-* Material [Videos](https://drive.google.com/drive/folders/1arLvnAeZYVHs0NskGsD-0uFVhXe1pMiv?usp=sharing)
-
-
-**Video y tutorial de la clase**
-
-   -[Videos](https://drive.google.com/drive/folders/1Ptm33awWQgyI1CcBX7iOKtd7KwihCbut?usp=drive_link)
-   -[Tutorial shotcut](https://shotcutvideo.com/manual-basico/)
-
-
-## Módulo III: Herramientas ofimáticas I: Excel
-
-Durante este Módulo el estudiante conocerá elementos básicos para el procesamiento de datos usando software como Excel.
-
-Entregable final
-   * Subir los documentos en word respondiento los dos talleres de este modulo. El link para subir los documentos es el siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
+## Módulo III: Herramientas ofimáticas I: Excel y R básico
 
 ### Sesión 8 (28 y 30 de Mayo)
 
@@ -234,22 +198,19 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
 ### Sesión 10 (11 y 13 de Junio)
 
-Aprender a trabajar con documentos de Google.
-   
-   * Hacer funcional documento de Google mediante la adición de tablas, gráficas y citas bibliográficas.
-   * Base de datos ejercicio precio de la gasolina en Colombia [link](https://www.indexmundi.com/es/precios-de-mercado/?mercancia=gasolina&meses=300&moneda=cop)
+Aprender a trabajar en R para obtener estadísticas básicas de datos previamente revisados desde excel.
 
-Actividad Práctica
-
-   * Desarrollo de Taller Modulo 3.
+   * Cómo funciona R
+   * Obtener estadísticas básicas desde R
 
 **Material de apoyo**
-   
-   * [Videos](https://drive.google.com/drive/folders/12tMHwhv3pTXysvz0DvHe3M3UoXxRknj2?usp=share_link)
+*Instalación de R
 
 ### Sesión 11 (18 y 20 de Junio)
 
-   Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana.
+Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. Si los estudiantes deseean entregar elementos en R deben también ser entregados en Excel.
+
+    * Subir los documentos en word respondiento los dos talleres de este modulo. El link para subir los documentos es el siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
 **Ejercicio**
 * Taller P2 descargue Tabla: [Link](https://docs.google.com/spreadsheets/d/11VGqhYTt7Y2drGl1kl3kTCNbwjcp7zq5/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
@@ -258,12 +219,12 @@ Actividad Práctica
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
-* [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)
+  <!--  * [Video Clase](https://drive.google.com/drive/folders/1k4_5H9uBzx_sRY-jeXpKZAM1P20W7Y83?usp=drive_link)-->
+
 
 ## Módulo IV: Herramientas ofimáticas II: Visualización de datos geoespaciales.
 
 El estudiante adquirirá una comprensión básica del concepto de espacialización de coordenadas, así como el procedimiento de cargar fotografías y atributos a dicha ubicación.
-
 
 ### Sesión 12 (25 y 27 de Junio)
 
