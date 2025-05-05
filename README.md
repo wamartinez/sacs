@@ -96,12 +96,12 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
 
    * Presentar los distintos tipos de citaciones [ejemplo de clase](https://docs.google.com/document/d/1GjaEDqmkPKkJC-2UlL1O2zU38H3QAjmG/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
-
 **Material de apoyo** 
    - Instalación [Zotero](https://www.zotero.org/support/) 
    - Plugin Zotero en Word [Word zotero](https://docs.google.com/document/d/15ViI0wxh_S9RFKND0WMenkEeiW99oJxo/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
    - Instalar [ZotFile](https://cdc.sociales.unc.edu.ar/almacenamiento-y-gestion-de-archivos-en-zotero-via-zotfile)
-   - Video [Clase](https://drive.google.com/file/d/1Ag_JCywpVPuJyjgwbD6Qx7g26BUzYkx7/view?usp=sharing)
+   - Video [Clase primera parte](https://drive.google.com/file/d/1Ag_JCywpVPuJyjgwbD6Qx7g26BUzYkx7/view?usp=sharing)
+   - Video [Clase segunda parte](https://drive.google.com/file/d/1jpjR0i49-00377D69aXzMDNJ26n66_0W/view?usp=sharing)
 
 ### Sesión 5 (7 y 9 de Mayo)
 
