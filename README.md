@@ -103,7 +103,7 @@ Gestión de la información bibliográfica usando Zotero y Mendeley.
    - Video [Clase primera parte](https://drive.google.com/file/d/1Ag_JCywpVPuJyjgwbD6Qx7g26BUzYkx7/view?usp=sharing)
    - Video [Clase segunda parte](https://drive.google.com/file/d/1jpjR0i49-00377D69aXzMDNJ26n66_0W/view?usp=sharing)
 
-**Material de externo** 
+**Material externo** 
    - [Tutorial Mendeley](https://www.youtube.com/watch?v=BdOrncz0NYQ&t=373s)
    - [Tutorial Zotero](https://www.youtube.com/watch?v=7PV21-1JLvo)
 
