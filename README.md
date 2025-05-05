@@ -157,7 +157,7 @@ Fecha de entrega: 30 de Mayo del 2025
 
 ### Sesión 8 (28 y 30 de Mayo)
 
-Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada.
+Introducción a Excel con enfoque en la sistematización del conocimiento para el manejo de fórmulas, busqueda de datos y condicionales. Necesarios, para la construcción de reportes profesionales desde una perspectiva analítica de la información procesada. Así mismo realizar un reconocimento básico de R como software estadístico.
 
 **Actividades**
 
@@ -176,7 +176,7 @@ El estudiante aprenderá lo siguiente:
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
-* [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)
+<!--* [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)-->
 
 ### Sesión 9 (4 y 6 de Junio)
 
@@ -189,8 +189,7 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 **Material de apoyo**
 * [Datos](http://dhime.ideam.gov.co/atencionciudadano)
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
-* [Video clase](https://drive.google.com/drive/folders/1vDVTt_gkhuRe1z3hAdrpEmQBe7_1yDnN?usp=drive_link)
-
+<!--* [Video clase](https://drive.google.com/drive/folders/1vDVTt_gkhuRe1z3hAdrpEmQBe7_1yDnN?usp=drive_link)-->
 
 **Ejercicio**
 * Taller P1 descargue Tabla: [Link](https://drive.google.com/file/d/1mKgWe0__SVAU2Mq_43mfkU04hZ3zqjur/view?usp=sharing)
@@ -204,7 +203,8 @@ Aprender a trabajar en R para obtener estadísticas básicas de datos previament
    * Obtener estadísticas básicas desde R
 
 **Material de apoyo**
-*Instalación de R
+
+   *Instalación de R
 
 ### Sesión 11 (18 y 20 de Junio)
 
