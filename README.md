@@ -146,6 +146,8 @@ Fecha de entrega: 30 de Mayo del 2025
    * Subir ensayo y anexos [link](https://docs.google.com/forms/d/12HMzcEUUl69QeNd0e1rvF4z9pw0pdsn51jc9UxEptwg/edit?pli=1).
 
 **Material de apoyo**
+
+   * Tutoral OBS [Link](https://drive.google.com/file/d/1IeXm_J3v3Z8VzTsX0zbZHM2oHVYlHUq3/view?usp=sharing)
    * Normas APA 7ma edición [Link](https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf)
    * Normas Chicago Autor-fecha [Link](https://drive.google.com/file/d/1_NhG9NYhECoCerKKRx5t9b51tm0i2zpp/view?usp=sharing)
 
