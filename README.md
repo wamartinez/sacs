@@ -169,7 +169,9 @@ El estudiante aprenderá lo siguiente:
    * Insertar comentarios e hipervínculos
    * Funciones de búsqueda, lógicas y estadísticas
    * Concatenar celdas
-   * Crear gráficas en hoja de cálculo de Google
+   * Tablas dinámicas
+   * Insertar formato y filtros condicionales
+   * Crear gráficas en Excel
 
 **Material de apoyo**
 
@@ -178,11 +180,7 @@ El estudiante aprenderá lo siguiente:
 
 ### Sesión 9 (4 y 6 de Junio)
 
-Continuar con el aprendizaje de Excel en los siguientes aspectos:
-
-   * Tablas dinámicas
-   * Insertar formato y filtros condicionales
-   * Crear gráficas en Excel
++++++++++++++++++++++++++++++++++++++++
 
 **Material de apoyo**
 * [Datos](http://dhime.ideam.gov.co/atencionciudadano)
@@ -191,8 +189,11 @@ Continuar con el aprendizaje de Excel en los siguientes aspectos:
 
 **Ejercicio**
 * Taller P1 descargue las Tabla:
+  
   [Tabla 1](https://drive.google.com/file/d/1mKgWe0__SVAU2Mq_43mfkU04hZ3zqjur/view?usp=sharing)
+  
   [Tabla 2](https://docs.google.com/spreadsheets/d/1umC9tfOjfQWachC1JcWIczWttQ7KgoB3/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
+  
 * Taller P1 descargue Documento guía: [Link](https://docs.google.com/document/d/1rQF7Ad9YD71gC_fFQpnzyayAy2AMPj-h/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 ### Sesión 10 (11 y 13 de Junio)
