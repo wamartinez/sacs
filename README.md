@@ -205,7 +205,7 @@ Aprender a trabajar en R para obtener estadísticas básicas de datos previament
 
 **Material de apoyo**
 
-   *Instalación de R
+* Documento guía: [Ejercicio con tidyverse](https://wamartinez.github.io/sacs/blob/main/Modulo3/ejercicio_tidyverse_variedades.html)
 
 ### Sesión 11 (18 y 20 de Junio)
 
