@@ -180,7 +180,7 @@ El estudiante aprenderá lo siguiente:
 
 ### Sesión 9 (4 y 6 de Junio)
 
-+++++++++++++++++++++++++++++++++++++++
+Esta semana se desorrollará el taller P1 del módulo III. Trabaje de manera individual.
 
 **Material de apoyo**
 * [Datos](http://dhime.ideam.gov.co/atencionciudadano)
@@ -209,7 +209,7 @@ Aprender a trabajar en R para obtener estadísticas básicas de datos previament
 
 ### Sesión 11 (18 y 20 de Junio)
 
-Durante el desarrollo del Taller del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. Si los estudiantes deseean entregar elementos en R deben también ser entregados en Excel.
+Durante el desarrollo del Taller 2 del Módulo 3, los estudiantes trabajarán en grupos de dos para aplicar sus conocimientos previos en el manejo de tablas de Excel para analizar datos demográficos de la población colombiana. Si los estudiantes deseean entregar elementos en R deben también ser entregados en Excel.
 
 * Subir los documentos en word respondiento los dos talleres de este modulo. El link para subir los documentos es el siguiente [link](https://docs.google.com/forms/d/1RPC3cI1-tMfMCenFHWb_a08qWPARGC8HfarYG0-f2pY/edit).
 
