@@ -176,6 +176,7 @@ El estudiante aprenderá lo siguiente:
 **Material de apoyo**
 
 * [Video tutoriales de Microsoft](https://support.microsoft.com/es-es/office/aprendizajes-en-v%C3%ADdeo-de-Excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+* [Video clase](https://docs.google.com/presentation/d/1KbC2jp-HIQ0TvQ9cW74ZWMpdyjDPdPjL/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 <!--* [Videos](https://drive.google.com/drive/folders/1L4hBkvpKodcL_ubkfQbDEveTddAEVzKr?usp=drive_link)-->
 
 ### Sesión 9 (4 y 6 de Junio)
