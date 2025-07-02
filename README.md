@@ -256,17 +256,21 @@ https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/til
 
 ### Sesión 13 (2 y 4 de Julio)
 
-Explicar a los estudiantes el funcionamiento de avenza maps. Levantar las coordenadas de las cestas de basura de la universidad (o cualquier otra temática). Se pedirá que cada estudiante cargue por lo menos 20 cestas.
+Explicar a los estudiantes el funcionamiento de avenza maps. Levantar las coordenadas de las cestas de basura de la universidad (o cualquier otra temática). Se pedirá que cada estudiante cargue por lo menos 30 cestas. Así mismo conocerán como realizar un geovisor simple.
 
 1. Clase teórica práctica
 
 * Los estudiantes recolectarán puntos en la universidad Nacional de una temática de interés.
+
+2. Crear mapa de densidad y geovisor simple ().
 
 <!-- 
 EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/document/d/1OQrx7feLqPe42-B-eSQceTbyjOBwHD6E/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 -->
 
 **Material de apoyo**
+[Mapa base UNAL](https://drive.google.com/file/d/1n_CtnL4fXbgSoH34XshL2kUWOOF4mZ4Q/view?usp=sharing)
+
 [Avenza maps para Android e IOS](https://play.google.com/store/apps/details?id=com.Avenza&hl=en_US&pli=1)
 
 [Tutorial avenza](https://drive.google.com/drive/folders/1NwliH19zGTR05bAhwCt5-cw_g9KawDuX?usp=sharing)
@@ -276,17 +280,6 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 
 ### Sesión 14 (9 y 11 de Julio)
 
-1. Clase teórica práctica
-
-  * Cargar capas vectoriales en QGIS. Se cargarán las coordenadas de aptitud de papa para Colombia. Se explicará el geoproceso en QGIS para realizar una integración de la información recopilada.
-
-  * Crear mapa de densidad de Aptitud de papa.
-  
-  * Buscar replicar el mismo ejercicio con los datos trabajados en campo 
-
-
-**Material de apoyo**
-[Taller de apoyo](https://docs.google.com/document/d/1aXKl1sQuYDdWzmqJsw6qk6weoV_Xhewf/edit?usp=sharing&ouid=106849738369876125671&rtpof=true&sd=true)
 
 
 ### Sesión Final (16 y 18 de Julio)
