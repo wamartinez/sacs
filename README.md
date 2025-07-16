@@ -286,3 +286,6 @@ EL taller a desarrollar es el siguiente:  [Taller](https://docs.google.com/docum
 
 Examen final 16 de Julio del 2025. Publicación de resultados finales: 18 de Julio
 
+<!-- 
+Acceda al examen final:  [Examen](https://docs.google.com/forms/d/e/1FAIpQLSeP4p71Mw3MhI70llU9xCNXNjQ7KOUSBMxZpi3Qqws9PQrPIA/viewform)
+-->
